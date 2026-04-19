@@ -1,0 +1,451 @@
+{
+  "date": "2026-04-20",
+  "compared_to": "2026-04-19",
+  "top_gains": [
+    {
+      "metric": "news_noah_en",
+      "label": "Noah Holdings 英文媒体提及",
+      "category": "brand_core",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_olive",
+      "label": "Olive 子品牌曝光",
+      "category": "sub_brand",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_ark",
+      "label": "ARK Wealth 子品牌曝光",
+      "category": "sub_brand",
+      "today": 6,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    }
+  ],
+  "top_losses": [
+    {
+      "metric": "news_arta",
+      "label": "Arta Finance 竞品声量",
+      "category": "competitor",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_ubs_apac",
+      "label": "UBS 亚太竞品声量",
+      "category": "competitor",
+      "today": 5,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    }
+  ],
+  "all_changes": [
+    {
+      "metric": "news_noah_en",
+      "label": "Noah Holdings 英文媒体提及",
+      "category": "brand_core",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_noah_zh",
+      "label": "诺亚财富中文媒体提及",
+      "category": "brand_core",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_olive",
+      "label": "Olive 子品牌曝光",
+      "category": "sub_brand",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_ark",
+      "label": "ARK Wealth 子品牌曝光",
+      "category": "sub_brand",
+      "today": 6,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_gopher",
+      "label": "歌斐 Gopher 子品牌曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_glory",
+      "label": "荣耀传承 Glory 子品牌曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_iark",
+      "label": "iARK 平台曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_norah",
+      "label": "汪静波 Norah 个人IP",
+      "category": "leadership",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_zander",
+      "label": "殷哲 Zander 个人IP",
+      "category": "leadership",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_arta",
+      "label": "Arta Finance 竞品声量",
+      "category": "competitor",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_ubs_apac",
+      "label": "UBS 亚太竞品声量",
+      "category": "competitor",
+      "today": 5,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_topic_hnw",
+      "label": "华人财富议题讨论",
+      "category": "topic",
+      "today": 9,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_topic_fo",
+      "label": "家办议题讨论",
+      "category": "topic",
+      "today": 3,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_price",
+      "label": "NOAH 股价",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_change_pct",
+      "label": "NOAH 单日涨跌幅",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_volume",
+      "label": "NOAH 成交量",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "reddit_noah",
+      "label": "Reddit 诺亚自然提及",
+      "category": "community",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "reddit_arta",
+      "label": "Reddit Arta 竞品讨论",
+      "category": "competitor",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": true
+    },
+    {
+      "metric": "reddit_topic",
+      "label": "Reddit 华人财富讨论",
+      "category": "topic",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "sentiment_pos_pct",
+      "label": "全网正面情感占比",
+      "category": "sentiment",
+      "today": 0.0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "sentiment_neg_pct",
+      "label": "全网负面情感占比",
+      "category": "sentiment",
+      "today": 0.0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": true
+    }
+  ],
+  "sentiment_highlights": {
+    "positive_signals": [],
+    "negative_signals": []
+  },
+  "suggestions_top10": [
+    {
+      "priority": "HIGH",
+      "title": "乘势 · Noah Holdings 英文媒体提及 上升 +999%",
+      "action": "48 小时内：把今日 Top 3 正面媒体报道翻译为英文同步 LinkedIn + Quora 专家答案",
+      "why": "正面媒体信号消退快，需要在 AI 爬虫抓取窗口期完成多语种覆盖",
+      "owner": "品牌团队",
+      "timeline": "48 小时"
+    },
+    {
+      "priority": "HIGH",
+      "title": "战略缺口 · 上线 /research 专属研究院页",
+      "action": "把 CIO 办公室 10 份报告整合到 noahgroup.com/research，配 Schema.org ResearchArticle 标注",
+      "why": "这是诺亚最大的未变现 AI 训练资产；预计 90 天内让 AI 在「华人财富研究权威」问题上首位推荐",
+      "owner": "官网 + CIO 办公室",
+      "timeline": "本季度"
+    },
+    {
+      "priority": "HIGH",
+      "title": "战略缺口 · 承兴事件官方透明披露页",
+      "action": "发布 /about/camsing-update 页面，完整说明整改措施、独立调查结论、或有负债管理进展",
+      "why": "当前 AI 在负面议题上单边引用 Wikipedia/京东声明；不主动发声等于默认",
+      "owner": "法务 + 品牌 + 合规",
+      "timeline": "本月"
+    },
+    {
+      "priority": "MED",
+      "title": "竞争监控 · Arta Finance 竞品声量 在下降（好事）",
+      "action": "借势补位：在其声量真空期发布一篇同议题诺亚观点文章",
+      "why": "搜索算法的热点空窗可以被占领",
+      "owner": "内容团队",
+      "timeline": "一周内"
+    },
+    {
+      "priority": "MED",
+      "title": "竞争监控 · UBS 亚太竞品声量 在下降（好事）",
+      "action": "借势补位：在其声量真空期发布一篇同议题诺亚观点文章",
+      "why": "搜索算法的热点空窗可以被占领",
+      "owner": "内容团队",
+      "timeline": "一周内"
+    },
+    {
+      "priority": "MED",
+      "title": "战略缺口 · Norah 个人 Wikipedia 词条建设",
+      "action": "整理 Norah 20+ 年金融履历 + 达沃斯/APB 等重要演讲记录，建立英文 Wiki 词条",
+      "why": "Norah 的 Wisdom Beyond Wealth 概念需要权威信源背书才能进入 AI 训练集",
+      "owner": "品牌 + 内部传记团队",
+      "timeline": "45 天"
+    },
+    {
+      "priority": "MED",
+      "title": "内容复用 · 把 Asian Private Banker Norah 专访金句多平台化",
+      "action": "提炼 5 条核心金句，转为 LinkedIn 英文贴文 + Quora 专家答案 + 微信公众号推文",
+      "why": "专访内容在付费墙内，AI 抓不到；必须显形化",
+      "owner": "内容运营",
+      "timeline": "2 周"
+    },
+    {
+      "priority": "LOW",
+      "title": "持续观察 · 监测 Arta Finance Group CEO 过渡期动作",
+      "action": "追踪 Felix Lin 上任后前 90 天的品牌定位变化",
+      "why": "竞品领导层变动期是插位的最佳窗口",
+      "owner": "竞品情报",
+      "timeline": "90 天跟踪"
+    },
+    {
+      "priority": "LOW",
+      "title": "基础设施 · 检查 robots.txt 对 GPTBot / ClaudeBot / PerplexityBot 放行",
+      "action": "技术团队 10 分钟即可完成",
+      "why": "AI 爬虫放行是零成本最高杠杆动作",
+      "owner": "技术",
+      "timeline": "本周"
+    }
+  ],
+  "raw_stock": {
+    "error": "no data"
+  },
+  "raw_sentiment": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0,
+    "total": 1,
+    "pos_pct": 0.0,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is wealth management growth strong enough to drive sustained upsi - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3FJbW53MS1LTm82bHdFRk9yQmt1d000UGJ1S3Jpb0RQTUpTTGhKSFBsYm9fSlMzQ3lwOXRIU2F6YzRndVB1RjJhSU9uQldzYWxrck1uR0diZ3dpbTBzQmNTMU1ieHdwbEhnUVJLbkdlVDdVbmZEUXVrX2tQSkZjZ0J0dGtGRFNBSEhaSnNkLW9kMFJjbHZhYUJkb24yaXk1M3FwNTVvUkR1eEp0cUpKT1UyVmxxRGFLV25Tbg?oc=5",
+      "published": "Sun, 19 Apr 2026 07:56:18 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "Futu Holdings Ltd stock (US3611381016): Is its brokerage growth strong enough to sustain upside for - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWh6RVlJdjJDUmRzOU9xbW94c3hFYlpBUmdOYnZhSGVSRklTSWhoQnYyMEQ4UWFJZU93SUMwaDZyYWJWejJfWnZyNEZyaHhiNlV1ZUlXellDWDJrMzhnY1dyeFdCOUxlRS1EM0tFZUl5cktRQjlVQ1FEbFZiaUJrNWFYQnpUMVpPXzdnZlNhSlc2ZUplc1V0X2JiQ2k1YTVmUmVqcUxUYTAtUl80ZHNKS0hubjg4OXR1UkJKdmpkVDJtd05G?oc=5",
+      "published": "Sun, 19 Apr 2026 09:38:13 GMT",
+      "source": "AD HOC NEWS",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management shift strong enough to drive lasting ups - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMk1ZRWdFekpTbjVZeGpOc0o1LUFXd1h3LVkzSXBzRHZ6ZVBma2ZtOXR0WWg5X25USEJoWFBnQ3hPQ2RuU3R3N21pQlEtR3hRUlFlQzU4ZUdRUi01RDdLODVhcmU0cWlNQUpQLTB3ZENWczdtcU1Yclczb3hnbXpad2hXU1FaVUNyNjJ0OVZUNG5RbU9PVl9jRzl5Rkk0NHNNZGxaQS1SU184cHFaX1ZBZHdWb2ltZXhPU1pIdGc0dGo?oc=5",
+      "published": "Sun, 19 Apr 2026 01:53:42 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management pivot strong enough to unlock new upside - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmoyS1ByWGlvUW9VcFAxUS1namxKdGRsRmxzeG5ONTd2bEo2WmFlU241S3ZrcUlMWW5DTmVnOVRkUzFSVy0wVEJmY1JTSU8xN2k2VDF3N1JpWHd0Q3dHSHU1SzNjWDJVYlNtU0Z1bXNCQmRmWHd5UUZmcTF1MlphZ1JWcFI0UG4tWE5zUDQ1aDI0a0pSUEVOdDJBRG1welF2VkkyQS1zMUhRSThrNDhDcUQtY09yYnFRTkhaWVBZNWM?oc=5",
+      "published": "Sun, 19 Apr 2026 04:55:27 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Bank of China Ltd stock (HK3988013175): Is its state-backed stability strong enough for global inves - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWlWZHlNN2lHeFp6bWZmZXdhc1M4eUhzMFBBeVdDaTdISTJmZk1UTU5LYUk1cnVEakppaDhiQ09BdEoxT0RpMTJaekRGSjRIakZaYUdxOFNmaU40amJ5WkdGdUZaZWwzZWVldGdwSTA3YzkxNTEwdmJJSVF1VERyTEE2X2ExWnJTV0xxdUhUQURpdWpMRzBkdFdIOTNUa011WkN0RFMyb1dnVHJ1Q0xhYVBSSlJpVHlxajNDNw?oc=5",
+      "published": "Sun, 19 Apr 2026 03:29:50 GMT",
+      "source": "AD HOC NEWS",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Bitcoin Falls to $76K as Iran Shuts Strait of Hormuz: Crypto Market Analysis - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblhGcW5vQ2lxSF9GVXdMbXFYdXRTMkZ6anZpdGRlNXhudmxvWGVEMzlYOEhpam5mMDJRXzdBb00zcnVRSnI3bjFmTEt6anQ5ZUE0dlZVdHRzVndtaFA5cmhOaTl2cU11UFNyT1B0UWRmalIwV2RRN2ZYVGFxcDZJOUF6SGRSQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 12:18:28 GMT",
+      "source": "Intellectia AI",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "40kg Olive Ridley sea turtle washes ashore in Kuakata - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVR0UFRXLVR6MS1hQmx0NEsxWjNfd1Z6TXFpMU92eW1BRHJ6dURjSkEtREhob3FHd2NJU1AzYUVHOXlyeUFYZy1WekdOQjh6OUdZWGktOG04UHRJVVlaRlZtQUJTWmpEMkdfenM4c1BtWUI4dXdzWnQyMG85TFVhU3dibXVqVzlVTTJoSHAyaEpab2VWMDFWMNIBngFBVV95cUxOWWhib05rdVk1dnhMRGZQbUgzamljdE8xZE1WbU12dDJvSmIzYm9CY0tNS1BFcjJNLWVpYjhZS29FaENsVENoamo5RUJaUWdNLVlyTEFqZVAtUy1wc3ZuaGktcHVDMTdqNkZxZVBLZlN2RlZQQ1JoRFNId1pJaWNxQV9IdzFTekNrcTRucFZPXzMwMHZLWUx0RUxWZ1lsQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 04:07:55 GMT",
+      "source": "The Business Standard",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Could Investing $500 a Month in ARKQ Make You a Millionaire? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wNE1NZEJkMTBHZ3V0REUzc0hBTFdMUXdCUWVwdlJlQ3pVdFBock5JTkl2NXB1a1NVcTRfczNxcFM2Rm9aMWJxX1VNVGI2enN2R1FVWUcwS0hVWHFBc2VtbG1EVjFPbjh4T2ZnWHViUFRudUFRalNpcFEyS1NCZw?oc=5",
+      "published": "Sun, 19 Apr 2026 02:50:58 GMT",
+      "source": "AOL.com",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Weaver Capital Management Sells Strive 500 ETF Shares - HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02aDBZa2RZYTJwNTdnd0VCS3FTVFowSU84c2J3UTd1dlZvdDVpSWRIVkRSYkNjM1UzbDRjeE51M0Jhd21ZakZrbE9paXRYa240YkRMdldOSjlTaTE5S3FjLVJWdEMxTi1KTDNwRE5fZVluQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 01:48:25 GMT",
+      "source": "HarianBasis.co",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Arta Finance Wealth Management LLC Makes New Investment in Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTNhYThNN25uRVJVM0tUUUNQTDRjUDUtaERoeFlocW4yRlRoSWdNY3AwbWZ3MVhkVDNrVnZzNXFpUWJuRjgtaUY0TVkwN0p6Ti04aEdhUERBcVNKbUpwODNKUmhvRG5zRThPcGMtU0lkZEh3dEIzZVc2ZnI2bnJnaWFoYThhck9EQWlLTGttY290QXlrSmQxRkZNbVhKdVFUdUdwSktGOWJVaVdGNWg3NGpId1JZR1RfbC02ODl1cUlfMTlYaC1raVJWNVFCMTl2amtCekRHelFsel9PNnpV?oc=5",
+      "published": "Sun, 19 Apr 2026 07:45:20 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}

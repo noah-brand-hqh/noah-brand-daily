@@ -1,0 +1,387 @@
+{
+  "date": "2026-04-20",
+  "collected_at": "2026-04-20T00:50:02.414117+08:00",
+  "metrics": {
+    "news_noah_en": 1,
+    "news_noah_zh": 0,
+    "news_olive": 1,
+    "news_ark": 6,
+    "news_gopher": 0,
+    "news_glory": 0,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 1,
+    "news_ubs_apac": 5,
+    "news_topic_hnw": 9,
+    "news_topic_fo": 3,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 0.0,
+    "sentiment_neg_pct": 0.0
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Bitcoin Falls to $76K as Iran Shuts Strait of Hormuz: Crypto Market Analysis - Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblhGcW5vQ2lxSF9GVXdMbXFYdXRTMkZ6anZpdGRlNXhudmxvWGVEMzlYOEhpam5mMDJRXzdBb00zcnVRSnI3bjFmTEt6anQ5ZUE0dlZVdHRzVndtaFA5cmhOaTl2cU11UFNyT1B0UWRmalIwV2RRN2ZYVGFxcDZJOUF6SGRSQQ?oc=5",
+          "published": "Sun, 19 Apr 2026 12:18:28 GMT",
+          "source": "Intellectia AI",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 0,
+      "items": []
+    },
+    "sub_olive": {
+      "count": 1,
+      "items": [
+        {
+          "title": "40kg Olive Ridley sea turtle washes ashore in Kuakata - The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVR0UFRXLVR6MS1hQmx0NEsxWjNfd1Z6TXFpMU92eW1BRHJ6dURjSkEtREhob3FHd2NJU1AzYUVHOXlyeUFYZy1WekdOQjh6OUdZWGktOG04UHRJVVlaRlZtQUJTWmpEMkdfenM4c1BtWUI4dXdzWnQyMG85TFVhU3dibXVqVzlVTTJoSHAyaEpab2VWMDFWMNIBngFBVV95cUxOWWhib05rdVk1dnhMRGZQbUgzamljdE8xZE1WbU12dDJvSmIzYm9CY0tNS1BFcjJNLWVpYjhZS29FaENsVENoamo5RUJaUWdNLVlyTEFqZVAtUy1wc3ZuaGktcHVDMTdqNkZxZVBLZlN2RlZQQ1JoRFNId1pJaWNxQV9IdzFTekNrcTRucFZPXzMwMHZLWUx0RUxWZ1lsQQ?oc=5",
+          "published": "Sun, 19 Apr 2026 04:07:55 GMT",
+          "source": "The Business Standard",
+          "query": "Olive Asset Management"
+        }
+      ]
+    },
+    "sub_ark": {
+      "count": 6,
+      "items": [
+        {
+          "title": "Could Investing $500 a Month in ARKQ Make You a Millionaire? - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wNE1NZEJkMTBHZ3V0REUzc0hBTFdMUXdCUWVwdlJlQ3pVdFBock5JTkl2NXB1a1NVcTRfczNxcFM2Rm9aMWJxX1VNVGI2enN2R1FVWUcwS0hVWHFBc2VtbG1EVjFPbjh4T2ZnWHViUFRudUFRalNpcFEyS1NCZw?oc=5",
+          "published": "Sun, 19 Apr 2026 02:50:58 GMT",
+          "source": "AOL.com",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Weaver Capital Management Sells Strive 500 ETF Shares - HarianBasis.co",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02aDBZa2RZYTJwNTdnd0VCS3FTVFowSU84c2J3UTd1dlZvdDVpSWRIVkRSYkNjM1UzbDRjeE51M0Jhd21ZakZrbE9paXRYa240YkRMdldOSjlTaTE5S3FjLVJWdEMxTi1KTDNwRE5fZVluQQ?oc=5",
+          "published": "Sun, 19 Apr 2026 01:48:25 GMT",
+          "source": "HarianBasis.co",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Arta Finance Wealth Management LLC Makes New Investment in Microsoft Corporation $MSFT - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTNhYThNN25uRVJVM0tUUUNQTDRjUDUtaERoeFlocW4yRlRoSWdNY3AwbWZ3MVhkVDNrVnZzNXFpUWJuRjgtaUY0TVkwN0p6Ti04aEdhUERBcVNKbUpwODNKUmhvRG5zRThPcGMtU0lkZEh3dEIzZVc2ZnI2bnJnaWFoYThhck9EQWlLTGttY290QXlrSmQxRkZNbVhKdVFUdUdwSktGOWJVaVdGNWg3NGpId1JZR1RfbC02ODl1cUlfMTlYaC1raVJWNVFCMTl2amtCekRHelFsel9PNnpV?oc=5",
+          "published": "Sun, 19 Apr 2026 07:45:20 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "AE Wealth Management LLC Purchases 23,739 Shares of Shopify Inc. $SHOP - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU09td3ppeG84U1V6dzJyeTU1a21naV9SQml0dkltLXU3YmFXQnhYYXNRYXEtUnJBT3dOWUw2c3ZIRERHYlp3TGtnU3BBdW5zUFFUYnQ5NGF5YVhBc295ZkxTcnFkQ1FWWGNVaWJWRXlKZkhyRWt6ODRBa0NDZ3dwWnVadHhJUDhZTWwzSnhLQlhzYkJPQ2dLZDVQOUVoT1MyRlhDSUhaSEtocERtc1JVR0dXcEJZU1J4aXl0ZGNVajZVeGJMNk1v?oc=5",
+          "published": "Sun, 19 Apr 2026 07:23:16 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Which Bitcoin ETF Wins: Grayscale’s Scale, ProShares’ Yield, or ARK’s Low Cost - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaE5mT3FVZ2pEcml3cmFyWlFjc1pTZlVaa3J4WWhRVGJrTjBvMHI3enh5T01JRXMwbkZBQmhqdUxFMm5zdnBMOGpfUXhpS1RZN0wyMWppaUV4amdzNENheUtLVjlsai1Da1FMVFRiYUlhVGhiUzhLVWpNSUQ0MG5WemVn?oc=5",
+          "published": "Sun, 19 Apr 2026 05:13:28 GMT",
+          "source": "AOL.com",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "KBC Group NV Increases Position in Rocket Lab Corporation $RKLB - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzhuTGdnMlhXRDRBUUExUjYyR3o5dG5kVWE4dDBWRVFEV2RTSUh2aWhLM05aVWxJclRqblJ2R19UZy1XcWI5RTV5c25Ccl9BNUY4SHUzSUpDVkczSExhNWh2dGVXS1dndEtEeW12NllQM2ctMGhrS202d0thSWduZFZnaVAyNnl0ZWZQVVZjV19UVEs0Z3p1R2lwRVJHSmVFQTBzdVFNdHRzTndaS0xuV3lodC04N09ZeUVFM1gwcnM?oc=5",
+          "published": "Sun, 19 Apr 2026 09:14:56 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 0,
+      "items": []
+    },
+    "sub_glory": {
+      "count": 0,
+      "items": []
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Arta Finance Wealth Management LLC Makes New Investment in Microsoft Corporation $MSFT - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTNhYThNN25uRVJVM0tUUUNQTDRjUDUtaERoeFlocW4yRlRoSWdNY3AwbWZ3MVhkVDNrVnZzNXFpUWJuRjgtaUY0TVkwN0p6Ti04aEdhUERBcVNKbUpwODNKUmhvRG5zRThPcGMtU0lkZEh3dEIzZVc2ZnI2bnJnaWFoYThhck9EQWlLTGttY290QXlrSmQxRkZNbVhKdVFUdUdwSktGOWJVaVdGNWg3NGpId1JZR1RfbC02ODl1cUlfMTlYaC1raVJWNVFCMTl2amtCekRHelFsel9PNnpV?oc=5",
+          "published": "Sun, 19 Apr 2026 07:45:20 GMT",
+          "source": "MarketBeat",
+          "query": "Arta Finance"
+        }
+      ]
+    },
+    "comp_ubs_apac": {
+      "count": 5,
+      "items": [
+        {
+          "title": "UBS Group AG stock (CH0244767585): Is wealth management growth strong enough to drive sustained upsi - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3FJbW53MS1LTm82bHdFRk9yQmt1d000UGJ1S3Jpb0RQTUpTTGhKSFBsYm9fSlMzQ3lwOXRIU2F6YzRndVB1RjJhSU9uQldzYWxrck1uR0diZ3dpbTBzQmNTMU1ieHdwbEhnUVJLbkdlVDdVbmZEUXVrX2tQSkZjZ0J0dGtGRFNBSEhaSnNkLW9kMFJjbHZhYUJkb24yaXk1M3FwNTVvUkR1eEp0cUpKT1UyVmxxRGFLV25Tbg?oc=5",
+          "published": "Sun, 19 Apr 2026 07:56:18 GMT",
+          "source": "AD HOC NEWS",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Group AG stock (CH0244767585): Is its wealth management shift strong enough to drive lasting ups - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMk1ZRWdFekpTbjVZeGpOc0o1LUFXd1h3LVkzSXBzRHZ6ZVBma2ZtOXR0WWg5X25USEJoWFBnQ3hPQ2RuU3R3N21pQlEtR3hRUlFlQzU4ZUdRUi01RDdLODVhcmU0cWlNQUpQLTB3ZENWczdtcU1Yclczb3hnbXpad2hXU1FaVUNyNjJ0OVZUNG5RbU9PVl9jRzl5Rkk0NHNNZGxaQS1SU184cHFaX1ZBZHdWb2ltZXhPU1pIdGc0dGo?oc=5",
+          "published": "Sun, 19 Apr 2026 01:53:42 GMT",
+          "source": "AD HOC NEWS",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Group AG stock (CH0244767585): Is its wealth management pivot strong enough to unlock new upside - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmoyS1ByWGlvUW9VcFAxUS1namxKdGRsRmxzeG5ONTd2bEo2WmFlU241S3ZrcUlMWW5DTmVnOVRkUzFSVy0wVEJmY1JTSU8xN2k2VDF3N1JpWHd0Q3dHSHU1SzNjWDJVYlNtU0Z1bXNCQmRmWHd5UUZmcTF1MlphZ1JWcFI0UG4tWE5zUDQ1aDI0a0pSUEVOdDJBRG1welF2VkkyQS1zMUhRSThrNDhDcUQtY09yYnFRTkhaWVBZNWM?oc=5",
+          "published": "Sun, 19 Apr 2026 04:55:27 GMT",
+          "source": "AD HOC NEWS",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Group AG stock (CH0244767585): Why Google Discover changes matter more now - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRnA0OUFxSHBqcW9NVGw3c2RCb2VOSlYtUVRFWkE1czFEeUhKc1daSy1VX3hKN0NpSmdFRE80cEN0WEIyXzZwRnQ0MEJOUk1MUzZvMDg1b1BULWo1YndBWm1sb0ZsY2VBUzAtT1hTTHdWZXhkR2ROcUJZdU1WNmVYYklLRWNMQzBTR2lmeFEwdU4ySVBLZ0dVeDRSSVVZT3BHb1Q3Q1dkRnFtTGFJOHZCVDFGVjRlRE93aXQyMkF3Qm1MLUE?oc=5",
+          "published": "Sun, 19 Apr 2026 04:45:59 GMT",
+          "source": "AD HOC NEWS",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Group restructures executive board - MSN",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPS1d5R1hnNEphc0otLUFQRUh4aG9Ma1J3cDRuNHQ4UWlfLW1va21BVHYwaVRITWJkNmJGLWxfWV9HUm1NNzJEdXJzRXhFR1R5SExjZUpueWdOTEVLb0M3RnNFY2JNSXd4U25ha0RVbDQwZG1QSGhsRGp4a0RXZF9QMjVtY25xSUZQV1VuR2RjVnpPcEF6V0tzRjBWZFJNZFl6dG1ac2czWEJ4WG1RSTlSOEhvYzVnaHQ4TzAwTjdQaVMxV1FWem9PY3JlZVZKZTBuU3RjTlI0Tlk3R3RNd2tyWnhvNENUd0FBRnBvMW0xLW9XM2k5SlduMmhCWHZEaW9QTkVkaXQ0bE4xRVNBZnBMcmV2ajBqdU9xUGN6RVRhYTdNUngxdEg1cXpfZFNVdw?oc=5",
+          "published": "Sun, 19 Apr 2026 00:09:37 GMT",
+          "source": "MSN",
+          "query": "UBS Singapore wealth"
+        }
+      ]
+    },
+    "topic_hnw_chinese": {
+      "count": 9,
+      "items": [
+        {
+          "title": "Hong Kong real estate gains as Middle East tensions rattle Dubai market - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFdPdlZSQk43TDVIYnk2ekZFTXB5TVJORGNzb3dFNjZ5WXhBZThrbjdjcklOel9IX2UzX2U4ai0zUkNqQl95bXFBRkR0U1VlRXhaSzZRTURYTkhwd3ZhVmlQTzNIQnN5R1dWRjNmLW1aYno5QnJiaTY5MkxPZVN1QTFRT0JtSF9rNllqbHJ6RWNGLW9YbEZQQ193M3NZT1ZoTDJDMzhsdTZRZ0tmNEFaYXFVWTFocjVkSURzSXdBRUVyUkhqVmfSAcYBQVVfeXFMTnRXT3ZWUkJON0w1SGJ5NnpGRU1weU1STkRjc293RTY2eVl4QWU4a243Y3JJTnpfSF9lM19lOGotM1JDakJfeW1xQUZEdFNVZUV4Wks2UU1EWE5IcHd2YVZpUE8zSEJzeUdXVkYzZi1tWmJ6OUJyYmk2OTJMT2VTdUExUU9CbUhfazZZamxyekVjRi1vWGxGUENfdzNzWU9WaEwyQzM4bHU2UWdLZjRBWmFxVVkxaHI1ZElEc0l3QUVFclJIalZn?oc=5",
+          "published": "Sun, 19 Apr 2026 06:00:19 GMT",
+          "source": "South China Morning Post",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China Overseas Grand Oceans stock (HK0081000660): Why does its China property focus matter more now - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmhlNm1xd3NvZjNPWjdaUTRYV3AyUXVpOU9yNHplS1B6ZDBkUmQzNlJQaUVrR2FaWTB5Y1pVZm5ha1MxSDFnMUd3elVuNU11d1N0dDhVRjNCaHczWHF3ZWFyRlpsbm5oRG53aFhrRlNac3pJZXBZUk1aZkZOUEJUNFgtWG5tV3VUMGstN0VtRUQtM2lZWWNON0R3NkNJdUNCVGJpZ3FlcjVqMzR4VTJpWHAzdmJYOW83M1psTVR5Y3NHZw?oc=5",
+          "published": "Sun, 19 Apr 2026 15:24:58 GMT",
+          "source": "AD HOC NEWS",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Assessing DBS Group Holdings (SGX:D05) Valuation After Sustainability Leadership Change - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNmsxMzFjeEhPU016WU4xdDdGcXNwLXc4bXpQSk5HTG1rZndSeDhjS1Q2Qm9pZlVBNzlaaVJZd0JmbEFBSno5NU5Na2VKWWh6b21SNXlnQ01BakJWQjdtV21LdHhCQ18tZEU1aXRuZEpSRkFUX3U3SUd1alk2SUpDajg0V1FPRDVNQ2FKMGU1MU9tOFlEZ3ZOQnZDeVdQY2p3WHREelJNeWJaTUcwLWltRU43RHBaZ0tVeUFWSGVQSGhYQWtnbDIyVDFEVnljODIwNnBR0gHYAUFVX3lxTE1hTTBYei15ZlRiN3JlQnEwQlN0d2Y2bzNJaG9hQzZMQ0otMjZ5Y3FrUGtTbHd5eVhHdWprd0tzV1Itd2FySjQ2eXpoNlRMV3hwdVNUdDNOX2VtSjFvdWVNTWhpc05KQUFMZDhvWlMya2NSQ3l5RkhwUFBzWmluSFg5dk9Gd3ZFYWFEc0ZkMi13UFRGTmNSUWhxaE1kM1hwY3RuUFIzUWc3bnhKTlFBQi05cE96SllCUmU3ZFJmemNzUmk5YWtqTS1OdEhtZkhYa2xhSDBjb3Zwaw?oc=5",
+          "published": "Sun, 19 Apr 2026 04:45:22 GMT",
+          "source": "simplywall.st",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Say ‘yes’ to that work stint abroad and roll with the challenges: Sun Life’s Jessica Tan - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYVJEblNnMU0yVGh4dGUzbGVESnMyLU5sNjUxVHJrMGYyTW1TRlczUG5HNVNWalkxcDBKSTk1dl83YTRUV2NNX2YzaTVNMURfRndhWHU1bjgyYmlaUzFydHM1OGk0VW9OX09VMThld25HYmoxb2lxalVRTFZxazJDdjRJS1FmMUV2TnJnT1F1Z2p0ajhCbW0tSUlUTXZpSEZrcFZfc0xYaFhhSGE3R3AyYjNoN3VEaTJiLVd2SHhTZVE2T2xPS3dwWkZwS05ZbFpsMmxOZQ?oc=5",
+          "published": "Sun, 19 Apr 2026 11:15:00 GMT",
+          "source": "The Business Times",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Industrial and Commercial Bank of China Ltd stock (HK1398013296): Why does its scale in China's bank - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2tKTTkwcy1GUUhFLXFuR2hLWWI3Snd5SVZFa1VaUmQzNWt5dTZTQUo2RnBiOWRUNDAyVVhMNGVrejZsTUhDQURuTWxaNHBXSUdvMm9oMWpoNVAxTWg4T1lnOGtVQ0cxZUE5MEVVbDhoQmVYeXNlNFBmVUhJcWpRTEdGMkw3MnJhb0NlUXdIQXdNMTJpeEpzS19YQ2RHQk8zbzFJZTRCTHlYeUJHTUlMLXNTY09JWTcwQmFHYlVscTNWbFZqZENWUUx3?oc=5",
+          "published": "Sun, 19 Apr 2026 03:27:35 GMT",
+          "source": "AD HOC NEWS",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Bank of Shanghai Co Ltd stock (CNE0000014W7): Why its local banking focus matter more now for global - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1BaaHZCMHBELXgzRmkyTXV2NnVCVVE1OWFiNS1BbjRsdTUzek4tRmZFenFRR0ZGTnlhdlJHZ1NMbXZBaE16OFhKRDJEbzFMRG9iWXR3MkxEUV9xYmtkWWhUand2RVUtZDVtWkIweXNHRERfTnl2bUc1Z1NlY3dfYXpGUjk5LVNNSllBc0RuUW9pa3FzTEdhcjgybDhGcUZVTE1YTHRFcjJ6VlBxeGI5SWhFWDdrNnRlTnNLN1JVaVd6dw?oc=5",
+          "published": "Sun, 19 Apr 2026 04:26:27 GMT",
+          "source": "AD HOC NEWS",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Bank of China Ltd stock (HK3988013175): Is its state-backed stability strong enough for global inves - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWlWZHlNN2lHeFp6bWZmZXdhc1M4eUhzMFBBeVdDaTdISTJmZk1UTU5LYUk1cnVEakppaDhiQ09BdEoxT0RpMTJaekRGSjRIakZaYUdxOFNmaU40amJ5WkdGdUZaZWwzZWVldGdwSTA3YzkxNTEwdmJJSVF1VERyTEE2X2ExWnJTV0xxdUhUQURpdWpMRzBkdFdIOTNUa011WkN0RFMyb1dnVHJ1Q0xhYVBSSlJpVHlxajNDNw?oc=5",
+          "published": "Sun, 19 Apr 2026 03:29:50 GMT",
+          "source": "AD HOC NEWS",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Futu Holdings Ltd stock (US3611381016): Is its brokerage growth strong enough to sustain upside for - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWh6RVlJdjJDUmRzOU9xbW94c3hFYlpBUmdOYnZhSGVSRklTSWhoQnYyMEQ4UWFJZU93SUMwaDZyYWJWejJfWnZyNEZyaHhiNlV1ZUlXellDWDJrMzhnY1dyeFdCOUxlRS1EM0tFZUl5cktRQjlVQ1FEbFZiaUJrNWFYQnpUMVpPXzdnZlNhSlc2ZUplc1V0X2JiQ2k1YTVmUmVqcUxUYTAtUl80ZHNKS0hubjg4OXR1UkJKdmpkVDJtd05G?oc=5",
+          "published": "Sun, 19 Apr 2026 09:38:13 GMT",
+          "source": "AD HOC NEWS",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China Construction Bank Corp stock (CNE1000002H1): Why does its state-backed stability matter more n - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHAyMFd4M0dqYXVuMTJmX09paTFfZGJpYzE5RDAxS1lXcWtxZ2Q4NEVqM2RsUkVUTE9hTndvSWtrOUJwX01MWTFKT3c4Sm42cGMxcVNpZHpoemd5eV9ueHUtZ3BUWnB4WUh4QURJeVJyMVNHcHFvR2FMeDY5aXRldVNoejJjWk4xckE1OHkxSWN0NjFYWncxdlc2VkJRUWhVS1pKUFFDakgtMFAtb0FrTE9BT3k?oc=5",
+          "published": "Sun, 19 Apr 2026 03:54:38 GMT",
+          "source": "AD HOC NEWS",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 3,
+      "items": [
+        {
+          "title": "Guoco Group Ltd stock (HK0053000623): Why does its diversified model matter more for U.S. investors - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUi1EYmNNTkxUb0NLQVdqTjlNcHlZUDBUSl9CREpFZEs3ZHhKalU1NnlIZVFvMkwwLS1UMERsZWR2YzNaMzBQc01Mc2NSeVhCVlhTQ1ZaREFiRTBzRG03N053QkFPOWdWQUtMd3ducFNMa3dKTl9LVlVSbExXTTllc2N3ZXVvR0RxZFV3ODRRUy1ZamxMeV9EZ19sMVJ4TV9TelAyVjFYMVF6THZMazRCSG9pT0l0V2t0Si13?oc=5",
+          "published": "Sun, 19 Apr 2026 04:12:18 GMT",
+          "source": "AD HOC NEWS",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Couples turn home meals into food businesses - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW9YbFE4eEpVRVVMakUyTnFpVUlNTlV3V1o0OGpmdjVrNW4zTkVnczJKc0ltZThTQkN6Zm4waWhHOWY1MzVTVDNha200Y2d3VXpEN2NpQnhMRUdOX2E4eEpyajVOZ3o4T1BEVXgzTkk0OExYcE9aNjU2WFVON3AtVXQ0OXlHNHZ6T2pOOFBPdHZ3T3cycXhKc3UxLVZxNUoyM1hzOEFTZGpSNEx3bEZWellIbUkzMTlFSUpKT1haeGQtQnJnMXZIdg?oc=5",
+          "published": "Sun, 19 Apr 2026 15:55:23 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Indian tycoon Gagan Gupta backs second gold project in Mali in $120 million deal - CediRates",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmtlZkQ3ZVl2TFVqYjl6Ml9Dc2pyYXB6bTdudUI0M2doVE1XdmEtdElLMUtqb2VaZDU2RmRoQ25GWGE3YktERjN4Mi1sMG93UGRia1pacS1VZUlXdlgycXE1ZnRISnRJUDlGYXBEUVYweUo4VEljODJZMWppcF91czhsS2pQcmpQbzFHc0R6eVhLWXR0ZDl2NmtrNk9Pb0Fydm1yc1lfYTlsczA?oc=5",
+          "published": "Sat, 18 Apr 2026 18:11:54 GMT",
+          "source": "CediRates",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0,
+    "total": 1,
+    "pos_pct": 0.0,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is wealth management growth strong enough to drive sustained upsi - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3FJbW53MS1LTm82bHdFRk9yQmt1d000UGJ1S3Jpb0RQTUpTTGhKSFBsYm9fSlMzQ3lwOXRIU2F6YzRndVB1RjJhSU9uQldzYWxrck1uR0diZ3dpbTBzQmNTMU1ieHdwbEhnUVJLbkdlVDdVbmZEUXVrX2tQSkZjZ0J0dGtGRFNBSEhaSnNkLW9kMFJjbHZhYUJkb24yaXk1M3FwNTVvUkR1eEp0cUpKT1UyVmxxRGFLV25Tbg?oc=5",
+      "published": "Sun, 19 Apr 2026 07:56:18 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "Futu Holdings Ltd stock (US3611381016): Is its brokerage growth strong enough to sustain upside for - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWh6RVlJdjJDUmRzOU9xbW94c3hFYlpBUmdOYnZhSGVSRklTSWhoQnYyMEQ4UWFJZU93SUMwaDZyYWJWejJfWnZyNEZyaHhiNlV1ZUlXellDWDJrMzhnY1dyeFdCOUxlRS1EM0tFZUl5cktRQjlVQ1FEbFZiaUJrNWFYQnpUMVpPXzdnZlNhSlc2ZUplc1V0X2JiQ2k1YTVmUmVqcUxUYTAtUl80ZHNKS0hubjg4OXR1UkJKdmpkVDJtd05G?oc=5",
+      "published": "Sun, 19 Apr 2026 09:38:13 GMT",
+      "source": "AD HOC NEWS",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management shift strong enough to drive lasting ups - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMk1ZRWdFekpTbjVZeGpOc0o1LUFXd1h3LVkzSXBzRHZ6ZVBma2ZtOXR0WWg5X25USEJoWFBnQ3hPQ2RuU3R3N21pQlEtR3hRUlFlQzU4ZUdRUi01RDdLODVhcmU0cWlNQUpQLTB3ZENWczdtcU1Yclczb3hnbXpad2hXU1FaVUNyNjJ0OVZUNG5RbU9PVl9jRzl5Rkk0NHNNZGxaQS1SU184cHFaX1ZBZHdWb2ltZXhPU1pIdGc0dGo?oc=5",
+      "published": "Sun, 19 Apr 2026 01:53:42 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management pivot strong enough to unlock new upside - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmoyS1ByWGlvUW9VcFAxUS1namxKdGRsRmxzeG5ONTd2bEo2WmFlU241S3ZrcUlMWW5DTmVnOVRkUzFSVy0wVEJmY1JTSU8xN2k2VDF3N1JpWHd0Q3dHSHU1SzNjWDJVYlNtU0Z1bXNCQmRmWHd5UUZmcTF1MlphZ1JWcFI0UG4tWE5zUDQ1aDI0a0pSUEVOdDJBRG1welF2VkkyQS1zMUhRSThrNDhDcUQtY09yYnFRTkhaWVBZNWM?oc=5",
+      "published": "Sun, 19 Apr 2026 04:55:27 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Bank of China Ltd stock (HK3988013175): Is its state-backed stability strong enough for global inves - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWlWZHlNN2lHeFp6bWZmZXdhc1M4eUhzMFBBeVdDaTdISTJmZk1UTU5LYUk1cnVEakppaDhiQ09BdEoxT0RpMTJaekRGSjRIakZaYUdxOFNmaU40amJ5WkdGdUZaZWwzZWVldGdwSTA3YzkxNTEwdmJJSVF1VERyTEE2X2ExWnJTV0xxdUhUQURpdWpMRzBkdFdIOTNUa011WkN0RFMyb1dnVHJ1Q0xhYVBSSlJpVHlxajNDNw?oc=5",
+      "published": "Sun, 19 Apr 2026 03:29:50 GMT",
+      "source": "AD HOC NEWS",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Bitcoin Falls to $76K as Iran Shuts Strait of Hormuz: Crypto Market Analysis - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblhGcW5vQ2lxSF9GVXdMbXFYdXRTMkZ6anZpdGRlNXhudmxvWGVEMzlYOEhpam5mMDJRXzdBb00zcnVRSnI3bjFmTEt6anQ5ZUE0dlZVdHRzVndtaFA5cmhOaTl2cU11UFNyT1B0UWRmalIwV2RRN2ZYVGFxcDZJOUF6SGRSQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 12:18:28 GMT",
+      "source": "Intellectia AI",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "40kg Olive Ridley sea turtle washes ashore in Kuakata - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVR0UFRXLVR6MS1hQmx0NEsxWjNfd1Z6TXFpMU92eW1BRHJ6dURjSkEtREhob3FHd2NJU1AzYUVHOXlyeUFYZy1WekdOQjh6OUdZWGktOG04UHRJVVlaRlZtQUJTWmpEMkdfenM4c1BtWUI4dXdzWnQyMG85TFVhU3dibXVqVzlVTTJoSHAyaEpab2VWMDFWMNIBngFBVV95cUxOWWhib05rdVk1dnhMRGZQbUgzamljdE8xZE1WbU12dDJvSmIzYm9CY0tNS1BFcjJNLWVpYjhZS29FaENsVENoamo5RUJaUWdNLVlyTEFqZVAtUy1wc3ZuaGktcHVDMTdqNkZxZVBLZlN2RlZQQ1JoRFNId1pJaWNxQV9IdzFTekNrcTRucFZPXzMwMHZLWUx0RUxWZ1lsQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 04:07:55 GMT",
+      "source": "The Business Standard",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Could Investing $500 a Month in ARKQ Make You a Millionaire? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wNE1NZEJkMTBHZ3V0REUzc0hBTFdMUXdCUWVwdlJlQ3pVdFBock5JTkl2NXB1a1NVcTRfczNxcFM2Rm9aMWJxX1VNVGI2enN2R1FVWUcwS0hVWHFBc2VtbG1EVjFPbjh4T2ZnWHViUFRudUFRalNpcFEyS1NCZw?oc=5",
+      "published": "Sun, 19 Apr 2026 02:50:58 GMT",
+      "source": "AOL.com",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Weaver Capital Management Sells Strive 500 ETF Shares - HarianBasis.co",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02aDBZa2RZYTJwNTdnd0VCS3FTVFowSU84c2J3UTd1dlZvdDVpSWRIVkRSYkNjM1UzbDRjeE51M0Jhd21ZakZrbE9paXRYa240YkRMdldOSjlTaTE5S3FjLVJWdEMxTi1KTDNwRE5fZVluQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 01:48:25 GMT",
+      "source": "HarianBasis.co",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Arta Finance Wealth Management LLC Makes New Investment in Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTNhYThNN25uRVJVM0tUUUNQTDRjUDUtaERoeFlocW4yRlRoSWdNY3AwbWZ3MVhkVDNrVnZzNXFpUWJuRjgtaUY0TVkwN0p6Ti04aEdhUERBcVNKbUpwODNKUmhvRG5zRThPcGMtU0lkZEh3dEIzZVc2ZnI2bnJnaWFoYThhck9EQWlLTGttY290QXlrSmQxRkZNbVhKdVFUdUdwSktGOWJVaVdGNWg3NGpId1JZR1RfbC02ODl1cUlfMTlYaC1raVJWNVFCMTl2amtCekRHelFsel9PNnpV?oc=5",
+      "published": "Sun, 19 Apr 2026 07:45:20 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}
