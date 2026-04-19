@@ -1,0 +1,63 @@
+name: Noah Brand Daily Report
+
+on:
+  schedule:
+    # 每天 SGT 09:00 = UTC 01:00
+    - cron: '0 1 * * *'
+  # 允许手动触发测试
+  workflow_dispatch:
+
+jobs:
+  daily-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 关键：拉取完整历史，以便提交数据文件
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+        run: |
+          python scripts/run_daily.py
+
+      - name: Commit today's data snapshot
+        # 把当天抓取的数据 & 排序结果存进仓库，作为明天的对比基线
+        run: |
+          git config user.name "noah-brand-bot"
+          git config user.email "bot@noah-brand.local"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "📊 Daily data snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload email preview as artifact
+        # 即使发邮件失败，也保存 HTML 以便排查
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: email-preview-${{ github.run_number }}
+          path: last_email_preview.html
+          retention-days: 7
