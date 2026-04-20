@@ -295,7 +295,7 @@ body{
     </div>
   </div>
   <div class="topbar-right">
-    <div class="data-status"><span>数据源：</span><strong>全网抓取 + 公开披露</strong> · 最后更新 2026-04-18</div>
+    <div class="data-status"><span>数据源：</span><strong>全网抓取 + 公开披露</strong> · 最后更新 <span id="last-update-date">2026-04-18</span></div>
     <div class="live-dot">LIVE</div>
   </div>
 </div>
@@ -588,7 +588,10 @@ body{
 
       <div class="card">
         <div class="card-title">全网提及实时Feed · 近7天 <span class="badge badge-verified">✓</span></div>
-        <div class="card-title-en">Real-Time Mention Stream</div>
+        <div class="card-title-en">Real-Time Mention Stream · <span id="feed-date-label" style="color:var(--gold)"></span></div>
+        <div id="today-feed-banner" style="display:none;margin-bottom:12px;padding:10px 14px;background:rgba(201,169,97,0.08);border:1px solid rgba(201,169,97,0.2);border-radius:8px;font-size:11px;font-family:var(--mono);color:var(--gold);letter-spacing:1px">
+          ▲ 今日新增 · 实时采集
+        </div>
         <div class="feed" id="liveFeed"></div>
       </div>
     </div>
@@ -984,6 +987,74 @@ setTimeout(()=>{
     requestAnimationFrame(()=>{el.style.width=w});
   });
 },100);
+
+// ============ 动态加载今日数据 ============
+(async function loadLatest(){
+  let data;
+  try{
+    const res=await fetch('./data/latest.json',{cache:'no-cache'});
+    if(!res.ok)throw new Error('no latest.json');
+    data=await res.json();
+  }catch(e){return;}
+
+  // 更新顶栏日期
+  const dateEl=document.getElementById('last-update-date');
+  if(dateEl&&data.date)dateEl.textContent=data.date;
+
+  // 更新 Feed 标签
+  const feedLabel=document.getElementById('feed-date-label');
+  if(feedLabel&&data.date)feedLabel.textContent=data.date+' 采集';
+
+  // 注入今日新闻到 Feed 顶部
+  const mentions=data.top_mentions||[];
+  if(mentions.length){
+    const banner=document.getElementById('today-feed-banner');
+    if(banner)banner.style.display='block';
+    const feedEl=document.getElementById('liveFeed');
+    const sentMap={1:'pos',0:'neu','-1':'neg','-2':'neg'};
+    const todayItems=mentions.slice(0,8).map(m=>{
+      const src=m.source?m.source.substring(0,6):'新闻';
+      const sent=sentMap[String(m.sentiment)]||'neu';
+      const sentClass='sent-'+(sent==='pos'?'pos':sent==='neg'?'neg':'neu');
+      const sentIcon=sent==='pos'?'●':sent==='neg'?'▼':'○';
+      const sentLabel=sent==='pos'?'正面':sent==='neg'?'负面':'中性';
+      const pub=m.published?m.published.substring(0,16):'';
+      const title=m.url?`<a href="${m.url}" target="_blank" rel="noopener">${m.title}</a>`:m.title;
+      return `<div class="feed-item">
+        <div class="feed-icon" style="color:var(--gold);background:rgba(201,169,97,0.1);border-color:rgba(201,169,97,0.3)">${src.substring(0,3)}</div>
+        <div class="feed-body">
+          <div class="feed-meta"><span class="${sentClass}">${sentIcon} ${sentLabel}</span><span>·</span><span>${pub}</span></div>
+          <div class="feed-text">${title}</div>
+        </div>
+      </div>`;
+    }).join('');
+    feedEl.insertAdjacentHTML('afterbegin',todayItems);
+  }
+
+  // 显示今日 Top 涨跌摘要（注入到 North Star 下方）
+  const gains=data.top_gains||[];
+  const losses=data.top_losses||[];
+  if(gains.length||losses.length){
+    const hero=document.querySelector('.hero');
+    if(hero){
+      const bar=document.createElement('div');
+      bar.style.cssText='display:flex;gap:8px;flex-wrap:wrap;margin-top:16px;font-size:11px;font-family:var(--mono)';
+      gains.slice(0,3).forEach(g=>{
+        const span=document.createElement('span');
+        span.style.cssText='background:rgba(74,222,128,0.1);color:#4ADE80;border:1px solid rgba(74,222,128,0.25);border-radius:6px;padding:4px 10px';
+        span.textContent='▲ '+g.label+' +'+g.today;
+        bar.appendChild(span);
+      });
+      losses.slice(0,2).forEach(l=>{
+        const span=document.createElement('span');
+        span.style.cssText='background:rgba(239,68,68,0.1);color:#EF4444;border:1px solid rgba(239,68,68,0.25);border-radius:6px;padding:4px 10px';
+        span.textContent='▼ '+l.label+' +'+l.today;
+        bar.appendChild(span);
+      });
+      hero.appendChild(bar);
+    }
+  }
+})();
 </script>
 </body>
 </html>
