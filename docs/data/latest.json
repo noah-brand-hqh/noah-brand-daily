@@ -1,0 +1,469 @@
+{
+  "date": "2026-04-20",
+  "compared_to": "2026-04-19",
+  "top_gains": [
+    {
+      "metric": "news_noah_en",
+      "label": "Noah Holdings 英文媒体提及",
+      "category": "brand_core",
+      "today": 2,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_olive",
+      "label": "Olive 子品牌曝光",
+      "category": "sub_brand",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_ark",
+      "label": "ARK Wealth 子品牌曝光",
+      "category": "sub_brand",
+      "today": 6,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    }
+  ],
+  "top_losses": [
+    {
+      "metric": "news_arta",
+      "label": "Arta Finance 竞品声量",
+      "category": "competitor",
+      "today": 2,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_ubs_apac",
+      "label": "UBS 亚太竞品声量",
+      "category": "competitor",
+      "today": 7,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    }
+  ],
+  "all_changes": [
+    {
+      "metric": "news_noah_en",
+      "label": "Noah Holdings 英文媒体提及",
+      "category": "brand_core",
+      "today": 2,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_noah_zh",
+      "label": "诺亚财富中文媒体提及",
+      "category": "brand_core",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_olive",
+      "label": "Olive 子品牌曝光",
+      "category": "sub_brand",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_ark",
+      "label": "ARK Wealth 子品牌曝光",
+      "category": "sub_brand",
+      "today": 6,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_gopher",
+      "label": "歌斐 Gopher 子品牌曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_glory",
+      "label": "荣耀传承 Glory 子品牌曝光",
+      "category": "sub_brand",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_iark",
+      "label": "iARK 平台曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_norah",
+      "label": "汪静波 Norah 个人IP",
+      "category": "leadership",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_zander",
+      "label": "殷哲 Zander 个人IP",
+      "category": "leadership",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_arta",
+      "label": "Arta Finance 竞品声量",
+      "category": "competitor",
+      "today": 2,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_ubs_apac",
+      "label": "UBS 亚太竞品声量",
+      "category": "competitor",
+      "today": 7,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": -999,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_topic_hnw",
+      "label": "华人财富议题讨论",
+      "category": "topic",
+      "today": 15,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_topic_fo",
+      "label": "家办议题讨论",
+      "category": "topic",
+      "today": 7,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_price",
+      "label": "NOAH 股价",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_change_pct",
+      "label": "NOAH 单日涨跌幅",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_volume",
+      "label": "NOAH 成交量",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "reddit_noah",
+      "label": "Reddit 诺亚自然提及",
+      "category": "community",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "reddit_arta",
+      "label": "Reddit Arta 竞品讨论",
+      "category": "competitor",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": true
+    },
+    {
+      "metric": "reddit_topic",
+      "label": "Reddit 华人财富讨论",
+      "category": "topic",
+      "today": 1,
+      "yesterday": 0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "sentiment_pos_pct",
+      "label": "全网正面情感占比",
+      "category": "sentiment",
+      "today": 0.0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "sentiment_neg_pct",
+      "label": "全网负面情感占比",
+      "category": "sentiment",
+      "today": 0.0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": true
+    }
+  ],
+  "sentiment_highlights": {
+    "positive_signals": [
+      {
+        "title": "\"=SG Equity Insight Agent Computing Power Upgrade Initiative delivers a forward-looking investment platform that combines stability with innovation-driven growth, SG Equity Insight Agent Computing Power Upgrade Initiative leverages global market intelligen - x.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxNT3BKREVtcGk3X1BjRkM0TVoxWTNkY0w4TXFLWW1WLUkzTUctYWp6anhkamRQUi1UNDNNb0NYTUVFS1JvNm9ITE1fTTRnM2xkWWpoeDFxMHU1bTR3Rjc0QTZrQVJWRGZxd005d1JpNWpXX0RPT1ZFYlZZR2NkOXRTWEhRSDlpMDJ4Nll5VTJBRV8tT3JQMjk0QTQ4UG1kWVJUV09ENFdyRVFOSFY4R0ZYT0l6NmtTd1dwRnZxVDNyd3N3OGFWYUJGZnFUdmxsTjI3WkowNmsySnJRZDJTdktydUJqX2xBeVByLWZmc2E2UWtqOXRkNzFMV2J4SDJWQjhmMl94cEdaR2VlVzEwRUpDVWVHM2x1eEJmNWhNVHJHX0ctNmM1azAxbW84YnRDZ05TSm82VnNvdTl2UWlsSDZMSTJpTG95NDI4XzgwZXdpOXRPRTVmaVd2bldTbzBsb3NrRTlqRS1fU0hPWHBnY2pELTBZQXdNYVFfTzQ0MUV2V2o1RU5hTktGSXRCUWlfSGJORXNIOElvZXJINlJFOHFTTkk0cGxWSTlEZnRxOUY0MW1BNXJ3UFllM0lyc3Fva3UxNk5vVS1xQ2RWdDB3LXNYVHRJWGx3V0dpU0lrci1TQWQ0d2NnTmpOOUdQbEp3Q1N5eFVMaEdTd3FsaGtiYkYyUUlmMk9xU0hsU25yMHowMWQwaEp5cHhmdE5pdERGSDdCV1lnX0c0eWtRYU03Vzk0Rl9EeUJtdmNVOTgwRi02WGdrR25VUVdxc1JOSldhc0Fsc1EtZEREUVY5RWxzZ1hnSGV5UlppaE1EaGg5UDJlSXBJSEM2LXJmS0V4Q2RaZDJkVTFPRm1udVdPOGtpbnFNNjJYTzl5QWZqeW0yd0w3REpINTNYLWlhU3h2cGFheGVseW1RSHlIamo2R3BfaUVlZG1WUnl1RDQ5VFo4OHhVSEhuT2NKYmJWME1iQ3hrU1lOU1BTUDVtajYxZUx3NjdJcHBiUFBPbnZSNkJRbXRoWnEwb3N6X3BxazlScGl4d3lhaVNORG5aWGE0R0U2Z0tCYm1XQzlYNlp6ajZQS0lRcEo1UmswMWhPV1p1X1AwTFlIVnRkTHNyWmx5VHNfRDRMZDROdUdGS01YTmxPM1AzTzJhQnVWMkRZ?oc=5",
+        "published": "Sun, 19 Apr 2026 12:28:05 GMT",
+        "source": "x.com",
+        "query": "ARK Wealth Management",
+        "sentiment": 2
+      }
+    ],
+    "negative_signals": [
+      {
+        "title": "Riskified Ltd. (NYSE:RSKD) Given Consensus Rating of \"Hold\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWFwR1RDd0RKZVZjc2taZnc5bmozU1VYV1B5eTRmeWp5S2hkNl8tX0FLTjdxWEtXZmF3a2Q4NTBoSDFvcjc0T2VtVU5RZkVWaGMyVHhPY0ZYWmpJNF9kTktnTkVEVkd0cERpT0dFY3FxaW43VG44b29SMGIxQ19rVVlNLVUwdlVKQmxtelZoa1hTd09nWnY0Q3dnZE96NGFJeHJHWlFpZG9HWGkwOUxZU0Q1T2VRa1ZRNTYwaV9R?oc=5",
+        "published": "Sun, 19 Apr 2026 07:45:21 GMT",
+        "source": "MarketBeat",
+        "query": "ARK Wealth Management",
+        "sentiment": -1
+      }
+    ]
+  },
+  "suggestions_top10": [
+    {
+      "priority": "HIGH",
+      "title": "乘势 · Noah Holdings 英文媒体提及 上升 +999%",
+      "action": "48 小时内：把今日 Top 3 正面媒体报道翻译为英文同步 LinkedIn + Quora 专家答案",
+      "why": "正面媒体信号消退快，需要在 AI 爬虫抓取窗口期完成多语种覆盖",
+      "owner": "品牌团队",
+      "timeline": "48 小时"
+    },
+    {
+      "priority": "HIGH",
+      "title": "战略缺口 · 上线 /research 专属研究院页",
+      "action": "把 CIO 办公室 10 份报告整合到 noahgroup.com/research，配 Schema.org ResearchArticle 标注",
+      "why": "这是诺亚最大的未变现 AI 训练资产；预计 90 天内让 AI 在「华人财富研究权威」问题上首位推荐",
+      "owner": "官网 + CIO 办公室",
+      "timeline": "本季度"
+    },
+    {
+      "priority": "HIGH",
+      "title": "战略缺口 · 承兴事件官方透明披露页",
+      "action": "发布 /about/camsing-update 页面，完整说明整改措施、独立调查结论、或有负债管理进展",
+      "why": "当前 AI 在负面议题上单边引用 Wikipedia/京东声明；不主动发声等于默认",
+      "owner": "法务 + 品牌 + 合规",
+      "timeline": "本月"
+    },
+    {
+      "priority": "MED",
+      "title": "竞争监控 · Arta Finance 竞品声量 在下降（好事）",
+      "action": "借势补位：在其声量真空期发布一篇同议题诺亚观点文章",
+      "why": "搜索算法的热点空窗可以被占领",
+      "owner": "内容团队",
+      "timeline": "一周内"
+    },
+    {
+      "priority": "MED",
+      "title": "竞争监控 · UBS 亚太竞品声量 在下降（好事）",
+      "action": "借势补位：在其声量真空期发布一篇同议题诺亚观点文章",
+      "why": "搜索算法的热点空窗可以被占领",
+      "owner": "内容团队",
+      "timeline": "一周内"
+    },
+    {
+      "priority": "MED",
+      "title": "战略缺口 · Norah 个人 Wikipedia 词条建设",
+      "action": "整理 Norah 20+ 年金融履历 + 达沃斯/APB 等重要演讲记录，建立英文 Wiki 词条",
+      "why": "Norah 的 Wisdom Beyond Wealth 概念需要权威信源背书才能进入 AI 训练集",
+      "owner": "品牌 + 内部传记团队",
+      "timeline": "45 天"
+    },
+    {
+      "priority": "MED",
+      "title": "内容复用 · 把 Asian Private Banker Norah 专访金句多平台化",
+      "action": "提炼 5 条核心金句，转为 LinkedIn 英文贴文 + Quora 专家答案 + 微信公众号推文",
+      "why": "专访内容在付费墙内，AI 抓不到；必须显形化",
+      "owner": "内容运营",
+      "timeline": "2 周"
+    },
+    {
+      "priority": "LOW",
+      "title": "持续观察 · 监测 Arta Finance Group CEO 过渡期动作",
+      "action": "追踪 Felix Lin 上任后前 90 天的品牌定位变化",
+      "why": "竞品领导层变动期是插位的最佳窗口",
+      "owner": "竞品情报",
+      "timeline": "90 天跟踪"
+    },
+    {
+      "priority": "LOW",
+      "title": "基础设施 · 检查 robots.txt 对 GPTBot / ClaudeBot / PerplexityBot 放行",
+      "action": "技术团队 10 分钟即可完成",
+      "why": "AI 爬虫放行是零成本最高杠杆动作",
+      "owner": "技术",
+      "timeline": "本周"
+    }
+  ],
+  "raw_stock": {
+    "error": "no data"
+  },
+  "raw_sentiment": {
+    "positive": 0,
+    "neutral": 2,
+    "negative": 0,
+    "total": 2,
+    "pos_pct": 0.0,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "\"=SG Equity Insight Agent Computing Power Upgrade Initiative delivers a forward-looking investment platform that combines stability with innovation-driven growth, SG Equity Insight Agent Computing Power Upgrade Initiative leverages global market intelligen - x.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxNT3BKREVtcGk3X1BjRkM0TVoxWTNkY0w4TXFLWW1WLUkzTUctYWp6anhkamRQUi1UNDNNb0NYTUVFS1JvNm9ITE1fTTRnM2xkWWpoeDFxMHU1bTR3Rjc0QTZrQVJWRGZxd005d1JpNWpXX0RPT1ZFYlZZR2NkOXRTWEhRSDlpMDJ4Nll5VTJBRV8tT3JQMjk0QTQ4UG1kWVJUV09ENFdyRVFOSFY4R0ZYT0l6NmtTd1dwRnZxVDNyd3N3OGFWYUJGZnFUdmxsTjI3WkowNmsySnJRZDJTdktydUJqX2xBeVByLWZmc2E2UWtqOXRkNzFMV2J4SDJWQjhmMl94cEdaR2VlVzEwRUpDVWVHM2x1eEJmNWhNVHJHX0ctNmM1azAxbW84YnRDZ05TSm82VnNvdTl2UWlsSDZMSTJpTG95NDI4XzgwZXdpOXRPRTVmaVd2bldTbzBsb3NrRTlqRS1fU0hPWHBnY2pELTBZQXdNYVFfTzQ0MUV2V2o1RU5hTktGSXRCUWlfSGJORXNIOElvZXJINlJFOHFTTkk0cGxWSTlEZnRxOUY0MW1BNXJ3UFllM0lyc3Fva3UxNk5vVS1xQ2RWdDB3LXNYVHRJWGx3V0dpU0lrci1TQWQ0d2NnTmpOOUdQbEp3Q1N5eFVMaEdTd3FsaGtiYkYyUUlmMk9xU0hsU25yMHowMWQwaEp5cHhmdE5pdERGSDdCV1lnX0c0eWtRYU03Vzk0Rl9EeUJtdmNVOTgwRi02WGdrR25VUVdxc1JOSldhc0Fsc1EtZEREUVY5RWxzZ1hnSGV5UlppaE1EaGg5UDJlSXBJSEM2LXJmS0V4Q2RaZDJkVTFPRm1udVdPOGtpbnFNNjJYTzl5QWZqeW0yd0w3REpINTNYLWlhU3h2cGFheGVseW1RSHlIamo2R3BfaUVlZG1WUnl1RDQ5VFo4OHhVSEhuT2NKYmJWME1iQ3hrU1lOU1BTUDVtajYxZUx3NjdJcHBiUFBPbnZSNkJRbXRoWnEwb3N6X3BxazlScGl4d3lhaVNORG5aWGE0R0U2Z0tCYm1XQzlYNlp6ajZQS0lRcEo1UmswMWhPV1p1X1AwTFlIVnRkTHNyWmx5VHNfRDRMZDROdUdGS01YTmxPM1AzTzJhQnVWMkRZ?oc=5",
+      "published": "Sun, 19 Apr 2026 12:28:05 GMT",
+      "source": "x.com",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is wealth management growth strong enough to drive sustained upsi - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3FJbW53MS1LTm82bHdFRk9yQmt1d000UGJ1S3Jpb0RQTUpTTGhKSFBsYm9fSlMzQ3lwOXRIU2F6YzRndVB1RjJhSU9uQldzYWxrck1uR0diZ3dpbTBzQmNTMU1ieHdwbEhnUVJLbkdlVDdVbmZEUXVrX2tQSkZjZ0J0dGtGRFNBSEhaSnNkLW9kMFJjbHZhYUJkb24yaXk1M3FwNTVvUkR1eEp0cUpKT1UyVmxxRGFLV25Tbg?oc=5",
+      "published": "Sun, 19 Apr 2026 07:56:18 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "Riskified Ltd. (NYSE:RSKD) Given Consensus Rating of \"Hold\" by Brokerages - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWFwR1RDd0RKZVZjc2taZnc5bmozU1VYV1B5eTRmeWp5S2hkNl8tX0FLTjdxWEtXZmF3a2Q4NTBoSDFvcjc0T2VtVU5RZkVWaGMyVHhPY0ZYWmpJNF9kTktnTkVEVkd0cERpT0dFY3FxaW43VG44b29SMGIxQ19rVVlNLVUwdlVKQmxtelZoa1hTd09nWnY0Q3dnZE96NGFJeHJHWlFpZG9HWGkwOUxZU0Q1T2VRa1ZRNTYwaV9R?oc=5",
+      "published": "Sun, 19 Apr 2026 07:45:21 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management pivot strong enough to unlock new upside - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmoyS1ByWGlvUW9VcFAxUS1namxKdGRsRmxzeG5ONTd2bEo2WmFlU241S3ZrcUlMWW5DTmVnOVRkUzFSVy0wVEJmY1JTSU8xN2k2VDF3N1JpWHd0Q3dHSHU1SzNjWDJVYlNtU0Z1bXNCQmRmWHd5UUZmcTF1MlphZ1JWcFI0UG4tWE5zUDQ1aDI0a0pSUEVOdDJBRG1welF2VkkyQS1zMUhRSThrNDhDcUQtY09yYnFRTkhaWVBZNWM?oc=5",
+      "published": "Sun, 19 Apr 2026 04:55:27 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "M&A powers 23% private markets AUM jump at top asset managers - Citywire",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1R0MERWeGRrajNJTWhFUmd6dVZwSVNMRml6QlZCZ2d1aGhKTVVKSHZsSlI1akVRMUdMUElxdWl2cS1nNGZubzZzZmVUZzZRZHFPbEt3VFdFOS03bVFjY2M0U05kaWVBSFdkVzBHSHlQbkZVSEh2bDdhY3JlVDJocU5QQkJjLVNQWFo4UlVxUm9aa3M2RXRMMWxUOHVCdDlBVExzN3ZjQUFobHk5aTFjZw?oc=5",
+      "published": "Mon, 20 Apr 2026 01:25:03 GMT",
+      "source": "Citywire",
+      "query": "Singapore family office",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "AI Investing Insights - Official Homepage - Intellectia AI™ - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xcXlDaXlpTS0wTUlwZ3Bqc0xlMW1xWjF1dkF5OFFMaUtLVC1MXzFzM0NadzNRVDh1WDM1akd5M1QwclcwdXpkc1pZLUpVaE1sX0RXYV96TEpuZEV1ZXJvMURGWmkwV2lpSXc?oc=5",
+      "published": "Sun, 19 Apr 2026 16:53:42 GMT",
+      "source": "Intellectia AI",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Bitcoin Price Rally April 2026: BTC Hits $75K on Institutional Surge - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay11SXJ1bko3dU9ETldiUnBTTzFSREZKMFVGTmVoZ0xJMlhSMU91Um1YUDRqRF9OeEVVRVVPbTJZRU9mdml5TTRBczhjMmJDVDBJSE9IWWpvd3FSSlBBaWVWdGdoU2RfWTBhM0FBSnJobk5ZcHpHOGxES1YyQWI3NGpXcGExaWRYZEN2OG1pMA?oc=5",
+      "published": "Sun, 19 Apr 2026 16:08:26 GMT",
+      "source": "Intellectia AI",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "40kg Olive Ridley sea turtle washes ashore in Kuakata - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVR0UFRXLVR6MS1hQmx0NEsxWjNfd1Z6TXFpMU92eW1BRHJ6dURjSkEtREhob3FHd2NJU1AzYUVHOXlyeUFYZy1WekdOQjh6OUdZWGktOG04UHRJVVlaRlZtQUJTWmpEMkdfenM4c1BtWUI4dXdzWnQyMG85TFVhU3dibXVqVzlVTTJoSHAyaEpab2VWMDFWMNIBngFBVV95cUxOWWhib05rdVk1dnhMRGZQbUgzamljdE8xZE1WbU12dDJvSmIzYm9CY0tNS1BFcjJNLWVpYjhZS29FaENsVENoamo5RUJaUWdNLVlyTEFqZVAtUy1wc3ZuaGktcHVDMTdqNkZxZVBLZlN2RlZQQ1JoRFNId1pJaWNxQV9IdzFTekNrcTRucFZPXzMwMHZLWUx0RUxWZ1lsQQ?oc=5",
+      "published": "Sun, 19 Apr 2026 04:07:55 GMT",
+      "source": "The Business Standard",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Could Investing $500 a Month in ARKQ Make You a Millionaire? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wNE1NZEJkMTBHZ3V0REUzc0hBTFdMUXdCUWVwdlJlQ3pVdFBock5JTkl2NXB1a1NVcTRfczNxcFM2Rm9aMWJxX1VNVGI2enN2R1FVWUcwS0hVWHFBc2VtbG1EVjFPbjh4T2ZnWHViUFRudUFRalNpcFEyS1NCZw?oc=5",
+      "published": "Mon, 20 Apr 2026 00:03:07 GMT",
+      "source": "AOL.com",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Arta Finance Wealth Management LLC Makes New Investment in Microsoft Corporation $MSFT - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTNhYThNN25uRVJVM0tUUUNQTDRjUDUtaERoeFlocW4yRlRoSWdNY3AwbWZ3MVhkVDNrVnZzNXFpUWJuRjgtaUY0TVkwN0p6Ti04aEdhUERBcVNKbUpwODNKUmhvRG5zRThPcGMtU0lkZEh3dEIzZVc2ZnI2bnJnaWFoYThhck9EQWlLTGttY290QXlrSmQxRkZNbVhKdVFUdUdwSktGOWJVaVdGNWg3NGpId1JZR1RfbC02ODl1cUlfMTlYaC1raVJWNVFCMTl2amtCekRHelFsel9PNnpV?oc=5",
+      "published": "Sun, 19 Apr 2026 07:45:20 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}
