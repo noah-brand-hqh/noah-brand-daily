@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "collected_at": "2026-04-20T10:48:37.384329+08:00",
+  "collected_at": "2026-04-20T11:21:16.029054+08:00",
   "metrics": {
     "news_noah_en": 2,
     "news_noah_zh": 0,
@@ -14,7 +14,7 @@
     "news_arta": 2,
     "news_ubs_apac": 7,
     "news_topic_hnw": 15,
-    "news_topic_fo": 7,
+    "news_topic_fo": 8,
     "stock_price": 0,
     "stock_change_pct": 0,
     "stock_volume": 0,
@@ -284,7 +284,7 @@
       ]
     },
     "topic_family_office": {
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "title": "ET Wealth Edition 26 April 2026 - The Economic Times",
@@ -298,6 +298,13 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdkl3WWV6VGktNlRVb3FsTko3b2xlYW9tRXBXQXNKczl3UGlEbExnRThfSnpfVkFQSTJLRzJKVGxJeGR0Mkl3LW1QaGQtOUxwb0c5cFB3NEgzQS1naW9ORzdKMTk1QktXVmJMUkFQT01pczdVS0ZWYURoM1dfWkoyWndxS2Q5cHg5WmVKN0RoQ09tUkdsdVVKeDlWdTlpbWplRF9UdDk2OUxxQnlQOGRYQU40dEFxdzZ2RFRrZjBMY1Zzdw?oc=5",
           "published": "Mon, 20 Apr 2026 01:25:03 GMT",
           "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Why integrated Family Office services matter more than ever - William Buck Australia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXNpV1ZiYWN5UmN0YnRaaE9OTGZsSEFsYWJUS3BJOHpuZ0QwQlJ1eGZUWVFVajFqeGdYbFJUOVM5NkRBR2tLTXRSdFByZzl6RVBwSTRkd1JTMG0tSFlFYmpnc0lKZ29UajlwYTdJbGRXMG5ILVpaV0hsajlwZzgyZWpvUTVvTmJHTThmZVN1VlN4THNLbWJURzFYdEVNMjJnRVE?oc=5",
+          "published": "Mon, 20 Apr 2026 03:19:34 GMT",
+          "source": "William Buck Australia",
           "query": "Singapore family office"
         },
         {
@@ -354,7 +361,7 @@
           "subreddit": "investing",
           "title": "Alibaba vs Meituan takeout wars might look like irrational competition at first glance but actually make business sense",
           "url": "https://www.reddit.com/r/investing/comments/1spm4e4/alibaba_vs_meituan_takeout_wars_might_look_like/",
-          "score": 7,
+          "score": 6,
           "num_comments": 1,
           "created_utc": 1776583289.0
         }
