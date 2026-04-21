@@ -40,12 +40,17 @@ jobs:
         run: |
           python scripts/run_daily.py
 
+      - name: Publish latest.json for dashboard
+        # 把当日快照 + 排名合并为 docs/data/latest.json 供 GitHub Pages 看板读取
+        run: |
+          python scripts/publish_latest.py
+
       - name: Commit today's data snapshot
-        # 把当天抓取的数据 & 排序结果存进仓库，作为明天的对比基线
+        # 把当天抓取的数据 & 排序结果 & 看板 latest.json 存进仓库
         run: |
           git config user.name "noah-brand-bot"
           git config user.email "bot@noah-brand.local"
-          git add data/
+          git add data/ docs/data/
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
