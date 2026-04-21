@@ -1,54 +1,33 @@
 {
   "date": "2026-04-21",
-  "collected_at": "2026-04-21T11:58:35.767423+08:00",
+  "collected_at": "2026-04-21T15:12:55.082168+08:00",
   "metrics": {
-    "news_noah_en": 9,
+    "news_noah_en": 7,
     "news_noah_zh": 0,
-    "news_olive": 5,
+    "news_olive": 6,
     "news_ark": 15,
     "news_gopher": 0,
     "news_glory": 3,
     "news_iark": 0,
     "news_norah": 0,
     "news_zander": 0,
-    "news_arta": 4,
-    "news_ubs_apac": 9,
+    "news_arta": 5,
+    "news_ubs_apac": 8,
     "news_topic_hnw": 15,
-    "news_topic_fo": 16,
+    "news_topic_fo": 15,
     "stock_price": 0,
     "stock_change_pct": 0,
     "stock_volume": 0,
     "reddit_noah": 0,
     "reddit_arta": 0,
     "reddit_topic": 0,
-    "sentiment_pos_pct": 11.1,
+    "sentiment_pos_pct": 28.6,
     "sentiment_neg_pct": 0.0
   },
   "news": {
     "noah_holdings_en": {
-      "count": 9,
+      "count": 7,
       "items": [
-        {
-          "title": "Noah Holdings Ltd. Class A (6686.HK) - Minichart",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0VXFsSktlYkk4YTZnajFjakpfQm1TVEJkS0d1bXhVS1Q2S0lZR1NzdVFHRWQzN0M0eWFpZWZhQzZZZHJ0bjduR3lSdHNnWkhLTlJZaXlGSVU?oc=5",
-          "published": "Mon, 20 Apr 2026 05:31:15 GMT",
-          "source": "Minichart",
-          "query": "Noah Holdings"
-        },
-        {
-          "title": "Noah Kahan Responds After Little Girl with Autism Asks Mom to Play His Song for a Worm (Exclusive) - yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnIzak1LNDZYa0R2UTh0dldSTGRlQXhJQldZcmNxTXlSNW81Z3JqVC10VGM2WHJ5SXB2MDVMT001OGt2aHRzTVFDRFJzVWs5LXZtZDZhSGVIbVRfZ3gzaU9XcHFBTDhGdkV5NTNMN0JucFFDUnMydXprWXFLbWhBRmZnWUVPV0tyNmN3TG9zTDMzTy1uTTh5a0hCMEVwQQ?oc=5",
-          "published": "Mon, 20 Apr 2026 16:46:29 GMT",
-          "source": "yahoo.com",
-          "query": "Noah Holdings"
-        },
-        {
-          "title": "MAG.A Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BMmpObVhjS2lJRFF2Z0w4UkxBLU9FeFB4aWJaY0Y1TDZWVVdCTHdDX19QQnFGN1d4dDRyUm42bEczTWhtTDQtTW4tS1hVTURzYk9DUlI5dzI?oc=5",
-          "published": "Mon, 20 Apr 2026 17:27:43 GMT",
-          "source": "Intellectia AI",
-          "query": "Noah Holdings"
-        },
         {
           "title": "Netflix's Live-Action Gundam Film Begins Production, Starring Sydney Sweeney and Noah Centineo - Anime Corner",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUdBelh2YVJsaGhNOWVQM3lfeEdVUjFxQ0JadVl1RTJlT2NVSGhJd1dXd0ZHS3hJODY0ck9Ea2FLT2FBcUU3OUY1MkEtcFVpNGJoVG9aYTNSb3h5QXB3QWV4d3d0ZHllRXB2VG1JWjduS1NwTGFqM01KcDRCeU9heHNHaGhwU0FxUE1MTk1QejdVeEM0YndDTGFPRGkzdlc3MGhSeHpRbmlTTFBOaVllMEpKTjlKWE0?oc=5",
@@ -59,28 +38,35 @@
         {
           "title": "Affirm Stock Analysis 2026: Morgan Stanley Top Pick with 27% Upside Potential - Intellectia AI",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX01MdXBVeFR0Y0haekROaUxGVGswdnQ4VWVNNlVIV0JnLW9ra3BUYXlrNVpXd1Z4SzFBQXFsUGh4TlVzWVJrS0hpbmZBaG9hMnE4Y3R3Ti0zVktSNmZsRmIyNHRYWGZueVBmazBTbnVtUFRPLVpDbVIwVmZLM2FxaXpBZzR6Y0FDT3NmSQ?oc=5",
-          "published": "Tue, 21 Apr 2026 00:11:15 GMT",
+          "published": "Tue, 21 Apr 2026 00:18:26 GMT",
           "source": "Intellectia AI",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "MAG.A Financials: Revenue Breakdown, Margins & Competitor Comparison - Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BMmpObVhjS2lJRFF2Z0w4UkxBLU9FeFB4aWJaY0Y1TDZWVVdCTHdDX19QQnFGN1d4dDRyUm42bEczTWhtTDQtTW4tS1hVTURzYk9DUlI5dzI?oc=5",
+          "published": "Mon, 20 Apr 2026 17:27:43 GMT",
+          "source": "Intellectia AI",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Affirm Stock Analysis 2026: Morgan Stanley Top Pick with 30% GMV Growth Potential - Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVc2RTlVbkNOZExMTHFXRl9VRlpYRFQ0YVBRcHhad3c5a2htU0hhTTNoMkF3MVFRSXBjaTN2WVhWandDb1lIOUdmVWFQQ1FHSmgyNlI1N2t0alhvMzA0ZjdzSjdxWXg3VVp2S3l1Z1ZXbmV2eklTVU5KaV8tZ29DTWd3b04?oc=5",
+          "published": "Mon, 20 Apr 2026 16:13:26 GMT",
+          "source": "Intellectia AI",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Kahan Responds After Little Girl with Autism Asks Mom to Play His Song for a Worm (Exclusive) - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnIzak1LNDZYa0R2UTh0dldSTGRlQXhJQldZcmNxTXlSNW81Z3JqVC10VGM2WHJ5SXB2MDVMT001OGt2aHRzTVFDRFJzVWs5LXZtZDZhSGVIbVRfZ3gzaU9XcHFBTDhGdkV5NTNMN0JucFFDUnMydXprWXFLbWhBRmZnWUVPV0tyNmN3TG9zTDMzTy1uTTh5a0hCMEVwQQ?oc=5",
+          "published": "Mon, 20 Apr 2026 16:46:29 GMT",
+          "source": "Yahoo",
           "query": "Noah Holdings"
         },
         {
           "title": "IOTA PE Ratio & Valuation, Is IOTA Overvalued - Intellectia AI",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QaFgyU2RpNnNsRlJjQlhuRVgyTy1CUG9rOGxGdHBheUU5OWZoVkdTS2FwYk5ka2VaTHNOTVZJd2MwQWg3cm9EcFo0amxLeVV6M0xhSlZB?oc=5",
           "published": "Mon, 20 Apr 2026 13:22:34 GMT",
-          "source": "Intellectia AI",
-          "query": "Noah Holdings"
-        },
-        {
-          "title": "AI Investing Insights - Official Homepage - Intellectia AI™ - Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YbGlteWVfbFhQb3N3TjI3R2tjQ0JFSzJ1ZUttZ2ZJd0lwS0VRbjlqNWpMRll1ZllIeHFORmpmWkRFUEUyZ2NQYlpoUnl5M1B4VFRkVlhWb0NPMWhXVi1oV2REU1J2cDJZbFE?oc=5",
-          "published": "Mon, 20 Apr 2026 04:49:22 GMT",
-          "source": "Intellectia AI",
-          "query": "Noah Holdings"
-        },
-        {
-          "title": "HCTI Should I Buy - Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQR3drRmRUQ0JkRGgxV2U1eDg3TDBXMjJPVWhvMEtoLVJuUjh2V1NBaDRmUl9pLWI0V1JtdVU2SGZEWVZCOGdZWlpEUl90a1dRNVdHQWxfUEYtc0pW?oc=5",
-          "published": "Mon, 20 Apr 2026 04:20:29 GMT",
           "source": "Intellectia AI",
           "query": "Noah Holdings"
         },
@@ -98,7 +84,7 @@
       "items": []
     },
     "sub_olive": {
-      "count": 5,
+      "count": 6,
       "items": [
         {
           "title": "Olive swung from a loss to $9M profit as portfolio value hit $16.5M - Stock Titan",
@@ -119,6 +105,13 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU1Z5cXVJdWg4MkFlRmx0UWNTUEVKTGlTeUxUUWNaQUlyM0N5dlVEV25wN29vczJzNFVrOUVUb1FMZnVqemNETTVOU3dpNTJfSm52UzhiN0N3ZW13NWhSN1RONTlCbDVZbllMaHBDbmE5T1VlZHV0ZnkwNXJybmFWREZvbWhWa3ZleU1rZTI1ZW5SWUowa3p4WlF0Ynp0bE42N2liTFh2cHdadEJNWVJueWZJZmVhUmg0aXUtUU43TzJtNW5vdEFSbmVxYw?oc=5",
           "published": "Mon, 20 Apr 2026 22:15:07 GMT",
           "source": "marketscreener.com",
+          "query": "Olive Asset Management"
+        },
+        {
+          "title": "2 little-known ASX shares that could make big returns - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRThnN1NMNE5hQXZiaC1XaUw4bjJwYkZINzRYRjFKQlN0MXFfd3FVUjB4RFJGdnBVdGI0UDRIRElkN0lPVkJaM3VwaHFyc2hOZHotTjdTRlhmMVlsNDlXdWNzOURjalVJaVFyV08tcFJSQXZUWmYwb25vR0FPaFBCSmZFZVpjZk9VSVhhTlBBS0JucVRhXzIzcG9JZXRyRHhrTWc0eXYyLVRENjd0bGZkR2haSHlhNnF0NWVRbnZudkdIMFhEZDctYllLamZQbGRxQnJhZ0RnUHREZk5BNFpVYnkxajRXTmk1QmZQZ2l0dEJlVS11NnczNnJNY0Vhal9rOVhUMUxTWkUzNFFKZ19FVWhrRWFsODkteUtFdXEzWTJPbllSaXZmRTVlekMxV0x1NlNxMW90eDExX05LcVJreQ?oc=5",
+          "published": "Tue, 21 Apr 2026 03:40:12 GMT",
+          "source": "MSN",
           "query": "Olive Asset Management"
         },
         {
@@ -148,16 +141,16 @@
           "query": "ARK Wealth Management"
         },
         {
-          "title": "CRCL stock rises overnight — Cathie Wood’s ARK boosts stake; retail cheers stablecoin yield ban proposal - MSN",
-          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOUlNyN0NsMkMxMTJZVkZ6ZWxQa3VyX2MyeldDbkFiZ0tsUXRoRGtjVm40ZjlWSmozNnU2ZndZbm4ta01MYWpLWVpCVmpNUzhCRUpkenkwTzBfSXVzWi1tRXB0U19rMGVMM0wtMXBQRDk1UkJCRUVHQ29QSlVnQWktb0loVGpKT3MtdDNFN2w2VmZKQkIyS2ozME8xRS1LaW4xd2NTOXgtT0xkY0xuN1VMS1NFQ0tLNFF3SVpxUVdLT0JmZ2x5akY0ZFAyVDVBdEd3MGNESXpycjdiSzNiWjA3dVJJSmZuNFB3ekZGTlF3cDJaRTJ0bmRuRVVzbUw0SjN3NG5CVm5yVjh2Qm40LUowYXVjMXM5ZlZfcm5uSV8wRmNkVDFPRlFrLW1xa3JZWkdSbTRpTlFqVG8xX3lpczduY05HVHNDQXlyblNRY1dxZ1dPQ1pJRTdfZHhrTU9rQ09MR0JhVDRnc1QtV2lHYkltWHlYRnl5cDk5bUdWSmJQYTVqOHlwQUJjS3RCaVhpZw?oc=5",
-          "published": "Mon, 20 Apr 2026 20:57:13 GMT",
+          "title": "Cathie Wood's Ark Invest buys proteomics company Alamar, Netflix; trims crypto names - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNNFVyNUR4MTVrbVpUU1ZZYk5zbllZYmxXYm1fN2s0Q3MwNF9HM2RnNmIzVUlqZVJWNVlPTGh1WnZ1M08xQnk1dnlkMzg1dmVKaDZOdFMwSEdqcExOLU41UGVvbm5qVmpXNXdROTlzQkc3TE9BbHpoNzlsQnRKcVZzUU5HMk9SOEViNzZ6dXNPTFEwdnlJMXJnQWc4bmMtTFlIeWIySDdwdXBEcTlSUk83cEpreGNwN2w5OGljS1FObk1sNWRiLTlDR3Vzam9ySTFmRFpCdDBnTGpITVlfYUNOdHdHUUZyRzNnMkZGc1pMS0tfWGZlOFgzVEVEdjFkdUU2UTZoWVU1ZWcxeThNTnVoMlhsSDZEc2lfME1rWHgtbEg5OWFiSkdpNDA4VjdoTkVZWmx6eEF1emJEZkpfNS1PUWVmMVZrUzc2QUZfS3pvUjVLQ3dSOGgxWnV4dFZTMWxKbDVHV01PUQ?oc=5",
+          "published": "Mon, 20 Apr 2026 12:22:14 GMT",
           "source": "MSN",
           "query": "ARK Wealth Management"
         },
         {
-          "title": "Cathie Wood's Ark Invest buys proteomics company Alamar, Netflix; trims crypto names - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNNFVyNUR4MTVrbVpUU1ZZYk5zbllZYmxXYm1fN2s0Q3MwNF9HM2RnNmIzVUlqZVJWNVlPTGh1WnZ1M08xQnk1dnlkMzg1dmVKaDZOdFMwSEdqcExOLU41UGVvbm5qVmpXNXdROTlzQkc3TE9BbHpoNzlsQnRKcVZzUU5HMk9SOEViNzZ6dXNPTFEwdnlJMXJnQWc4bmMtTFlIeWIySDdwdXBEcTlSUk83cEpreGNwN2w5OGljS1FObk1sNWRiLTlDR3Vzam9ySTFmRFpCdDBnTGpITVlfYUNOdHdHUUZyRzNnMkZGc1pMS0tfWGZlOFgzVEVEdjFkdUU2UTZoWVU1ZWcxeThNTnVoMlhsSDZEc2lfME1rWHgtbEg5OWFiSkdpNDA4VjdoTkVZWmx6eEF1emJEZkpfNS1PUWVmMVZrUzc2QUZfS3pvUjVLQ3dSOGgxWnV4dFZTMWxKbDVHV01PUQ?oc=5",
-          "published": "Mon, 20 Apr 2026 12:22:14 GMT",
+          "title": "Noah's Ark mystery deepens as underground tunnels found in Turkey mountain match Bible blueprint - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOZFZyZU5FRzRpVnktcFJoeHBCS0YyNVRFSUlHV2RiWEVsUXE0TFVfWmlkUm5nRmtmam1GS0dwYV9OZzM4bnJFS3ZVQXpIN2NPYkpDWlZSRmtZdDUyWXpRNmNabDd4bk51ZzFZTV94aWQ2M2VsR2xxUExFd0pmanNMakVmM3RzV1F0c2JSQzdzRlZuLW5fZ2VqalVWOEptVC1OVlFGNkdaSzctNU0yV0RkLUhEWlF4Vmx2WmxjOFlpbU03X2g2b011NUpOcHBjWHhkcF9jT1ZwbXZucFp0Nno2Vm9iSzNKOV9LM0tnb0pvUGltM1BTVXMwYmZlMUpING9uWVZmZWFTNUVLSUYtdS1zUGxJVzEwQ2xxMWhMd0FVUlljQkc5MXJPY0lqajl6RnRUOTZnTkozWEs0aVNUU1JfUjMxbWxhUHk0bkljNEl6a3BTTmRBZWtTRVAtbXVPdkJlY3dsb01Rd21qenppemZOMmpacXU?oc=5",
+          "published": "Tue, 21 Apr 2026 05:01:25 GMT",
           "source": "MSN",
           "query": "ARK Wealth Management"
         },
@@ -183,23 +176,23 @@
           "query": "ARK Wealth Management"
         },
         {
-          "title": "Buy NFLX stock dip? Wall Street analysts stay bullish while Cathie Wood’s Ark piles in after post-earnings slide - MSN",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRWo3NmxWeUZ3TUZtRkZxZndTWEdMRkdqWkxzV3UyUTF4N1NRa1RUYU5GZGxUZDRsY1BZRFBMQ2tQTGxIb3RNUGhRWG9EbnU1RWNDVVRvQ3J6ekQ3enBnT3k0dl9ndnk2V1h4aGxySGp2OHIySHQ5VUEwN0VnckQ3RUNiWURkZnZUa1AwYTM0YlZSSzI4Y19iSDlrMWxWUVJLSUotSU9ZVjEzNWxCYXVMcDkzYlNCM0pqVWcxRXFLWG5CTXhoOFVVbDRxM2FKLVdpeVpybnBQUjNpNHZVZ2ZucFdMTHBZdEgzVkdVOGhpQlIyOEpwcVFpUUFVWWxEMEt0V2FMSW8xVEkzTnVQRzY4ZDAwS1k5UHpUQjdr?oc=5",
-          "published": "Mon, 20 Apr 2026 07:15:54 GMT",
+          "title": "Cathie Wood bets on Amazon as $100 billion Anthropic deal reshapes AI race, here's what else Ark traded - MSN",
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNRW11el9LZS1RVGNibGhUQmt0am9wZTd5cDg0a0dzeHRadXN6aVRMMjdvUXFqeldXcTBKMFdIZ01XZExQaU83YkhVZ2F2UGJBRmFXMzV5bHNVUm1tSk9mWEhpYUFBdTJZU0Z0XzUyOU5rQlR6cDZReHhCTERXbHVPZ05ScllYQThPVEh2S2p6VXZWUUZUYkMyY1l4NUJQSzVOUVcwNk14S2YwX1RrSmtleFBldDN4T0QzVnZndkRFZWNHekZuQWw1WlQ0QTl4Ry14akhta2VnbWxEb1I2U2Rrc3U1U2VUZkRXdm56XzhtMm5yenR1Wi1ZOXpsMHhOY1B5aXc2WFJ2WDJLakliNl9KMjhvV2tCNjhsdE5oV3VVN2NPazEzQjR0YzVaWHBWeU1Hby1XakgwRkI4SFc1ZEtyZEdCc3BJNVl0azY0TUtncXhVUmY0aGt2NU5wSHUxckRXU1BncWRYakg5WjU2QnFiTmJXeXFWYXNxaldEaVBqcHcwN2lYeDNKSzIxVW53Y2Y0TWVF?oc=5",
+          "published": "Tue, 21 Apr 2026 06:33:02 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Noah’s Ark is real, it’s in Kentucky, and you can walk all three decks of it - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeEpJQlhJbHEwbzdEcHVobER5RDBLaTVGbW5qa0RvSDl1NzlEaW5tczkzVmlrdm5ZcWJVN25vTS1aN1BPZFg5NDhrZEloU1htV1NqZUtMak9USlJkSzNmQnlWNHQtdlQ5VnA3NkpuU3oxM3JRbndiS2ZRbWd2SkRyOHNyYVdRMUVzWnJNN01RSGJWazVrLVNzYThsZXVyemVwREVxcnc1QUg5cVVZTkhHZnZveEhjaUx2VHh1d2haYXFraWM4dzhGS2pqWTMwbVh1YVNuZQ?oc=5",
+          "published": "Tue, 21 Apr 2026 04:09:57 GMT",
           "source": "MSN",
           "query": "ARK Wealth Management"
         },
         {
           "title": "Cathie Wood trims bitcoin target as Ark Invest reduces Circle, bullish positions - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzZXY0dGeTZISDJXQXBVLXFTVExjdHQxQ3VCa3F3djE3Q3dPSDdHd0NJSURNb0N6dklETk9SM1ExMWczN0dsRWxGVk1PU2RqTENvYmw3Q01TdVRHcWpSLWplZ0RZbWM4VjYwQ2xEQ2dxeWs0bzRtbUNDZGV3dV9YTlZGdWpNSmppSWEyUGZGdTdNblQ3NUJrVWsxMi0taU1ZR2RVVkpSSFpJMFZNRkxZb1UyYXNPalZUaXVIRXZOOHRVV2hudkpRSnk4V2xFUEFCdkJYaFhsaEotbERYb1JVR1phMktuRlQ3T2c?oc=5",
-          "published": "Mon, 20 Apr 2026 19:31:14 GMT",
-          "source": "MSN",
-          "query": "ARK Wealth Management"
-        },
-        {
-          "title": "Alphabet’s Google may be sitting on a $234B gold mine — and SpaceX, Anthropic IPOs could unlock it this year - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPZ1BSc0pXWm1mSlVfNFB3dExkZkhmcVJkbXRVcFFjTmN1dFJ5NS1XUTZhOVp3VjFLQWhsWlFtVnFGenNMQldtTDlnVGpSLUI3bS1Pem5WbklldXFqZEVVUkE5VHZEclJKVnp6eEVKU0k3ZVBPYkEya2pRSm9uOEs3cUZHTTRaWVRSNXZ2QjZmREt3ZThLRU95WFctQTJFRGprbTlsUnpUeVdkZTFXZzk2RzhBXzlLc0t5ZnZPckpZWnpIZ0hxalFYc21reDNLalB0eWVvY1BKSlpqX1NyVktjRlNTdHp1QmpSUkV1akVXdEQ5a194XzR1Wm1sRXNjdkVMWnh6a3IyQnR4LWpjejZhNnJvenhLNEc1SEFBeFpGenJZaTlla1dpRWFGR1oxd3RfTkFqYUlwbnM4TmpMMDdNQWN5dm1TTDRHWE5Ub3NQdUQ5ZnlXMkhNWWEybThiSHRXYjB2aEJ4UTNMM1FFZkJObEpUdFhZNjZqanBSbDFCdw?oc=5",
-          "published": "Mon, 20 Apr 2026 07:01:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQaDlPclRBSTVYaGNVRUZ0eGZFRGJqQjBvakxGLVR1d3JlMFNZcjZBWmZveVBVekdNNzFDNEJ4eTNBNjJuenhNaEZGQWFEekZHZFNFQ2ZuTVZSUjdQdzAxUnNXUHpzcV95ZGdsbXFvRlpqOTlETkdpeXF4dU03WVJ1NlhWa3E5RW5RZy15bm50SWQzMmgxMUl2YzNGc1QwM2RrbGN0ZkYxbnhtV09oM3lzT3doMGctSE5HeC1URW1ReUNmNi1aZmlCaEFUdFRJT1d6SzdqQXZQMm9xSnBFOGUwMmUxZ09Wc0ppV2lsMVlibXdzSmMtVjk4UjdqRFpfcUtsZ2tLSzZZUVEzdzEtUzNiSWJESDUtbzhla0h0QkRRaGpxY21teml5ZFVvWHNKZE9hVE5STzlhWHREeWlPVGFzcnNSOENtSWN6MG1rX0ZFZ3dZd21XU0tRdUZ0VXh0QQ?oc=5",
+          "published": "Mon, 20 Apr 2026 19:28:03 GMT",
           "source": "MSN",
           "query": "ARK Wealth Management"
         },
@@ -255,7 +248,7 @@
       "items": []
     },
     "comp_arta": {
-      "count": 4,
+      "count": 5,
       "items": [
         {
           "title": "Arta Finance Wealth Management LLC Invests $9.18 Million in Apple Inc. $AAPL - MarketBeat",
@@ -284,11 +277,18 @@
           "published": "Tue, 21 Apr 2026 01:22:00 GMT",
           "source": "Minichart",
           "query": "Arta Finance"
+        },
+        {
+          "title": "Yucheng Technology Finance (00279) plans to place up to 123 million shares at a discount of approximately 18.3%, raising about HKD 59.8 million in net proceeds. - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnlqSjZHY2dNM0NyZ3FOaFU2MlZXSWpCNUt6YW5uR2RlS1FNYXJTLVYzb3JKRHRfd2lheEVPRUtGSDFpRUtTS3luYXZTQkFsR1RLMzNxYWVCMXhNQWpzLTRvOV9BdC1NMmZrcmZKMk5uTkJoeVM3dVRuV1RSZjlidEtzMDJheVhLRFV6MzlRSjhBdmU2bDV2ZFZBNzM2Z0lX?oc=5",
+          "published": "Mon, 20 Apr 2026 14:49:07 GMT",
+          "source": "Moomoo",
+          "query": "Arta Finance"
         }
       ]
     },
     "comp_ubs_apac": {
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "UBS Group AG stock (CH0244767585): Why Google Discover changes matter more now - AD HOC NEWS",
@@ -345,13 +345,6 @@
           "published": "Mon, 20 Apr 2026 07:52:23 GMT",
           "source": "UBS",
           "query": "UBS Singapore wealth"
-        },
-        {
-          "title": "UBS Group AG stock (CH0244767585): Why wealth management strength matters more now for global invest - AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY090UWRvZlZUX1JtOWx6TU1TdlJTZG5EZ3E1dEVKZ1M2a0h1bFdxYllQUldKNWxabTF5ajFGd3RJVEJNRlZqc09NMkdRZDBDcHdOZXhsTDl4dWUtZ1FkRHVMcWVDV1E0ajZxVUlkOFlTaVVtN2xSTWpZMkJXY3FsS3hxS1c3dHg3aFZIa3ZvNzdMN201d0xFSVVsTEhIRm9zTUVSVjhKeFJSbms2UEhxa01GdHFSWG9OanZVZ3ZrN1ItZw?oc=5",
-          "published": "Mon, 20 Apr 2026 04:46:17 GMT",
-          "source": "AD HOC NEWS",
-          "query": "UBS Singapore wealth"
         }
       ]
     },
@@ -359,24 +352,38 @@
       "count": 15,
       "items": [
         {
+          "title": "Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWHJZWEpvN0J0VFlWaEozOVhzbFFJY2VvQnQycVIzY3dsWkpJekh1MGU1THg1ZUlzbS1BbW9oc3BfeWxPSHFBOXRoTmR5ckRoSlctaFY1RS1PRWJLMjhtQWQ3aEozLU81eWZWenFWSThJaTIwRUZuQ0w0cWdIUkQ2ZUhDX0RUTkdyMmppbFBnS2IzX0o3ak42X25WRHZaRDlNdV8xV3AxSUVrVVA5STE0bDEtdy1FbHVOd1p5WmN3N3VuOXkwdXlB?oc=5",
+          "published": "Tue, 21 Apr 2026 05:15:28 GMT",
+          "source": "South China Morning Post",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Weekly market commentary - blackrock.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+          "published": "Tue, 21 Apr 2026 00:13:36 GMT",
+          "source": "blackrock.com",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Solid foundation laid for RMB internationalization - China Daily - Global Edition",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0lyZ2hTX3JPNExpV3lKUGI3SHNsLVVLNEI5QWJzQnU5YWFaQmFjai1kSmJHVzBEVnhrRkV0YXRIZnV5Rk1mQ1ZpdGFzaWVRcUR5RnJuMTVpTS0yaFBpTlF4MzFkaTJsV2FORmU2a092ZGZraGNCYWhHbllWYmhFTkh3?oc=5",
+          "published": "Tue, 21 Apr 2026 03:18:05 GMT",
+          "source": "China Daily - Global Edition",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Appeal of Chinese Yuan Assets Is Increasing, Experts Say at LSEG China Insight Event - Yicai Global",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdU1nSzBEb2pWMDRHY0R3MUNpWHN6cHptRXc1b0ZCcWI3bXlxN3J6blhYVEptMF9DbWxYeGxwUTd3RS02dFpKNXlVZHFfM28zTk1tN3N6OEx3Y3pwcmwzVVotWHB6dDd2WVdzaW82TEllT09CVmpOc1JWWlFBMEgyb1NpZ0tkbTg1aXl3TE1lTF9IUVVCVzRlTmJySUkzdmtITXdGd0xIM2hwdzRTWTBFQ1N3YWxMams?oc=5",
+          "published": "Tue, 21 Apr 2026 06:18:18 GMT",
+          "source": "Yicai Global",
+          "query": "overseas Chinese wealth management"
+        },
+        {
           "title": "China flashes new tech swagger to world markets convulsed by war - MSN",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUnlfLTk4Rm0yVll6bWh1U2FTajg1STROUjFkdnFlNjhXV0s2ZHpud3hiYnBoeVhIYXJjM2RiTkhpLWVyVHlSTzl1WThkS2FrRm5reGIwT1R1cURqc1FZdU51eDF6dU1ialpzdjJtOHBpaGJFOU1oT3B2REhsUmhwb1M5eUV3WW5CLTlfbWxMaVhmajMweTRmMG5XaVFVeHNQazJRUmdRUGpWdUpVcjM3YWs5b1VTbnNEdE1mMDZKYndLaFlwVXFSUEppTGRXeFRiRDBUSEJZVQ?oc=5",
           "published": "Mon, 20 Apr 2026 23:00:00 GMT",
           "source": "MSN",
-          "query": "overseas Chinese wealth management"
-        },
-        {
-          "title": "Solid foundation laid for RMB internationalization - China Daily",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xQWRFcURWX3lXZGJCQU1zcjRDY3dmdVBfRkY2ZTI0dlhSbVZjR21BSjdXc1lHWkhMYndJb0Z3dnlHSGNrZzJKbGNFODd2ZEg4VzRGRjBjclYzOTV5T0l0VzhPNDNkWk5zdXpjQy04YjIyeDZhMm9Lc0gxNE90UQ?oc=5",
-          "published": "Tue, 21 Apr 2026 02:08:00 GMT",
-          "source": "China Daily",
-          "query": "overseas Chinese wealth management"
-        },
-        {
-          "title": "China’s wealth management products shrink by $200BN - chinaeconomicreview.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEF0S3FzTnBfSTBxMjVvbUtnYkZTT1hXaW81bk9HemFYSHVKTXhuN0xYelZIcjlvZVVNb1hHTXNDNDVsTDRvU3N5ZVNvYWdXQ3pvd3BYcFJra2dLZUw3VkR3bnptNVFTMXUzaE4tV2dhZlZPc0hoUEU4THFaYzJYVjdvQXNLc3I0cWfSAY8BQVVfeXFMTXZyaXN3Yi1jcmh2bEQ0dDY3enA0NHM1bnI4c3dCbU9uVkUwTUxKNlFqWFdWVmRia3k2NFJkM1I4MGU3Y0pkU3A3RGlQZDhaOG1rSnhBVFBWX0FScFF1b3JxNVIxRG01OW5JTnFiRW1aSDdpNVZOLWJGUGdHVVhSd2Vya254SzlmSDhiVVE1VWM?oc=5",
-          "published": "Mon, 20 Apr 2026 08:46:51 GMT",
-          "source": "chinaeconomicreview.com",
           "query": "overseas Chinese wealth management"
         },
         {
@@ -387,10 +394,10 @@
           "query": "overseas Chinese wealth management"
         },
         {
-          "title": "Top 5 Factors to Consider When Choosing a China Electric Golf Cart Company in 2026 - openPR.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkk1bG1xV2pKZ3JjenBieXQxZWN4S2NJdHZ3SW8zTi1XMDlSbmVFVE5mQ0N3SVBaMUxQQ05BOVIyVE52Q2dLR3pQczZuNl9wTmJuUWpZZTN2X3hieDQ0MXEzRWhhWXZfUkxtWTVEQnpvSWVVWGlSNlVZUVlnRzZlMXpJX0kxbEpsNVhpS0RGSk9QVkJKcmJrdXk2MTRKSE05X1VXZQ?oc=5",
-          "published": "Tue, 21 Apr 2026 03:19:20 GMT",
-          "source": "openPR.com",
+          "title": "China’s wealth management products shrink by $200BN - chinaeconomicreview.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEF0S3FzTnBfSTBxMjVvbUtnYkZTT1hXaW81bk9HemFYSHVKTXhuN0xYelZIcjlvZVVNb1hHTXNDNDVsTDRvU3N5ZVNvYWdXQ3pvd3BYcFJra2dLZUw3VkR3bnptNVFTMXUzaE4tV2dhZlZPc0hoUEU4THFaYzJYVjdvQXNLc3I0cWfSAY8BQVVfeXFMTXZyaXN3Yi1jcmh2bEQ0dDY3enA0NHM1bnI4c3dCbU9uVkUwTUxKNlFqWFdWVmRia3k2NFJkM1I4MGU3Y0pkU3A3RGlQZDhaOG1rSnhBVFBWX0FScFF1b3JxNVIxRG01OW5JTnFiRW1aSDdpNVZOLWJGUGdHVVhSd2Vya254SzlmSDhiVVE1VWM?oc=5",
+          "published": "Mon, 20 Apr 2026 08:46:51 GMT",
+          "source": "chinaeconomicreview.com",
           "query": "overseas Chinese wealth management"
         },
         {
@@ -408,36 +415,50 @@
           "query": "overseas Chinese wealth management"
         },
         {
-          "title": "China produces the world’s tea, but brands lag behind - KrASIA",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5falhkOC1PMnZHZnZ5dzlrdTdzdGhFS3lKcUEybFV2Y2FqMGd4WE9FVXZMWm5lUDZpYkc5bi1Gc01WeFpXaTdBNW8xVHc3ZVd4X21sT1JKck5Tek9DVjN5R2JHSnRvSXlBSy1vQnFVNEhkS2d3WE1jcFhoRQ?oc=5",
-          "published": "Mon, 20 Apr 2026 12:45:56 GMT",
-          "source": "KrASIA",
-          "query": "overseas Chinese wealth management"
-        },
-        {
-          "title": "Jayud Global Logistics (Nasdaq: JYD) posts 2025 loss amid China, tariff risks - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFNrLTdRVTJ6MWw0TXpWXy1nbVRjNmtyN0d4TWZhQV9udDFiZ3BKbi1JSUVfYzFsTmF6cW95aDkyNXJYNzdYQmFXT0E0OEprLXZPcm1WTW4zb2g3MEo1LVlRNEJVa2xtcHZNb28wR3loblZsOU9WVXp3dENsVlJUUmo5ZmVLN2Q4WFlsclN0cVkzUU9lNURrQU45d2hGWWZFRjZDV25EOG9OVGZXR20zLWZuQk4zU04tRlZyVkhoOFVtWUhxeHc?oc=5",
-          "published": "Mon, 20 Apr 2026 20:06:34 GMT",
-          "source": "Stock Titan",
-          "query": "overseas Chinese wealth management"
-        },
-        {
-          "title": "Nanhua Futures (02691) reported outstanding performance in Q1 2026, with both revenue and net profit achieving high growth. The company demonstrates strong resilience driven by its dual domestic and international operations. - 富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2paY0paeTdHNjF6ektEQnpHWU9hWDlWZFVmb2VpM0hWVHlBZ2tsMTg4RkdKUUxVbDg4RGhhUDk5N05aVW51ZjQ1MzhzbE5PNWhSc2xYLTI1Q3JFV0NUSkI3cjJacTdEMC1kN1VFUHo2MHAzUW1hS2x1Uks0OVJWeVRISHl0UG1yamZHc2pTZjQxeF9yd1JRejlzcFlHNGRqMDk5NGtvdjJ2bWVnWmhF?oc=5",
-          "published": "Mon, 20 Apr 2026 13:15:50 GMT",
-          "source": "富途牛牛",
+          "title": "At Beijing car show, Chinese automakers take aim at Europe's premium brands - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWDFZS0tURGpaenpPOHhnZHQ3SW1XNFpWS20yMy1XaGJWQjUwb09Fem50S2g1dXMwcUxGVF9qQnNwMzZrLUJ2SmFxVkJNTWk1Z1NmeGQ4c1BHY3FmWG9KT09maG41YWs1Nlo0VDhOaHlSRU5Zb1FTUDlodnB6T1B4cF9TZ2hCY2JMaWRFMUF6NjF4bFZ2aENvOEhfaDRxaUEwb2NCQWRQT05LRmY3WFU0bHQ3OVgxSkhLeTNkenc1N05OY2xiTnJrVnhYM0Iycno5cXk4cDd3djRmNDJESWJJd3oxRQ?oc=5",
+          "published": "Tue, 21 Apr 2026 06:19:59 GMT",
+          "source": "MSN",
           "query": "overseas Chinese wealth management"
         }
       ]
     },
     "topic_family_office": {
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "title": "Klay Group Adds Senior Figure In Singapore - WealthBriefing",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTR2VWw4WV85VVZ6LXhBNnA1ZE5zYm1jeGRHT2lpVXhPY2pGLW1Zd3VGNkcwcGxOWm9zcDQ5cTJWYlpnbUhkMmhmc211N095RjBuNFpZVzJaWHFzOWxGeGFEWjlDX2FoOE5XMnVkVUQ2MEZYZlhON2pac0xXOWxZWklmcFUwS0VZSmNWR1ZVNmprekVt?oc=5",
           "published": "Mon, 20 Apr 2026 15:56:57 GMT",
           "source": "WealthBriefing",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Singapore Hedge Funds Lean on Stability, VCC and ASEAN Access as Hong Kong Gains Momentum - Finance Magnates",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnpSeWt1S2R5bGJtR0dZeDF2SlMzRGpUcmd6LVVlOGxVa3hfVXBneGhjUFBVT2Z2Z3QzUGM5ZmM2NmFtYkdmQWl1ajNCZkpLUEVUaHRMV3dVbkVBZkRwRWMxRnhzaUVGOV9mUDU2QVNMS25jNUlZOTZsbUVZY2d4cDVHakw3LWdrSlMySlpZbjA4QmZqQzdKR096eXlKbTllR3RkaDByTEEyY3VfRHc5Rjg5TXdwY0tYUDhwNTVKZlhuakFFV2tJdDlxRHk5b0oxZFlnc0R2Y2jSAd4BQVVfeXFMT1Q3UHVxOWdfRTZBQ1lma0Y0cHdfOWMwc1IwancteFI1Ymd5b0UwcVNyVWYwUXlzSWFHaHZCTENza2Q2UEFaRDZ5U1lhazlwU1FQbHRuejY0YTlqRHZ5RmZ2QXdneFFfLU4wWUpFdnJMc3dHSDdWdk9keGtLMGk4cElDSlMtT0F6RDJ3UFlyXzZJM2xGTS1nZEVJTFk5U1JRRDJ0QlhucWFhcVZpSDRfUlpQWmphRHowVWU0cXdQSGpOcERYd3o5VHNuaFFGb1pIcTFuWUhrZTd0bEF5OFpn?oc=5",
+          "published": "Tue, 21 Apr 2026 04:00:00 GMT",
+          "source": "Finance Magnates",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Hata raises another US$8 mil from Bybit, family offices in Singapore - The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zLUtFVjZTZUdTUVVvSnBmZWh0Z3ZDOWEwOVdDLXNWZUxqdGthSmJTdnhMZlBjRmpyaEdBeEFLdzBOcF84ODJkSGxHby00Q3ls?oc=5",
+          "published": "Tue, 21 Apr 2026 05:52:24 GMT",
+          "source": "The Edge Malaysia",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Mercer appoints new global CIO - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHFGNS1QcHNKWGphVWViRUZYRVp4U1BxdXd3cmp4U1J5aUpVSDJCekdDd0I3dnhLTUlVV1lPc2FTRlE1MkZ4aDU3SjNOQlQxTi00VEVhSDIzRFJqWEdhc2VERjM4dmVaelpQZlF4R0tIdnJTcGZNbUhEQkxCc2gyaGotRQ?oc=5",
+          "published": "Tue, 21 Apr 2026 06:41:20 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Strategy Trumps Performance: Evolution Of Portfolio Construction For Family Offices - Family Wealth Report",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZjZrZ084VmZrQVV6c0VrQUxKcVJTNl9MRjBmOU84QnJoUVZUWm9yMlZ2dk1DOVprUXRTLUtxWGs5b25NaEp0OTI4MUJJMmRCYWx1RHpfS3VZMmJJTUgxeDhsTHdMLUl3VG1WTFZpM1U1NHJoSE1STm0yOWFUUmtpRnYzTC1xcEJUMGdhWlh3Rm9VcVNBNFAzczBybXVnaVc0VXItLWJiWlhEUE5felpCajFKVG5xdWg1d2JmWjVyMkx3dGl1WFR0TmM3U1g?oc=5",
+          "published": "Mon, 20 Apr 2026 11:20:29 GMT",
+          "source": "Family Wealth Report",
           "query": "Singapore family office"
         },
         {
@@ -448,24 +469,24 @@
           "query": "Singapore family office"
         },
         {
-          "title": "3T Family Office founder joins Geneva wealth group - Citywire",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV1B2SnhXLVFtemZrTWJJRmhuZlBnQ3lkMXVRNWREbnVhelJ5WGVyNzdHYkVHaWdvVTRhTG1xMjlaMnNEV3VsdkJYV2NNZVA5RFhMaU1VQVllZFNSX0xLcUNLd1hWLVZmTTBQX2JoVkduVnpwazBMblJyNmhZbFNJazdnVXFBNlFyRUxaRTNxWnkwUQ?oc=5",
-          "published": "Mon, 20 Apr 2026 09:34:51 GMT",
-          "source": "Citywire",
+          "title": "Pakistan has an access problem - Geo News",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZRHpiU0tYZ3ZYWnpNck0yaU9UUVo4SHNMSkFOcUR0Qkl1OUxLVjhob085TXpkN051aWVpaTc5dE1nVFJxTHJJT3RWemZFbS1nakpwaXB3bFBYR2N1ZnFlaDI4YUNmc2RSaHFHSjBxZmE?oc=5",
+          "published": "Tue, 21 Apr 2026 04:06:00 GMT",
+          "source": "Geo News",
           "query": "Singapore family office"
         },
         {
-          "title": "Malaysian Billionaire Brothers’ IOI Properties To Buy Prime Singapore Office Tower For $2 Billion - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVW5aTHRkRTlJb0pmOUFlZ18zZHlKVWlXWTJFQjRhS200R0NTVnBpVlZRa3NIdEc4QWpOWTF2Sk1jT1FrNXdNSndSSDB2RVdJZ3Z4N09oakItdlNnUElTMVhzYlRweUExVWJ6V3NxXy1NTFZuMmp1TWZsZ3IyT3RkUnFxdWNMN3BfNkdNTm11TV9pUEVHWkRXZTR0dXVkWks4bVo1TC1hS3lvdUROWE50d0ZlcXlXVDlaZ2ZaUUhObzBZeVgyaUJVU0FIZ2dhUm9taGtCeFFIa2JwU0dzdlRGV0E4M2lWQQ?oc=5",
-          "published": "Mon, 20 Apr 2026 05:31:25 GMT",
-          "source": "Forbes",
+          "title": "LEO Wealth Completes Strategic Minority Investment from Ocean Link - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNakdxaTkwUDR4M3dmbmM5S3dJMHVnX2Z1aC0yTS1USG9EUHRfOXFqd0NOd0g2SGpDVERmZ0UwRnB2ZlpSWWVHb092REVGbFVKNWxFd05JR2lvRkFkR2lqbm1uaHZQU3hpdVM1LTVoNHZKei1fcVZrUWxyQTZIVk5WckxfQy1nYjRrRF93MjVTeUJ1eU9jd1R1TndB?oc=5",
+          "published": "Mon, 20 Apr 2026 08:14:29 GMT",
+          "source": "Hubbis",
           "query": "Singapore family office"
         },
         {
-          "title": "How will Middle East conflict impact commodities? - UBS",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOS1VVUtUSXZvTmIzOVhYZTlEdkJtVGhla2tjQkszTEhXWWZlck5zdjR5MlZMcnFLajhUM2NqTHRTVW84MVM1U2xGNE1fakZxWlNMTElYaTRVTWxKc0pqOG9TeEx6T1d3NlZ5bTlLeTk1aGxlRFRIZjZzeEFSVDJPODZJaGhrdEtQZk1z?oc=5",
-          "published": "Mon, 20 Apr 2026 07:52:23 GMT",
-          "source": "UBS",
+          "title": "Family Offices in Times of Uncertainty: Boost Cash Positions and Deploy High-Quality Assets - ACN Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa1dsQnhJMzEzaEJtUU1fZXA0Y1hleHFuOGhWaUZ4WFI5V1Ffd1B3dmQ4a245eGJBRkRNSS1VTkxDcVJTSUdWQ0FfdDJkWVFNTmJCVFk0T092SGRGVEQtS2IxSVFTYzVHb0tfYmxDUEozdGV5NW5nZGZtY2hiTjh0U0lCOHhFRXNiQXhwMUlfMFZRWWl2UkpmR3FOWlR2R3J1Z1FVLWJGVHp6NjcwMjllZWJ6WjdlTWZZQ2lSUG54WHc0VW93djlUa2hGUVVIT0VEUFh5VEF3LWpjMjVLcW5VT3Nn?oc=5",
+          "published": "Mon, 20 Apr 2026 08:43:00 GMT",
+          "source": "ACN Newswire",
           "query": "Singapore family office"
         },
         {
@@ -473,34 +494,6 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVS1BX2R1cXRYT0VsV1E2RzZkdVJ2ajNNNFFfSGNlaGFJQ0xtQy0xTTBIQkZzM1RoZlZzSWRucHhXTXEtS0I4QmVrUXNmNEt4Zjh6bjhoLUNVU1NnZDZveXNsTHZjVFdoUG00U0RLUG1HcTZGd0lnNTR0bzZQR28?oc=5",
           "published": "Mon, 20 Apr 2026 09:25:58 GMT",
           "source": "The Economic Times",
-          "query": "Singapore family office"
-        },
-        {
-          "title": "Pakistan has an access problem - The News Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiYm9nRjJLdngwc2FpMDRQeE5HTVhaWjJNbzNHT252SjI4ZTRHcmRJbUh1ZzBDYWxIYXN2ZWxMWW5FTkVEbVBNcDA4Y3pVeVRULUE3RUwzWU9FMmRXbnhVSG5zSGQ2bW0wV3NhZWdsN0VWLXVFY0E?oc=5",
-          "published": "Tue, 21 Apr 2026 01:03:05 GMT",
-          "source": "The News Pakistan",
-          "query": "Singapore family office"
-        },
-        {
-          "title": "Why integrated Family Office services matter more than ever - William Buck Australia",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXNpV1ZiYWN5UmN0YnRaaE9OTGZsSEFsYWJUS3BJOHpuZ0QwQlJ1eGZUWVFVajFqeGdYbFJUOVM5NkRBR2tLTXRSdFByZzl6RVBwSTRkd1JTMG0tSFlFYmpnc0lKZ29UajlwYTdJbGRXMG5ILVpaV0hsajlwZzgyZWpvUTVvTmJHTThmZVN1VlN4THNLbWJURzFYdEVNMjJnRVE?oc=5",
-          "published": "Mon, 20 Apr 2026 04:23:57 GMT",
-          "source": "William Buck Australia",
-          "query": "Singapore family office"
-        },
-        {
-          "title": "Daman Investments and Allianz GI sign deal to enhance end-of-service offering - Citywire",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMFRfMnJLTjVsTC11dXZhYXlVM1dIUkJSaUZ4Q00xSEZraW13T3NCYTRsUXZNRWdRS2g2bElfbnBYeXpfMnRxdm9jMnJweDM1SEd6TUlhR2pYRGZ4U3I1Z3lzZkhCMVpFeE9ELU9QZDRYRzlvOTVIQW8xYVk2eXhxdUh4N2ZuZjNyTzBYb2I5VDlqY2dkMFBqSzZ0VnB0cHNJVFFpeG1zbVNhNmN6NGJIbUlwUlp1S2tUS1ZDU0JNVTlZdw?oc=5",
-          "published": "Mon, 20 Apr 2026 09:08:24 GMT",
-          "source": "Citywire",
-          "query": "Singapore family office"
-        },
-        {
-          "title": "President Tharman Shanmugaratnam’s mother dies peacefully at 99 in Singapore home - The Online Citizen",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0lRWGFGOXdyOHBGSXV3bF9zYm1MV3dNRXdBYzE1eE9zMUppZ2trbmV3UmQwZkhyaW95T3VHNGhLb203cjlZSDJlMlNWMThVYk9XYVRZRVpxbmZNOFdtQTZxZkYyWVFOV2ZHcFdMOEIzQ21RcU84RTJMcHdZTlF0U1dDNS1LejRuUWdiVGxOQVBLUjVOVnRXSF9Qa0hMMnZGWEpiNnZicTd0dWk2M1J3OHN2MmVUaWt3X0xxaEx3?oc=5",
-          "published": "Mon, 20 Apr 2026 09:53:10 GMT",
-          "source": "The Online Citizen",
           "query": "Singapore family office"
         }
       ]
@@ -524,19 +517,19 @@
     "error": "no data"
   },
   "sentiment": {
-    "positive": 1,
-    "neutral": 8,
+    "positive": 2,
+    "neutral": 5,
     "negative": 0,
-    "total": 9,
-    "pos_pct": 11.1,
+    "total": 7,
+    "pos_pct": 28.6,
     "neg_pct": 0.0
   },
   "top_mentions": [
     {
-      "title": "Noah Kahan Responds After Little Girl with Autism Asks Mom to Play His Song for a Worm (Exclusive) - yahoo.com",
+      "title": "Noah Kahan Responds After Little Girl with Autism Asks Mom to Play His Song for a Worm (Exclusive) - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnIzak1LNDZYa0R2UTh0dldSTGRlQXhJQldZcmNxTXlSNW81Z3JqVC10VGM2WHJ5SXB2MDVMT001OGt2aHRzTVFDRFJzVWs5LXZtZDZhSGVIbVRfZ3gzaU9XcHFBTDhGdkV5NTNMN0JucFFDUnMydXprWXFLbWhBRmZnWUVPV0tyNmN3TG9zTDMzTy1uTTh5a0hCMEVwQQ?oc=5",
       "published": "Mon, 20 Apr 2026 16:46:29 GMT",
-      "source": "yahoo.com",
+      "source": "Yahoo",
       "query": "Noah Holdings",
       "weight": 2,
       "sentiment": 0
@@ -551,13 +544,13 @@
       "sentiment": 0
     },
     {
-      "title": "Nanhua Futures (02691) reported outstanding performance in Q1 2026, with both revenue and net profit achieving high growth. The company demonstrates strong resilience driven by its dual domestic and international operations. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2paY0paeTdHNjF6ektEQnpHWU9hWDlWZFVmb2VpM0hWVHlBZ2tsMTg4RkdKUUxVbDg4RGhhUDk5N05aVW51ZjQ1MzhzbE5PNWhSc2xYLTI1Q3JFV0NUSkI3cjJacTdEMC1kN1VFUHo2MHAzUW1hS2x1Uks0OVJWeVRISHl0UG1yamZHc2pTZjQxeF9yd1JRejlzcFlHNGRqMDk5NGtvdjJ2bWVnWmhF?oc=5",
-      "published": "Mon, 20 Apr 2026 13:15:50 GMT",
-      "source": "富途牛牛",
-      "query": "overseas Chinese wealth management",
+      "title": "Affirm Stock Analysis 2026: Morgan Stanley Top Pick with 30% GMV Growth Potential - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVc2RTlVbkNOZExMTHFXRl9VRlpYRFQ0YVBRcHhad3c5a2htU0hhTTNoMkF3MVFRSXBjaTN2WVhWandDb1lIOUdmVWFQQ1FHSmgyNlI1N2t0alhvMzA0ZjdzSjdxWXg3VVp2S3l1Z1ZXbmV2eklTVU5KaV8tZ29DTWd3b04?oc=5",
+      "published": "Mon, 20 Apr 2026 16:13:26 GMT",
+      "source": "Intellectia AI",
+      "query": "Noah Holdings",
       "weight": 1,
-      "sentiment": 3
+      "sentiment": 2
     },
     {
       "title": "TDH Holdings (NASDAQ: PETZ) flags 2025 loss, China legal and PFIC risks - Stock Titan",
@@ -580,7 +573,7 @@
     {
       "title": "Affirm Stock Analysis 2026: Morgan Stanley Top Pick with 27% Upside Potential - Intellectia AI",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX01MdXBVeFR0Y0haekROaUxGVGswdnQ4VWVNNlVIV0JnLW9ra3BUYXlrNVpXd1Z4SzFBQXFsUGh4TlVzWVJrS0hpbmZBaG9hMnE4Y3R3Ti0zVktSNmZsRmIyNHRYWGZueVBmazBTbnVtUFRPLVpDbVIwVmZLM2FxaXpBZzR6Y0FDT3NmSQ?oc=5",
-      "published": "Tue, 21 Apr 2026 00:11:15 GMT",
+      "published": "Tue, 21 Apr 2026 00:18:26 GMT",
       "source": "Intellectia AI",
       "query": "Noah Holdings",
       "weight": 1,
