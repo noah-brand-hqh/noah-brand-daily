@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>诺亚品牌晨报 · {{ date }}</title>
+</head>
+<body style="margin:0;padding:0;background:#0A0E1A;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,'PingFang SC','Microsoft YaHei',sans-serif;color:#E8EAF0;">
+<div style="max-width:680px;margin:0 auto;background:#0A0E1A;padding:32px 24px;">
+
+  <!-- HEADER -->
+  <div style="border-bottom:1px solid rgba(201,169,97,0.25);padding-bottom:20px;margin-bottom:28px;">
+    <div style="display:table;width:100%;">
+      <div style="display:table-cell;vertical-align:middle;">
+        <div style="font-size:11px;color:#C9A961;letter-spacing:3px;text-transform:uppercase;margin-bottom:6px;font-weight:600;">Noah Brand · Daily Intelligence</div>
+        <div style="font-size:22px;color:#E8EAF0;font-weight:500;letter-spacing:-0.5px;">诺亚品牌建设晨报</div>
+        <div style="font-size:13px;color:#8892A8;margin-top:4px;">{{ date_human }} · SGT 09:00 · 对比 {{ yesterday_human }}</div>
+      </div>
+      <div style="display:table-cell;text-align:right;vertical-align:middle;">
+        <div style="display:inline-block;width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#C9A961,#8A7642);color:#0A0E1A;text-align:center;line-height:44px;font-size:22px;font-weight:700;">諾</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- KPI SNAPSHOT -->
+  <div style="background:#151B2B;border:1px solid rgba(201,169,97,0.14);border-radius:12px;padding:20px;margin-bottom:24px;">
+    <div style="font-size:11px;color:#8892A8;letter-spacing:2px;text-transform:uppercase;margin-bottom:14px;">今日核心快照</div>
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td style="padding:8px 12px 8px 0;vertical-align:top;width:25%;">
+          <div style="font-size:10px;color:#8892A8;letter-spacing:1px;text-transform:uppercase;margin-bottom:4px;">NOAH 股价</div>
+          {% if stock.unavailable %}
+          <div style="font-size:18px;color:#8892A8;font-weight:500;">—</div>
+          <div style="font-size:10px;color:#8892A8;margin-top:3px;">数据源暂停</div>
+          {% else %}
+          <div style="font-size:20px;color:#E8EAF0;font-weight:500;">${{ stock.price }}</div>
+          <div style="font-size:11px;color:{{ '#4ADE80' if stock.change_pct >= 0 else '#EF4444' }};margin-top:3px;">{{ '▲' if stock.change_pct >= 0 else '▼' }} {{ stock.change_pct }}%</div>
+          {% endif %}
+        </td>
+        <td style="padding:8px 12px;vertical-align:top;width:25%;">
+          <div style="font-size:10px;color:#8892A8;letter-spacing:1px;text-transform:uppercase;margin-bottom:4px;">媒体提及</div>
+          <div style="font-size:20px;color:#E8EAF0;font-weight:500;">{{ total_mentions }}</div>
+          <div style="font-size:11px;color:#8892A8;margin-top:3px;">条 · 全网</div>
+        </td>
+        <td style="padding:8px 12px;vertical-align:top;width:25%;">
+          <div style="font-size:10px;color:#8892A8;letter-spacing:1px;text-transform:uppercase;margin-bottom:4px;">正面占比</div>
+          <div style="font-size:20px;color:#4ADE80;font-weight:500;">{{ sentiment.pos_pct }}%</div>
+          <div style="font-size:11px;color:#8892A8;margin-top:3px;">负面 {{ sentiment.neg_pct }}%</div>
+        </td>
+        <td style="padding:8px 0 8px 12px;vertical-align:top;width:25%;">
+          <div style="font-size:10px;color:#8892A8;letter-spacing:1px;text-transform:uppercase;margin-bottom:4px;">看板</div>
+          <a href="{{ dashboard_url }}" style="font-size:14px;color:#C9A961;text-decoration:none;font-weight:500;">查看完整看板 →</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- TOP 3 GAINS -->
+  <div style="margin-bottom:24px;">
+    <div style="font-size:14px;color:#4ADE80;font-weight:600;margin-bottom:12px;letter-spacing:0.5px;">
+      ▲ 前 24 小时 · 品牌提升 TOP 3
+    </div>
+    {% if top_gains %}
+    {% for g in top_gains %}
+    <div style="background:#151B2B;border-left:3px solid #4ADE80;border-radius:8px;padding:14px 16px;margin-bottom:8px;">
+      <div style="display:table;width:100%;">
+        <div style="display:table-cell;vertical-align:middle;">
+          <div style="font-size:14px;color:#E8EAF0;font-weight:500;">{{ loop.index }}. {{ g.label }}</div>
+          <div style="font-size:12px;color:#8892A8;margin-top:4px;">昨日 {{ g.yesterday }} → 今日 {{ g.today }}</div>
+        </div>
+        <div style="display:table-cell;vertical-align:middle;text-align:right;width:90px;">
+          <div style="font-size:18px;color:#4ADE80;font-weight:600;font-family:monospace;">
+            {{ '+' if g.change_pct >= 0 else '' }}{{ g.change_pct }}%
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% else %}
+    <div style="color:#8892A8;font-size:13px;padding:14px;background:#151B2B;border-radius:8px;">今日无显著提升指标</div>
+    {% endif %}
+  </div>
+
+  <!-- TOP 3 LOSSES -->
+  <div style="margin-bottom:28px;">
+    <div style="font-size:14px;color:#EF4444;font-weight:600;margin-bottom:12px;letter-spacing:0.5px;">
+      ▼ 前 24 小时 · 品牌下降 TOP 3
+    </div>
+    {% if top_losses %}
+    {% for l in top_losses %}
+    <div style="background:#151B2B;border-left:3px solid #EF4444;border-radius:8px;padding:14px 16px;margin-bottom:8px;">
+      <div style="display:table;width:100%;">
+        <div style="display:table-cell;vertical-align:middle;">
+          <div style="font-size:14px;color:#E8EAF0;font-weight:500;">{{ loop.index }}. {{ l.label }}</div>
+          <div style="font-size:12px;color:#8892A8;margin-top:4px;">昨日 {{ l.yesterday }} → 今日 {{ l.today }}</div>
+        </div>
+        <div style="display:table-cell;vertical-align:middle;text-align:right;width:90px;">
+          <div style="font-size:18px;color:#EF4444;font-weight:600;font-family:monospace;">
+            {{ l.change_pct }}%
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% else %}
+    <div style="color:#8892A8;font-size:13px;padding:14px;background:#151B2B;border-radius:8px;">今日无显著下降指标 · 品牌态势稳定</div>
+    {% endif %}
+  </div>
+
+  <!-- SENTIMENT HIGHLIGHTS -->
+  <div style="margin-bottom:28px;">
+    <div style="font-size:14px;color:#C9A961;font-weight:600;margin-bottom:12px;letter-spacing:0.5px;">
+      ◆ 舆情亮点 · 今日重点信号
+    </div>
+
+    {% if positive_signals %}
+    <div style="font-size:11px;color:#4ADE80;margin-bottom:8px;letter-spacing:1px;text-transform:uppercase;">● 正面信号</div>
+    {% for p in positive_signals[:3] %}
+    <div style="background:#151B2B;border-radius:6px;padding:12px 14px;margin-bottom:6px;">
+      <a href="{{ p.url }}" style="color:#E8EAF0;text-decoration:none;font-size:13px;line-height:1.5;display:block;">
+        {{ p.title }}
+      </a>
+      <div style="font-size:10px;color:#8892A8;margin-top:6px;font-family:monospace;">{{ p.source }} · <a href="{{ p.url }}" style="color:#60A5FA;text-decoration:none;">原文 ↗</a></div>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% if negative_signals %}
+    <div style="font-size:11px;color:#EF4444;margin:14px 0 8px;letter-spacing:1px;text-transform:uppercase;">▼ 风险信号</div>
+    {% for n in negative_signals[:3] %}
+    <div style="background:#151B2B;border-radius:6px;padding:12px 14px;margin-bottom:6px;">
+      <a href="{{ n.url }}" style="color:#E8EAF0;text-decoration:none;font-size:13px;line-height:1.5;display:block;">
+        {{ n.title }}
+      </a>
+      <div style="font-size:10px;color:#8892A8;margin-top:6px;font-family:monospace;">{{ n.source }} · <a href="{{ n.url }}" style="color:#60A5FA;text-decoration:none;">原文 ↗</a></div>
+    </div>
+    {% endfor %}
+    {% endif %}
+  </div>
+
+  <!-- TOP MENTIONS FEED -->
+  {% if top_mentions %}
+  <div style="margin-bottom:28px;">
+    <div style="font-size:14px;color:#60A5FA;font-weight:600;margin-bottom:12px;letter-spacing:0.5px;">
+      ◉ 今日高影响力提及 · 前 5 条
+    </div>
+    {% for m in top_mentions[:5] %}
+    <div style="padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.04);">
+      <a href="{{ m.url }}" style="color:#E8EAF0;text-decoration:none;font-size:13px;line-height:1.5;">
+        <span style="color:#C9A961;font-family:monospace;font-size:10px;margin-right:8px;">{{ m.source[:16] if m.source else '—' }}</span>
+        {{ m.title }}
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- TOP 10 SUGGESTIONS -->
+  <div style="background:linear-gradient(145deg,rgba(201,169,97,0.05),rgba(10,14,26,0.3));border:1px solid rgba(201,169,97,0.25);border-radius:12px;padding:22px;margin-bottom:24px;">
+    <div style="font-size:16px;color:#E8EAF0;font-weight:500;margin-bottom:6px;">
+      ∞ 品牌建设落地清单 · TOP 10
+    </div>
+    <div style="font-size:11px;color:#C9A961;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:18px;">
+      基于今日数据变化 · 自动生成 · 按优先级排序
+    </div>
+
+    {% for s in suggestions_top10 %}
+    <div style="border-bottom:1px solid rgba(255,255,255,0.06);padding:14px 0;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="width:30px;vertical-align:top;padding-top:2px;">
+            <div style="font-family:monospace;font-size:12px;color:#C9A961;">{{ '%02d' % loop.index }}</div>
+          </td>
+          <td style="vertical-align:top;">
+            <div style="margin-bottom:6px;">
+              <span style="font-size:9.5px;font-family:monospace;letter-spacing:1px;padding:2px 7px;border-radius:3px;background:{{ '#EF4444' if s.priority == 'HIGH' else '#F59E0B' if s.priority == 'MED' else '#60A5FA' }}20;color:{{ '#EF4444' if s.priority == 'HIGH' else '#F59E0B' if s.priority == 'MED' else '#60A5FA' }};font-weight:600;">{{ s.priority }}</span>
+              <span style="font-size:10px;color:#8892A8;margin-left:8px;font-family:monospace;">⏱ {{ s.timeline }}</span>
+            </div>
+            <div style="font-size:14px;color:#E8EAF0;font-weight:500;margin-bottom:6px;line-height:1.4;">{{ s.title }}</div>
+            <div style="font-size:12px;color:#B8BDC9;line-height:1.6;margin-bottom:4px;">→ {{ s.action }}</div>
+            <div style="font-size:11px;color:#8892A8;line-height:1.5;font-style:italic;">为什么：{{ s.why }}</div>
+            <div style="font-size:10px;color:#5A6275;font-family:monospace;margin-top:4px;">责任人：{{ s.owner }}</div>
+          </td>
+        </tr>
+      </table>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- FOOTER -->
+  <div style="margin-top:32px;padding-top:20px;border-top:1px solid rgba(201,169,97,0.15);font-size:10px;color:#5A6275;letter-spacing:1.5px;text-transform:uppercase;text-align:center;font-family:monospace;">
+    <div style="margin-bottom:6px;">Noah Brand Intelligence · 自动化监测 · v2.0</div>
+    <div><a href="{{ dashboard_url }}" style="color:#C9A961;text-decoration:none;">完整看板</a> · 数据采集时间 {{ collected_at }}</div>
+    <div style="margin-top:10px;color:#3A4055;">本邮件由 GitHub Actions 定时任务自动生成于 {{ date }} 09:00 SGT</div>
+  </div>
+
+</div>
+</body>
+</html>
