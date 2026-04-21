@@ -1,0 +1,478 @@
+{
+  "date": "2026-04-21",
+  "compared_to": "2026-04-20",
+  "top_gains": [
+    {
+      "metric": "sentiment_pos_pct",
+      "label": "全网正面情感占比",
+      "category": "sentiment",
+      "today": 11.1,
+      "yesterday": 0.0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_olive",
+      "label": "Olive 子品牌曝光",
+      "category": "sub_brand",
+      "today": 5,
+      "yesterday": 1,
+      "change_pct": 400.0,
+      "brand_impact_score": 400.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_noah_en",
+      "label": "Noah Holdings 英文媒体提及",
+      "category": "brand_core",
+      "today": 9,
+      "yesterday": 2,
+      "change_pct": 350.0,
+      "brand_impact_score": 350.0,
+      "is_inverted": false
+    }
+  ],
+  "top_losses": [
+    {
+      "metric": "news_arta",
+      "label": "Arta Finance 竞品声量",
+      "category": "competitor",
+      "today": 4,
+      "yesterday": 2,
+      "change_pct": 100.0,
+      "brand_impact_score": -100.0,
+      "is_inverted": true
+    },
+    {
+      "metric": "reddit_topic",
+      "label": "Reddit 华人财富讨论",
+      "category": "topic",
+      "today": 0,
+      "yesterday": 1,
+      "change_pct": -100.0,
+      "brand_impact_score": -100.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_ubs_apac",
+      "label": "UBS 亚太竞品声量",
+      "category": "competitor",
+      "today": 9,
+      "yesterday": 7,
+      "change_pct": 28.6,
+      "brand_impact_score": -28.6,
+      "is_inverted": true
+    }
+  ],
+  "all_changes": [
+    {
+      "metric": "news_noah_en",
+      "label": "Noah Holdings 英文媒体提及",
+      "category": "brand_core",
+      "today": 9,
+      "yesterday": 2,
+      "change_pct": 350.0,
+      "brand_impact_score": 350.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_noah_zh",
+      "label": "诺亚财富中文媒体提及",
+      "category": "brand_core",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_olive",
+      "label": "Olive 子品牌曝光",
+      "category": "sub_brand",
+      "today": 5,
+      "yesterday": 1,
+      "change_pct": 400.0,
+      "brand_impact_score": 400.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_ark",
+      "label": "ARK Wealth 子品牌曝光",
+      "category": "sub_brand",
+      "today": 15,
+      "yesterday": 6,
+      "change_pct": 150.0,
+      "brand_impact_score": 150.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_gopher",
+      "label": "歌斐 Gopher 子品牌曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_glory",
+      "label": "荣耀传承 Glory 子品牌曝光",
+      "category": "sub_brand",
+      "today": 3,
+      "yesterday": 1,
+      "change_pct": 200.0,
+      "brand_impact_score": 200.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_iark",
+      "label": "iARK 平台曝光",
+      "category": "sub_brand",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_norah",
+      "label": "汪静波 Norah 个人IP",
+      "category": "leadership",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_zander",
+      "label": "殷哲 Zander 个人IP",
+      "category": "leadership",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_arta",
+      "label": "Arta Finance 竞品声量",
+      "category": "competitor",
+      "today": 4,
+      "yesterday": 2,
+      "change_pct": 100.0,
+      "brand_impact_score": -100.0,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_ubs_apac",
+      "label": "UBS 亚太竞品声量",
+      "category": "competitor",
+      "today": 9,
+      "yesterday": 7,
+      "change_pct": 28.6,
+      "brand_impact_score": -28.6,
+      "is_inverted": true
+    },
+    {
+      "metric": "news_topic_hnw",
+      "label": "华人财富议题讨论",
+      "category": "topic",
+      "today": 15,
+      "yesterday": 15,
+      "change_pct": 0.0,
+      "brand_impact_score": 0.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "news_topic_fo",
+      "label": "家办议题讨论",
+      "category": "topic",
+      "today": 16,
+      "yesterday": 8,
+      "change_pct": 100.0,
+      "brand_impact_score": 100.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_price",
+      "label": "NOAH 股价",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_change_pct",
+      "label": "NOAH 单日涨跌幅",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "stock_volume",
+      "label": "NOAH 成交量",
+      "category": "market",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "reddit_noah",
+      "label": "Reddit 诺亚自然提及",
+      "category": "community",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": false
+    },
+    {
+      "metric": "reddit_arta",
+      "label": "Reddit Arta 竞品讨论",
+      "category": "competitor",
+      "today": 0,
+      "yesterday": 0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": true
+    },
+    {
+      "metric": "reddit_topic",
+      "label": "Reddit 华人财富讨论",
+      "category": "topic",
+      "today": 0,
+      "yesterday": 1,
+      "change_pct": -100.0,
+      "brand_impact_score": -100.0,
+      "is_inverted": false
+    },
+    {
+      "metric": "sentiment_pos_pct",
+      "label": "全网正面情感占比",
+      "category": "sentiment",
+      "today": 11.1,
+      "yesterday": 0.0,
+      "change_pct": 999,
+      "brand_impact_score": 999,
+      "is_inverted": false
+    },
+    {
+      "metric": "sentiment_neg_pct",
+      "label": "全网负面情感占比",
+      "category": "sentiment",
+      "today": 0.0,
+      "yesterday": 0.0,
+      "change_pct": 0,
+      "brand_impact_score": 0,
+      "is_inverted": true
+    }
+  ],
+  "sentiment_highlights": {
+    "positive_signals": [
+      {
+        "title": "Affirm Stock Analysis 2026: Morgan Stanley Top Pick with 27% Upside Potential - Intellectia AI",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX01MdXBVeFR0Y0haekROaUxGVGswdnQ4VWVNNlVIV0JnLW9ra3BUYXlrNVpXd1Z4SzFBQXFsUGh4TlVzWVJrS0hpbmZBaG9hMnE4Y3R3Ti0zVktSNmZsRmIyNHRYWGZueVBmazBTbnVtUFRPLVpDbVIwVmZLM2FxaXpBZzR6Y0FDT3NmSQ?oc=5",
+        "published": "Tue, 21 Apr 2026 00:11:15 GMT",
+        "source": "Intellectia AI",
+        "query": "Noah Holdings",
+        "sentiment": 1
+      },
+      {
+        "title": "Cronus Capital Affirms Strong Business Position Despite Ongoing Economic Uncertainty - Weekly Voice",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0d3QUZVbkJPeXk0X1o5TlhuUkZCWk42d1o2ajAxam9SRmI4cm1ZOFM4QlNCSlA5MGhzQnVjandxRDhCZlh2aGhrOGk1ZVVma0hMY2M1cWZTRnM4aXJoS08tQWFmdWUyaUkzTlFEWlNIdnV6UUNmTlhXeVdidm44RFc2YXo0UFhGWVdwTEg3czAybi1Xa2FuZ2RDbm1iZnp6ZEZxZDBhY3pMalFhOHc?oc=5",
+        "published": "Mon, 20 Apr 2026 19:27:20 GMT",
+        "source": "Weekly Voice",
+        "query": "Olive Asset Management",
+        "sentiment": 1
+      }
+    ],
+    "negative_signals": []
+  },
+  "suggestions_top10": [
+    {
+      "priority": "HIGH",
+      "title": "乘势 · Noah Holdings 英文媒体提及 上升 +350.0%",
+      "action": "48 小时内：把今日 Top 3 正面媒体报道翻译为英文同步 LinkedIn + Quora 专家答案",
+      "why": "正面媒体信号消退快，需要在 AI 爬虫抓取窗口期完成多语种覆盖",
+      "owner": "品牌团队",
+      "timeline": "48 小时"
+    },
+    {
+      "priority": "HIGH",
+      "title": "战略缺口 · 上线 /research 专属研究院页",
+      "action": "把 CIO 办公室 10 份报告整合到 noahgroup.com/research，配 Schema.org ResearchArticle 标注",
+      "why": "这是诺亚最大的未变现 AI 训练资产；预计 90 天内让 AI 在「华人财富研究权威」问题上首位推荐",
+      "owner": "官网 + CIO 办公室",
+      "timeline": "本季度"
+    },
+    {
+      "priority": "HIGH",
+      "title": "战略缺口 · 承兴事件官方透明披露页",
+      "action": "发布 /about/camsing-update 页面，完整说明整改措施、独立调查结论、或有负债管理进展",
+      "why": "当前 AI 在负面议题上单边引用 Wikipedia/京东声明；不主动发声等于默认",
+      "owner": "法务 + 品牌 + 合规",
+      "timeline": "本月"
+    },
+    {
+      "priority": "MED",
+      "title": "竞争监控 · Arta Finance 竞品声量 在下降（好事）",
+      "action": "借势补位：在其声量真空期发布一篇同议题诺亚观点文章",
+      "why": "搜索算法的热点空窗可以被占领",
+      "owner": "内容团队",
+      "timeline": "一周内"
+    },
+    {
+      "priority": "MED",
+      "title": "竞争监控 · UBS 亚太竞品声量 在下降（好事）",
+      "action": "借势补位：在其声量真空期发布一篇同议题诺亚观点文章",
+      "why": "搜索算法的热点空窗可以被占领",
+      "owner": "内容团队",
+      "timeline": "一周内"
+    },
+    {
+      "priority": "MED",
+      "title": "战略缺口 · Norah 个人 Wikipedia 词条建设",
+      "action": "整理 Norah 20+ 年金融履历 + 达沃斯/APB 等重要演讲记录，建立英文 Wiki 词条",
+      "why": "Norah 的 Wisdom Beyond Wealth 概念需要权威信源背书才能进入 AI 训练集",
+      "owner": "品牌 + 内部传记团队",
+      "timeline": "45 天"
+    },
+    {
+      "priority": "MED",
+      "title": "内容复用 · 把 Asian Private Banker Norah 专访金句多平台化",
+      "action": "提炼 5 条核心金句，转为 LinkedIn 英文贴文 + Quora 专家答案 + 微信公众号推文",
+      "why": "专访内容在付费墙内，AI 抓不到；必须显形化",
+      "owner": "内容运营",
+      "timeline": "2 周"
+    },
+    {
+      "priority": "LOW",
+      "title": "持续观察 · 监测 Arta Finance Group CEO 过渡期动作",
+      "action": "追踪 Felix Lin 上任后前 90 天的品牌定位变化",
+      "why": "竞品领导层变动期是插位的最佳窗口",
+      "owner": "竞品情报",
+      "timeline": "90 天跟踪"
+    },
+    {
+      "priority": "LOW",
+      "title": "基础设施 · 检查 robots.txt 对 GPTBot / ClaudeBot / PerplexityBot 放行",
+      "action": "技术团队 10 分钟即可完成",
+      "why": "AI 爬虫放行是零成本最高杠杆动作",
+      "owner": "技术",
+      "timeline": "本周"
+    }
+  ],
+  "raw_stock": {
+    "error": "no data"
+  },
+  "raw_sentiment": {
+    "positive": 1,
+    "neutral": 8,
+    "negative": 0,
+    "total": 9,
+    "pos_pct": 11.1,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "Noah Kahan Responds After Little Girl with Autism Asks Mom to Play His Song for a Worm (Exclusive) - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVnIzak1LNDZYa0R2UTh0dldSTGRlQXhJQldZcmNxTXlSNW81Z3JqVC10VGM2WHJ5SXB2MDVMT001OGt2aHRzTVFDRFJzVWs5LXZtZDZhSGVIbVRfZ3gzaU9XcHFBTDhGdkV5NTNMN0JucFFDUnMydXprWXFLbWhBRmZnWUVPV0tyNmN3TG9zTDMzTy1uTTh5a0hCMEVwQQ?oc=5",
+      "published": "Mon, 20 Apr 2026 16:46:29 GMT",
+      "source": "yahoo.com",
+      "query": "Noah Holdings",
+      "weight": 2,
+      "sentiment": 0
+    },
+    {
+      "title": "India's GIFT City finance hub grants first family office permit - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82OTRkdjV0RkhnSTJpNWVjUWVFTmpRY2FQRU9pbHRwOEFRNGZiUTZGY01BRTJHdzk0NzVhaUtDWHJEdVpqczJLSXhmOFNrUk80eFlpalZUems5ZGtpZ2hlUnlNMjVBcV83M0h3alp3THFpTzdUQUtnaQ?oc=5",
+      "published": "Mon, 20 Apr 2026 11:18:59 GMT",
+      "source": "Yahoo News Singapore",
+      "query": "Singapore family office",
+      "weight": 2,
+      "sentiment": 0
+    },
+    {
+      "title": "Nanhua Futures (02691) reported outstanding performance in Q1 2026, with both revenue and net profit achieving high growth. The company demonstrates strong resilience driven by its dual domestic and international operations. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2paY0paeTdHNjF6ektEQnpHWU9hWDlWZFVmb2VpM0hWVHlBZ2tsMTg4RkdKUUxVbDg4RGhhUDk5N05aVW51ZjQ1MzhzbE5PNWhSc2xYLTI1Q3JFV0NUSkI3cjJacTdEMC1kN1VFUHo2MHAzUW1hS2x1Uks0OVJWeVRISHl0UG1yamZHc2pTZjQxeF9yd1JRejlzcFlHNGRqMDk5NGtvdjJ2bWVnWmhF?oc=5",
+      "published": "Mon, 20 Apr 2026 13:15:50 GMT",
+      "source": "富途牛牛",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 3
+    },
+    {
+      "title": "TDH Holdings (NASDAQ: PETZ) flags 2025 loss, China legal and PFIC risks - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHprS19OVG5qbzBwdnM3aVRvZWtrWkdxV1ZHTDdvLXI1NWF4TjFJTVlkN1NWXzNCV0s0M25xYUVCUEVEeU13cnBTWUZjZUVKNTlPYWlOalpFTUZqamhzeHp0aFRuN21qd0lIZ3NTRnpNdFlEVllIdUpmdkNjODEzSDd2dmpRb0FyV01GYXdkbDZTczFoVlRVYng3a1VHZl80SmxOTFBDaDhsYVFiMl9oRlRES3NLVl9uZ2c?oc=5",
+      "published": "Mon, 20 Apr 2026 20:31:42 GMT",
+      "source": "Stock Titan",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": -2
+    },
+    {
+      "title": "Jayud Global Logistics (Nasdaq: JYD) posts 2025 loss amid China, tariff risks - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFNrLTdRVTJ6MWw0TXpWXy1nbVRjNmtyN0d4TWZhQV9udDFiZ3BKbi1JSUVfYzFsTmF6cW95aDkyNXJYNzdYQmFXT0E0OEprLXZPcm1WTW4zb2g3MEo1LVlRNEJVa2xtcHZNb28wR3loblZsOU9WVXp3dENsVlJUUmo5ZmVLN2Q4WFlsclN0cVkzUU9lNURrQU45d2hGWWZFRjZDV25EOG9OVGZXR20zLWZuQk4zU04tRlZyVkhoOFVtWUhxeHc?oc=5",
+      "published": "Mon, 20 Apr 2026 20:06:34 GMT",
+      "source": "Stock Titan",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": -2
+    },
+    {
+      "title": "Affirm Stock Analysis 2026: Morgan Stanley Top Pick with 27% Upside Potential - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX01MdXBVeFR0Y0haekROaUxGVGswdnQ4VWVNNlVIV0JnLW9ra3BUYXlrNVpXd1Z4SzFBQXFsUGh4TlVzWVJrS0hpbmZBaG9hMnE4Y3R3Ti0zVktSNmZsRmIyNHRYWGZueVBmazBTbnVtUFRPLVpDbVIwVmZLM2FxaXpBZzR6Y0FDT3NmSQ?oc=5",
+      "published": "Tue, 21 Apr 2026 00:11:15 GMT",
+      "source": "Intellectia AI",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Cronus Capital Affirms Strong Business Position Despite Ongoing Economic Uncertainty - Weekly Voice",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0d3QUZVbkJPeXk0X1o5TlhuUkZCWk42d1o2ajAxam9SRmI4cm1ZOFM4QlNCSlA5MGhzQnVjandxRDhCZlh2aGhrOGk1ZVVma0hMY2M1cWZTRnM4aXJoS08tQWFmdWUyaUkzTlFEWlNIdnV6UUNmTlhXeVdidm44RFc2YXo0UFhGWVdwTEg3czAybi1Xa2FuZ2RDbm1iZnp6ZEZxZDBhY3pMalFhOHc?oc=5",
+      "published": "Mon, 20 Apr 2026 19:27:20 GMT",
+      "source": "Weekly Voice",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management edge strong enough to drive U.S. investo - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0d5ZDZESlRlRmZ6Nm42eUNWZVNBUUpfdU5KeEt2aTdqdGVldi1KV0EydExSTVhjVlpVZTc5WkVuNG9RWmpqN1JZUjZ3WWtSVkVWd3JwdFRuUHc5Mm9CZzV0bjBfa1diMlNsamhXaVBTOUJkVXZLRlFRYzBrTTFVOXRXSE1haTVhbHM3clpZb3F6Z0lTOHJSMkUzTEtsTWNLdDBiTmRLNWlsVndKdGQwTHBSeHdQaXl1THJoUzZya2JEM29oa0E?oc=5",
+      "published": "Tue, 21 Apr 2026 01:56:23 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management focus strong enough to drive steady U.S. - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXA4ZUZ3cVpIY0FPNkdIWVlMVXhYaUx5VG5SVkRxT2J3dnNkazhTQVlzcl9EMWctSi1yZXFleEN2ZEZnX0dCbzEwQ0R2V0p0cURHMlVPTHMwLW1sY3dsS2dvcVJpMjViQzFWMEJmLVN1aGpLa3c4QVdaRUJhakVZOGxoSXgwY0t3Y1pxWkIwX3o5dnFtZ1VzcVItTHhRSi1mSWxRdzV5aWRLVzRTMXlySy15REE3TVk3M3RmNGhTMGY?oc=5",
+      "published": "Mon, 20 Apr 2026 20:21:42 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "UBS Group AG stock (CH0244767585): Is its wealth management push strong enough to unlock new upside? - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFFuRFcyLTQ3clI3amhQQlVoR1ZxVm9UWC1CeVp3cnFJM3A3X3FzM1JINWRQSXJjcUVaM3luTWROU2hKTS1wVkJxLXluLWFTTENUOEVWQ2c2eDZQXzRTeV9PZnBhRnFBSHo0MXdJOVZ2T1VSby0yQVZ5U3puVlpQalZQclQzT2hYcl9Ec1FUQmxXYTVCSVNERU1peTg1RV9ub1otNGlNa2VMOEZSelBIMkQ5UEwyZjFJUGx6cEQtMA?oc=5",
+      "published": "Mon, 20 Apr 2026 14:16:22 GMT",
+      "source": "AD HOC NEWS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": 1
+    }
+  ]
+}
