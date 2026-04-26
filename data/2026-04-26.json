@@ -1,0 +1,350 @@
+{
+  "date": "2026-04-26",
+  "collected_at": "2026-04-26T15:11:09.501699+08:00",
+  "metrics": {
+    "news_noah_en": 1,
+    "news_noah_zh": 0,
+    "news_olive": 4,
+    "news_ark": 6,
+    "news_gopher": 0,
+    "news_glory": 0,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 0,
+    "news_ubs_apac": 0,
+    "news_topic_hnw": 4,
+    "news_topic_fo": 6,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 0.0,
+    "sentiment_neg_pct": 0.0
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Billy Ray Cyrus reunites with kids Noah and Braison Cyrus for rare family performance at Stagecoach - Page Six",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0FuQnY3XzgwOVZKTXU3b0MyT1FhMzhNMWtsNmpkeTl2dHZBNU5xNVFERmNKSUxWanJCbEtxUS1PQk5KVHN1Y2ZrNzNtQ2d2aXNnTHdJVGI2UFpmUTVLZlFxXzd5TUQzVTU2V0FzQVFkLXhEV1ZxZEhuWTl1TndXSmd1R3dPdEt4VXZNOGZ6X3FZNFhxUkdMZGQ5TlREQ25Ud3RUelRMMDJNQkU?oc=5",
+          "published": "Sat, 25 Apr 2026 23:20:00 GMT",
+          "source": "Page Six",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 0,
+      "items": []
+    },
+    "sub_olive": {
+      "count": 4,
+      "items": [
+        {
+          "title": "CI Global Asset Management announces monthly distribution - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX0ljTUpaTk1HTzJZUWhDM0Z6YU9McWpjYUVEMUtOX3FHSC15Rk1TLU54aDlvdDVBS3F4WDRsc0FyOHJQVEl4MVVUQ0tfbktKYnE1bUozLTdWWVBMM2YwdGRTdzNsRzhiZDZSVlNYeUkzemlZdlEtamtSRnQzYnB6b3FJYVl0Q2daN243WGg2MjV4NTVIRGNKNThLNDVlNGkwOUpQdzZ6M0ZxNl85VjNPLUhQUks1STBLaWgyYlYxb1Z6VDRpQXNyVThLVmI2TjJwT2E1Wk5RRGJFX2w5SlZxRlRjTHJGdDFhZmFEd0FCY1FpeHZGTHpMY09Pc01BZ2RncmlmOW9GcDBtRy1ibURHb1NxRWF4cVF5SDh1R0VNc1B4OFVoZlRxUEt0TnVBVEJKR1VzVjFpUkF5NHNDbDNtVXVxU2Z0ZldhZkF2QXRUbFo0WjhhSjI1SFp5S2x0cVI0dV95bmd5SVBuSUp1bTJXdkstYzl4NzJEUHBhb0IzOXQ3Zw?oc=5",
+          "published": "Sun, 26 Apr 2026 03:06:06 GMT",
+          "source": "MSN",
+          "query": "Olive Asset Management"
+        },
+        {
+          "title": "Equitable and Corebridge in talks on all-stock merger to form $22B wealth and retirement giant: report - MSN",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPWDYzSzIyTDFURDZhV0RPb1RIOVBOVjd6MkcxeFdrMEFRMmdrMDVfclBKQW1RLXZZUkw1SDd4VW1WS2hfWW85Sk5zTlYtbHJvOEdrckJCU1dVb2FSZW41X01xblBYLUM0a3VwdUdTUEhQbWgtOFM3VkRRaVpLSElHMWg5R1JnUlEtOFVVLTNMQ3JJbTZjRUt5WXZpTHBmeFZ4ZDd1UFVYV05ZRnNHUEplakx1UC1NWkxydHhBd19PZnR2UVZfN2l5QThmQXN6Y2xwcFMzVDl4MWFXRTNrUGtIWWNULWdpNi1sME03VXpBb3BHekNZZklDYkMxMVVCc3pTQUdSbWtfb1VVbndsTGhmUVh3OXRneVR2MERReEpTMmZpQ1hYVEdpUFc4NUdkcUNucHJvTUc2M1AtallGTE1RcWdjQUlTaXhsdF95cVpDMnpLZ0FNWG9kbEQ0TDZWTzlRWGVrSW92MWhhNzFjQUhZVzI4WVJQSF9DS2lWb1h4a1FUaUp5MzI0VFg1a3VfdjRLMHY4YzFsWGxQVm80?oc=5",
+          "published": "Sat, 25 Apr 2026 22:28:00 GMT",
+          "source": "MSN",
+          "query": "Olive Asset Management"
+        },
+        {
+          "title": "TD Asset Management announces monthly distribution - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQaG13LUZJX2l2RzNGQmpWNC1ZVTdzaWRkUFhUUzlZaU5sRFZCMWdHdVNzSWg0WV9mbEtvcFlNTm14U1N0eF8zVjU0Q3RJdmNIWHRsUUNDbzhpZ3RELXlWa082YlVaSEhsdmlVSkF1MXhNOGptdFhTU0JtZEZhU1lWZWpkTVk0WVFDYVVuYy1xTUNGU0dwYllQbGhzOWhDYU1oak8zbnVrbHF4eFFEOEdUZ0w2U0hWZkV5UzU0ZjBSWWhzbHpLOTRwQlNSX3JiX1BGdG1ROG9HV3ZEdzlteWZUVFlLWkNkdW9lQ2M1eTBQSEpwdWM4SC1yd3QtcHVVTUduRWlFNzd0dmNwYkprdU1YUWNDVHo4OEIyZTM3eTN5clBkazhGOXhqR0FxT05NLUR4UjN3TlQ4WG96Zml0Rk1pNklVek1aODZyMEZncnVCN21wU2Fyc1hIeFJzMjdJeUU0bTZSdFVoQQ?oc=5",
+          "published": "Sat, 25 Apr 2026 13:07:30 GMT",
+          "source": "MSN",
+          "query": "Olive Asset Management"
+        },
+        {
+          "title": "Blue Tower Asset Management adds PBR, SM; exits ACDVF, CMT, among Q1 moves - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlVaRFdIZUs0SjhibjdSMW9QVFVsWWVlQ1ptT3k1X0RPNGljRDJySUtvb3RSVHdhQVMzbExDWi1zSHpWVzUyMVB6RjVzYWJBQTRMODlUM2x6bjljODB4V3pNdWtDOTlfVXJ0VWJrbE15cG4zMjd1OHNyelJlZXFPeHM0OEIzanFTdnVFWWF2ZVJURWIzODFoMEttMjdGRWVYNTc2ZnR1X2tZU3RQc09oS1VYcUY2blNEbExWaW82QVVmZw?oc=5",
+          "published": "Sat, 25 Apr 2026 11:55:15 GMT",
+          "source": "MSN",
+          "query": "Olive Asset Management"
+        }
+      ]
+    },
+    "sub_ark": {
+      "count": 6,
+      "items": [
+        {
+          "title": "Apollo weighs 2nd US headquarters in Florida or Texas amid finance migration - MSN",
+          "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQeFE1bUpTemhVNkdyblByc28zN1BCUzhXNlNHLXhoUGxkMTRpVDdxdmhTQm85djVHV21McV81RDhfeDNoSkdnUmVGUUpNai1ocWxFZzR1cU44NUxDd2w2Zm80NHd4ZFFqZkxNZ0htNGwzeWVHTnhONThqTnZmZnl4Q0o3QkhxOUlJbENsV1N6TnY2ZjV6QnNOemgwSFNBWlNHNHQzYk1OLS1ZRTBESHhqb2pmOUdJUU1rdDFpSTM4T3BIaHBRWHczLTVSak5HRE0zQnI0alF0RFhKbmtUTHpKeHVvbjZRVzRwVkZZQl85NHl2T0ZPQjBONURXTnVxNmVwRnhkQTZieU9fdzhQcXdqVlo3VlNmSS1ZUkNJYTM4bEI3N1Z3cGJGNE1hb0VfMEttNnhRbmZ4WlBnWFlrMVlUaU1pRVlPV0d6UUg2ZEVMc3J4cVJ4bUg4Sm9nZWdMQ2xScEpBcV9Fa1pDWUJNZGJPV3YzNzJPVk9jaE1OeThoUGJCZGIxY0J4cm5WdUJxV2xNbUtjV2NUQ1p3MWp3dFJqeg?oc=5",
+          "published": "Sat, 25 Apr 2026 22:06:49 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Baidu, Inc. $BIDU Shares Bought by Kercheville Advisors LLC - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmlNMHQ3S0RFeTdQS2FWNWtibWNkc0RZaEhFVm1GZ2hJZWR3bUQ4a3VIWDVHZkl5Z3N6MllHUzBJSVRDMUtGM1Nta3FITUFfNDlvOG8zZm9UeTF4bW1XN3NmaGVDYkJXc2ZQY1M5c0VDaGl3bTBmWWFaRV90UzlodzlFLVFSaXFreFBmempBYzRweVdWems0Y094WXBxOGwzRG11U3ZJcDhBc0JSRlVPTVpYZnVUSTNB?oc=5",
+          "published": "Sat, 25 Apr 2026 11:33:00 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "UBS hires financial advisor with $1 billion in AUM from Merrill - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNQWtYTnlTQkVSMFY2RjNQSEdXeGk5S2xZOV9VVlZWaTdNeGxhS0JUQXhoX1JUOXd5cmhYaDBaNnhvbk5ielk2SWs2TGNERmF3cDRVdVlzQjdjLU5Ed1JsVno1SFZLVmhqTEJkU0Ezc1JPNWtVRDhFa2hIeWxyT2NyWWw1TkhrVGdoRm8xREQwczFheExkTEk3bzNNLWdtcGFoLTFleG4zaGcybTJ4ZzI5STRNckhSUUNfbmh5d3dmcjF4bXluOU1yLWU1VTZSeWpfdEc1UVctMFNrdHJLZjRwb0FGTWNNWDZab1BqanZDNER5T1AteDQtVzRETjBsa3UtYmF3WUlKMmtWcEhudXJDbTFEVXhfSzFOQjQzbWJQbk1fV0NMdGRyblI4bzBOS1RUTk5FYjhvLUxob0lLcUdmZnhENGZ4MDVNbFp1Vk9FS2N3d0hqbVJ2Sm9EdkIwMjR2cUJnQ0UwM3FVbVU?oc=5",
+          "published": "Sat, 25 Apr 2026 18:39:55 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "X-Energy (XE) Stock Surges 36% as $1B Nuclear IPO Blows Past Expectations - CoinCentral",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEQ1eEZPSUVrZkc0MjFXUGdLaExIaG5GZnJoZTg1LTI2X2hQeDBpR2FxUDFUMW5HWDh0akM1cmVyT2RaRmpMVkpzUDdzMUYtWWc4WU5mRkZwbWlST254QS00cElTSDJuZHZzUVJpWXhuVlZDVEJyMmhxNk9DcjNsSW5saHBfMFdJcjI3eTJmNy1mejl2SmVudEl3?oc=5",
+          "published": "Sat, 25 Apr 2026 12:01:17 GMT",
+          "source": "CoinCentral",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "X-Energy (XE) Stock Rockets 36% Higher in Explosive $1.02B Nuclear IPO Debut - parameter.io",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDVOOHZ2eW1pMVV3VHllR0xYdFZKQzh2WmFTSDN0SWpYOE05MzRNd1hQYk04ajdxVXpYT3FuakxLMGJ6djNsY0YwQXZrSjBEY3pCby1jQ1Z4bG1HWVBaZXlPd2hyU2cwa0pPZldqWXhHMDZCdlB3Q09pLXZtcllUNHIwZmYxZGkzN0VPRDJUYkFSQ0huRGN6NllR?oc=5",
+          "published": "Sat, 25 Apr 2026 12:12:53 GMT",
+          "source": "parameter.io",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "X-Energy (XE) Stock Soars 36% in Blockbuster $1 Billion Nuclear Reactor IPO - MoneyCheck",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWpNU2hhMU1VRmZMdFowODdXUWtHT2hxRXRaNE1HRFktZ1h5dmFlUEZmUzZtZFNnTmd1NS0xNE52VVpRUHZGUDN5MVNhYXp1T3JjTmw3SUpYcTB1U0trTHNpa0xLM1lOSDdWNDdFY3dyVk1SSUhpNTB6akk1SGhPUGpvZl9nR1dmemplcGpMeWRQbU5VcHpHSGVsYw?oc=5",
+          "published": "Sat, 25 Apr 2026 12:58:48 GMT",
+          "source": "MoneyCheck",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 0,
+      "items": []
+    },
+    "sub_glory": {
+      "count": 0,
+      "items": []
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "comp_ubs_apac": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 4,
+      "items": [
+        {
+          "title": "Vermillion Wealth Management Loads Up On Foreign Debt With a Purchase of DFGX Shares Worth $3.4 Million - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnBsVVNNYUtUTVgxS3NfSnpBWHBqenRCRHZWb1lNVmJWWFFZMnE1cVJfbktFbktBRG9zVS1wa2doM1ZsRUxkWUVxVW8ySUVTdm5pRTcwV3Uyb3dmakkwUnpsWlphT1YtRHFBQ1Fxd2tDQXFOa0psYVZQNVBsTjJXekNvMkpUdU5DaVJidmRR?oc=5",
+          "published": "Sun, 26 Apr 2026 03:36:01 GMT",
+          "source": "AOL.com",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Opinion | To be the world No 2 financial centre, Hong Kong must be a rule maker - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1JxWWU1QW5xV3hBUjNWc0lLVGZkeUtxSzlqSndKWEZ5N3NiSUIzY0lBMnJsYTF4OTNWT1RNcVVJc3BmY1BjMkY5cVp2M2ppTFRSaWpXdC13SDNTTzlJalA1U3BzWXNjTGdVcDExUjQxNE5tT05HQkJpMlRlODRYTWZ0YVVHZms5X2VxcnBhVW9maEVZQldwWWxmc1VSaVNOUlJlZXc4RkNxRHNwOHU1LXJ1TFUtdDFpcTY4eUVwUdIBvwFBVV95cUxPT1JxWWU1QW5xV3hBUjNWc0lLVGZkeUtxSzlqSndKWEZ5N3NiSUIzY0lBMnJsYTF4OTNWT1RNcVVJc3BmY1BjMkY5cVp2M2ppTFRSaWpXdC13SDNTTzlJalA1U3BzWXNjTGdVcDExUjQxNE5tT05HQkJpMlRlODRYTWZ0YVVHZms5X2VxcnBhVW9maEVZQldwWWxmc1VSaVNOUlJlZXc4RkNxRHNwOHU1LXJ1TFUtdDFpcTY4eUVwUQ?oc=5",
+          "published": "Sat, 25 Apr 2026 21:30:09 GMT",
+          "source": "South China Morning Post",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China Allows QFIIs to Trade Government Bond Futures for Hedging | April 2026 - News and Statistics - IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDdoQ3dqN2Rta3ZtQmFFSExCUnFXREdyaV9idlluM2htSU1JcVpvNGJSbXBqVm5SOTJXM2dNa0w0bEtidGJWenhWLVE3b2JXelNlZnVZUWdob2FFZ2g3N2l6ajhXcmtsaFpJT0I1aUFoU1FyYWVGM3diUGFtY09SU1BGNWJVXzVRalBFN0RleTd5ZnlLSGVlTjRFU2Y?oc=5",
+          "published": "Sat, 25 Apr 2026 13:20:00 GMT",
+          "source": "IndexBox",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Job Market Outlook in the UAE for Foreign Professionals - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM25KN25ZcE5FY3hHS3JqaWVlUHZNN2N1Tm5sckRoOTVHaFpISXNCLXFRd2lKc255TnY2M2x4WWZaMzFyVFNSWjVla3NCZUV0SURBcFYyOU9yWnBCSF92MDVuM2JWeXNweVFIVUNtM194emdycVVIYndabno0Uzh4Sm9KeFR3dnVkRmV1cA?oc=5",
+          "published": "Sat, 25 Apr 2026 20:44:40 GMT",
+          "source": "thetraveler.org",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 6,
+      "items": [
+        {
+          "title": "Savills raises Singapore investment sales forecast to $35b - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNNUh6V3MtdEZjeFZhc2lXdnBYZzJBYUtGelE5QWwwZnRmSlJlUHhaNjFwdUlaVVg4aGQ5UXhPQmZYNnVYX3JNOG9KQ1lKOHRQTnM0Q0U3VFBkMHB6S3RKbmg4dTdDZ3drQ2owUzNNSjNILVVRN1ZKRWIzT1dNWW9PQnIxa0Zsc181aUtXeEptcXcwRnJqUDdyQllqeVdKMlBWMnpDM2E0amtoMExEZmk5b0VULU1kWU5wWmJMWDF5ZTB2Y1RwZWJENXotdV9RLTRwSzMxV015RDBlaUgtYnZNWE4xbm5QZVluXzVPUDRqc2lva3M3QTFiZ0d5QmZzTUpGRTMyaGR5U0QyRjJIa2VQMmlTa1ZTT19iSTBBSjd5Y295ZmJ3bFZ4enoyZHFMY1FfRWlra1Z2bTBNT2pTb05PalNVdWtCTnNYdmZmRDlVdkZTbG90RGxvcDlCTzhiTGZ0ak5J?oc=5",
+          "published": "Sat, 25 Apr 2026 17:23:41 GMT",
+          "source": "MSN",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "ICE detained family less than two days after court ordered their release - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXk5aFpIYWtzd0ZaUWRTVkR4MnhvQWRoaGRFVGdPa19uQmV0TC1SSThWVDRYdkFuazQtZzA0TmpMMDhJWUpZUnhnRGtXNTRSbWhwOTBlTDhRUkVpaDhDdWNGUUxMUzV2TG1hYy1uczF3Mk15akpCUXJNY2pxeXNkMDZKZmlqdmpGNWRGcHV1RFRESzJUaFctcUVLNktGamJaVE1DTWRnRzF2cnN4VzN2MnFqck90ZERvSm01LVdJa0R4LXBMN3MtOFp3?oc=5",
+          "published": "Sun, 26 Apr 2026 00:57:45 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Sleep on a yoga mat, work without pay: Singapore domestic helper’s shocking claim against British-Indian - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQjJxQ0Q3cTQ3RGtyV29PSFJXdUd1aTJJbmx1Tk5Wb2JUUndseW8ta0tKcWZNTnpzZEw4UnlKMzBFVXBuZjNXZ1lvX3VRNVZkbUE1REZPcUJ0cVROSDJUenJGVFNkd253QlhTNVBBeEJmY3hXcnIydXhjdWlaRWhyWGFQVHF6SFNVMVlCa05RYkRsOEY4TGZkR1pFVTRJcVowUzg5Mk9YcUU1b2xaOWxoLVNuYlRpV3FoekxVRGpXS1FDVE5uQ1lvdkJTX0lhT1l3S1FzZVBzeVZ0Tl9RbUJ3dXZYeXVYQkZKbGZjU1ZOc2VSMXJMRTk4VnE0VnEzZGZUQlVOYkdGMUVRWkl3Q2ZVcklpWnVDU3hwbnR4X3dMWkFXbTE5RHI2b9IBqAJBVV95cUxOQjJxQ0Q3cTQ3RGtyV29PSFJXdUd1aTJJbmx1Tk5Wb2JUUndseW8ta0tKcWZNTnpzZEw4UnlKMzBFVXBuZjNXZ1lvX3VRNVZkbUE1REZPcUJ0cVROSDJUenJGVFNkd253QlhTNVBBeEJmY3hXcnIydXhjdWlaRWhyWGFQVHF6SFNVMVlCa05RYkRsOEY4TGZkR1pFVTRJcVowUzg5Mk9YcUU1b2xaOWxoLVNuYlRpV3FoekxVRGpXS1FDVE5uQ1lvdkJTX0lhT1l3S1FzZVBzeVZ0Tl9RbUJ3dXZYeXVYQkZKbGZjU1ZOc2VSMXJMRTk4VnE0VnEzZGZUQlVOYkdGMUVRWkl3Q2ZVcklpWnVDU3hwbnR4X3dMWkFXbTE5RHI2bw?oc=5",
+          "published": "Sat, 25 Apr 2026 14:00:00 GMT",
+          "source": "The Times of India",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "CapitaLand Investment hits $403m final close for second APAC credit fund - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOMmRwYlhNdVZQRm13eHBFR1doOVVtMGE4cGpfRHNnWkZFbW1lOTN2QVNwWXlTQnFTaV9vY1NQa1JwTjB2NHVXMDdhUUJEWV80b2plbkZBbERDb2piTkNwV29kSlVfYmp5Q18xRE1uVU1kQUowODN6Rm1Ndll1cVVEdHhKaEM1bXN6azFoTDZJRVRHcGRicWttMXp1elNDN1UzblhERWFCY0xHYzV0bHMwRWZLY3dUUl83VUlIWXo4dklZS2xJdmF3UGI0UHhrTUNFV2plN3lRbXZabWNfSHBJdFpRMXhMX0dTZVM2b2h2VlNURE1UMEs3bWtnajRJSkRfcndFbXd6eUo0Q2w5ZC1HNEFMUW5hWVppVkptYmU2czFYUTk3YVZSVG1XMmlyZU96RUgwR3JmWVA5RUVKSzRNMHlMbS1IN2hOLTRSbVhuTG1QSzZ1elJWbzFLMVZpUjJ2VDk0a3hLNDEtQUZULVlqdg?oc=5",
+          "published": "Sat, 25 Apr 2026 16:44:23 GMT",
+          "source": "MSN",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Singapore Pools’ Football With A Heart raises record $1.28 million for charity - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFBCaFMxRFdlQV9ubzhhS3pFSzNhYTFXcXh0QlI0dm5CWU1FdlR0MEFMT2pFOGM3Mjg1d3lMaWpqeTN2OXp6RERmQ3FkSEhvMXJ3UUdram5vemc5VEFsanU4d1VOQW85NU1rd1NScFhwcVpMWnVfbEg5VksySjMxTWtTLWRuT1ZoYVlhVmJJc3FKUU85NjVPX04yNmtRa19fTW5IUEw1eENvdUJ0clJwYk44dnA4RXNvWHNjTA?oc=5",
+          "published": "Sat, 25 Apr 2026 10:49:33 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "New measures introduced to ensure safety for 2026 haj pilgrims: Faishal Ibrahim - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaE1LR1h6c1JsR0Q2b2Vyai1HZkFaTWZoUGxoOHRCUDg1VmFwcmViVXVhbEdseVhoVWlYNTJoY0ZQRzZNS1JXdEgtYVhRMmo3M2RDa0FLWm5vN051akNsT202bWlPMlpPOFZzMVI1aDlVaTlHZHpkcFNhRWlEZjV1Q1BrZnkta0U0YXRuVWRxMkF1YUlLRVcxVkZNQXA4Z0JXT0FUSFJ3V2VSTTFjTk5IanpuaXpZVGhnZTA2YjAzNkF2TGR4MVZJcGthTFBQdjlQNFpHTg?oc=5",
+          "published": "Sat, 25 Apr 2026 14:55:00 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0,
+    "total": 1,
+    "pos_pct": 0.0,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "Billy Ray Cyrus reunites with kids Noah and Braison Cyrus for rare family performance at Stagecoach - Page Six",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0FuQnY3XzgwOVZKTXU3b0MyT1FhMzhNMWtsNmpkeTl2dHZBNU5xNVFERmNKSUxWanJCbEtxUS1PQk5KVHN1Y2ZrNzNtQ2d2aXNnTHdJVGI2UFpmUTVLZlFxXzd5TUQzVTU2V0FzQVFkLXhEV1ZxZEhuWTl1TndXSmd1R3dPdEt4VXZNOGZ6X3FZNFhxUkdMZGQ5TlREQ25Ud3RUelRMMDJNQkU?oc=5",
+      "published": "Sat, 25 Apr 2026 23:20:00 GMT",
+      "source": "Page Six",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "CI Global Asset Management announces monthly distribution - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX0ljTUpaTk1HTzJZUWhDM0Z6YU9McWpjYUVEMUtOX3FHSC15Rk1TLU54aDlvdDVBS3F4WDRsc0FyOHJQVEl4MVVUQ0tfbktKYnE1bUozLTdWWVBMM2YwdGRTdzNsRzhiZDZSVlNYeUkzemlZdlEtamtSRnQzYnB6b3FJYVl0Q2daN243WGg2MjV4NTVIRGNKNThLNDVlNGkwOUpQdzZ6M0ZxNl85VjNPLUhQUks1STBLaWgyYlYxb1Z6VDRpQXNyVThLVmI2TjJwT2E1Wk5RRGJFX2w5SlZxRlRjTHJGdDFhZmFEd0FCY1FpeHZGTHpMY09Pc01BZ2RncmlmOW9GcDBtRy1ibURHb1NxRWF4cVF5SDh1R0VNc1B4OFVoZlRxUEt0TnVBVEJKR1VzVjFpUkF5NHNDbDNtVXVxU2Z0ZldhZkF2QXRUbFo0WjhhSjI1SFp5S2x0cVI0dV95bmd5SVBuSUp1bTJXdkstYzl4NzJEUHBhb0IzOXQ3Zw?oc=5",
+      "published": "Sun, 26 Apr 2026 03:06:06 GMT",
+      "source": "MSN",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Equitable and Corebridge in talks on all-stock merger to form $22B wealth and retirement giant: report - MSN",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPWDYzSzIyTDFURDZhV0RPb1RIOVBOVjd6MkcxeFdrMEFRMmdrMDVfclBKQW1RLXZZUkw1SDd4VW1WS2hfWW85Sk5zTlYtbHJvOEdrckJCU1dVb2FSZW41X01xblBYLUM0a3VwdUdTUEhQbWgtOFM3VkRRaVpLSElHMWg5R1JnUlEtOFVVLTNMQ3JJbTZjRUt5WXZpTHBmeFZ4ZDd1UFVYV05ZRnNHUEplakx1UC1NWkxydHhBd19PZnR2UVZfN2l5QThmQXN6Y2xwcFMzVDl4MWFXRTNrUGtIWWNULWdpNi1sME03VXpBb3BHekNZZklDYkMxMVVCc3pTQUdSbWtfb1VVbndsTGhmUVh3OXRneVR2MERReEpTMmZpQ1hYVEdpUFc4NUdkcUNucHJvTUc2M1AtallGTE1RcWdjQUlTaXhsdF95cVpDMnpLZ0FNWG9kbEQ0TDZWTzlRWGVrSW92MWhhNzFjQUhZVzI4WVJQSF9DS2lWb1h4a1FUaUp5MzI0VFg1a3VfdjRLMHY4YzFsWGxQVm80?oc=5",
+      "published": "Sat, 25 Apr 2026 22:28:00 GMT",
+      "source": "MSN",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "TD Asset Management announces monthly distribution - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQaG13LUZJX2l2RzNGQmpWNC1ZVTdzaWRkUFhUUzlZaU5sRFZCMWdHdVNzSWg0WV9mbEtvcFlNTm14U1N0eF8zVjU0Q3RJdmNIWHRsUUNDbzhpZ3RELXlWa082YlVaSEhsdmlVSkF1MXhNOGptdFhTU0JtZEZhU1lWZWpkTVk0WVFDYVVuYy1xTUNGU0dwYllQbGhzOWhDYU1oak8zbnVrbHF4eFFEOEdUZ0w2U0hWZkV5UzU0ZjBSWWhzbHpLOTRwQlNSX3JiX1BGdG1ROG9HV3ZEdzlteWZUVFlLWkNkdW9lQ2M1eTBQSEpwdWM4SC1yd3QtcHVVTUduRWlFNzd0dmNwYkprdU1YUWNDVHo4OEIyZTM3eTN5clBkazhGOXhqR0FxT05NLUR4UjN3TlQ4WG96Zml0Rk1pNklVek1aODZyMEZncnVCN21wU2Fyc1hIeFJzMjdJeUU0bTZSdFVoQQ?oc=5",
+      "published": "Sat, 25 Apr 2026 13:07:30 GMT",
+      "source": "MSN",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Blue Tower Asset Management adds PBR, SM; exits ACDVF, CMT, among Q1 moves - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlVaRFdIZUs0SjhibjdSMW9QVFVsWWVlQ1ptT3k1X0RPNGljRDJySUtvb3RSVHdhQVMzbExDWi1zSHpWVzUyMVB6RjVzYWJBQTRMODlUM2x6bjljODB4V3pNdWtDOTlfVXJ0VWJrbE15cG4zMjd1OHNyelJlZXFPeHM0OEIzanFTdnVFWWF2ZVJURWIzODFoMEttMjdGRWVYNTc2ZnR1X2tZU3RQc09oS1VYcUY2blNEbExWaW82QVVmZw?oc=5",
+      "published": "Sat, 25 Apr 2026 11:55:15 GMT",
+      "source": "MSN",
+      "query": "Olive Asset Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Apollo weighs 2nd US headquarters in Florida or Texas amid finance migration - MSN",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQeFE1bUpTemhVNkdyblByc28zN1BCUzhXNlNHLXhoUGxkMTRpVDdxdmhTQm85djVHV21McV81RDhfeDNoSkdnUmVGUUpNai1ocWxFZzR1cU44NUxDd2w2Zm80NHd4ZFFqZkxNZ0htNGwzeWVHTnhONThqTnZmZnl4Q0o3QkhxOUlJbENsV1N6TnY2ZjV6QnNOemgwSFNBWlNHNHQzYk1OLS1ZRTBESHhqb2pmOUdJUU1rdDFpSTM4T3BIaHBRWHczLTVSak5HRE0zQnI0alF0RFhKbmtUTHpKeHVvbjZRVzRwVkZZQl85NHl2T0ZPQjBONURXTnVxNmVwRnhkQTZieU9fdzhQcXdqVlo3VlNmSS1ZUkNJYTM4bEI3N1Z3cGJGNE1hb0VfMEttNnhRbmZ4WlBnWFlrMVlUaU1pRVlPV0d6UUg2ZEVMc3J4cVJ4bUg4Sm9nZWdMQ2xScEpBcV9Fa1pDWUJNZGJPV3YzNzJPVk9jaE1OeThoUGJCZGIxY0J4cm5WdUJxV2xNbUtjV2NUQ1p3MWp3dFJqeg?oc=5",
+      "published": "Sat, 25 Apr 2026 22:06:49 GMT",
+      "source": "MSN",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Baidu, Inc. $BIDU Shares Bought by Kercheville Advisors LLC - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmlNMHQ3S0RFeTdQS2FWNWtibWNkc0RZaEhFVm1GZ2hJZWR3bUQ4a3VIWDVHZkl5Z3N6MllHUzBJSVRDMUtGM1Nta3FITUFfNDlvOG8zZm9UeTF4bW1XN3NmaGVDYkJXc2ZQY1M5c0VDaGl3bTBmWWFaRV90UzlodzlFLVFSaXFreFBmempBYzRweVdWems0Y094WXBxOGwzRG11U3ZJcDhBc0JSRlVPTVpYZnVUSTNB?oc=5",
+      "published": "Sat, 25 Apr 2026 11:33:00 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "UBS hires financial advisor with $1 billion in AUM from Merrill - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNQWtYTnlTQkVSMFY2RjNQSEdXeGk5S2xZOV9VVlZWaTdNeGxhS0JUQXhoX1JUOXd5cmhYaDBaNnhvbk5ielk2SWs2TGNERmF3cDRVdVlzQjdjLU5Ed1JsVno1SFZLVmhqTEJkU0Ezc1JPNWtVRDhFa2hIeWxyT2NyWWw1TkhrVGdoRm8xREQwczFheExkTEk3bzNNLWdtcGFoLTFleG4zaGcybTJ4ZzI5STRNckhSUUNfbmh5d3dmcjF4bXluOU1yLWU1VTZSeWpfdEc1UVctMFNrdHJLZjRwb0FGTWNNWDZab1BqanZDNER5T1AteDQtVzRETjBsa3UtYmF3WUlKMmtWcEhudXJDbTFEVXhfSzFOQjQzbWJQbk1fV0NMdGRyblI4bzBOS1RUTk5FYjhvLUxob0lLcUdmZnhENGZ4MDVNbFp1Vk9FS2N3d0hqbVJ2Sm9EdkIwMjR2cUJnQ0UwM3FVbVU?oc=5",
+      "published": "Sat, 25 Apr 2026 18:39:55 GMT",
+      "source": "MSN",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "X-Energy (XE) Stock Surges 36% as $1B Nuclear IPO Blows Past Expectations - CoinCentral",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEQ1eEZPSUVrZkc0MjFXUGdLaExIaG5GZnJoZTg1LTI2X2hQeDBpR2FxUDFUMW5HWDh0akM1cmVyT2RaRmpMVkpzUDdzMUYtWWc4WU5mRkZwbWlST254QS00cElTSDJuZHZzUVJpWXhuVlZDVEJyMmhxNk9DcjNsSW5saHBfMFdJcjI3eTJmNy1mejl2SmVudEl3?oc=5",
+      "published": "Sat, 25 Apr 2026 12:01:17 GMT",
+      "source": "CoinCentral",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "X-Energy (XE) Stock Rockets 36% Higher in Explosive $1.02B Nuclear IPO Debut - parameter.io",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDVOOHZ2eW1pMVV3VHllR0xYdFZKQzh2WmFTSDN0SWpYOE05MzRNd1hQYk04ajdxVXpYT3FuakxLMGJ6djNsY0YwQXZrSjBEY3pCby1jQ1Z4bG1HWVBaZXlPd2hyU2cwa0pPZldqWXhHMDZCdlB3Q09pLXZtcllUNHIwZmYxZGkzN0VPRDJUYkFSQ0huRGN6NllR?oc=5",
+      "published": "Sat, 25 Apr 2026 12:12:53 GMT",
+      "source": "parameter.io",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}
