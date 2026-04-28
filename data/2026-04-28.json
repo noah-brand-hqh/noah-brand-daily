@@ -1,0 +1,541 @@
+{
+  "date": "2026-04-28",
+  "collected_at": "2026-04-28T17:37:40.115766+08:00",
+  "metrics": {
+    "news_noah_en": 8,
+    "news_noah_zh": 0,
+    "news_olive": 0,
+    "news_ark": 13,
+    "news_gopher": 0,
+    "news_glory": 0,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 1,
+    "news_arta": 1,
+    "news_ubs_apac": 8,
+    "news_topic_hnw": 15,
+    "news_topic_fo": 16,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 25.0,
+    "sentiment_neg_pct": 12.5
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 8,
+      "items": [
+        {
+          "title": "Noah Holdings Opens Thangka Intangible Cultural Heritage Exhibition in Shanghai, Celebrating a New Generation of Inheritors - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVE5WUHhLd19xb1FXU2ZtaUJqSkJDNXBpc3MyNTZ2RXdra3JiNGJ6eExtZ2V4YjZOd2NjdGstZ2VZVFB1R3FDNDA3aVdjNmUwbU1OTEE5VkdQYl85bElDTkxaV29Wa0tHdlNFSlduQU91Wm9iSnV1c3BwZ1BERmRBRGtZUmtyUk5NbjdLaUpqT1BtSkZldHhyTjZFSnFXeXRpVHZlTmlYZEkxSTU2SUMxRlQwT1dKNzdNNm0wLTdKeE91Q2tKdmxtdENzLWZmZGU5YTJqRnlJMzh4azdPVjF3T1A5a3BiSkpzMXZ4T1NleDdhNlU5ay1NRFdkX3dYeGZpeGJZOC1hRl9ldHFBUmUzQlJTS1ZfRTFHMlZlajgzNNIBpAJBVV95cUxPOU5OVEI3c1JyTXNCZVJyY1g0MnRIVDV6cTZ1WUZFSWJkcmtMY3hoTDgtNUprZlYwV2pUNUJTN0VoNG0zTjVFeHUzNzdYakxsMFRCUUM3SEd3ZFVHUE44czRpdG9MdnRfMmpLSXZOX2wwem1OTE52MzlsZm5kUmx6cGVxRlJEWU1EbDdmXzl1WWVVNHZ6T1pwcU5HNk5iQW9xOWVmNVhkVHVqNUc1MnB6QjFOMnBPS25HMDlReFhzNDRHcWYwWHFiRGFnd1hxUkFadWpyZW94Y3lLam9DQUFQVmNGRWZLU1l2bkZUUUlqZm56Y1BJZnU1UmxYMnc5N3NfUDZjNTE0MjNHUDl1SzlGaGhFVWVuTlZ1RUFieGtFUWdaeVdN?oc=5",
+          "published": "Tue, 28 Apr 2026 05:54:55 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Cebu Pacific Inaugurates Modern Training Facility for Pilots, Cabin Crew - Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXAzQ2FHeXlHaDFseHl1ZmNsdGFYNExxaGtMcWx6Nk9PU1RndkRwZTl0YVc1QmlNS2g0ODIwWEFLUHBWbnBualBVLUh0V2NUMjdTTEFWZl85aF9MTEZZVUR0bzlia0JkUTFXeC1iQWNDYWF0di1Pa0NSSHB6TmNTc3JGcm9tLS1nTjJfQkF4c0ppUEFmUEVHWUctZXVxVnNTS3RrZlMwRHhPU3gwYk04Z3JHR0xmZV9JVkE?oc=5",
+          "published": "Tue, 28 Apr 2026 06:17:04 GMT",
+          "source": "Thailand Business News",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Cruise stocks buoyed by lower fuel costs - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPMTlQTWs0bnZra0taQTJCSVRXLVVmRlBfaWhPZ3NmX3F4UHNZZ285Vmc3LVpNcDM4SkV0bXBzaUNiRV8xOG1lNjc0Sllod2JHRHlKWWdxSzV6eHZKUFdzNnlpVGlMOHRyeUU1bS1IRVBWZ1doRGNoTW9TNUtrY2haSHdRcHYwaEtjTm5wbmpPQWdYbUh1a3BFQVJrTC1JLUVqYjdrOHhlSVJaSnNpd3FYd3FBVEtVYUQxX2pmbzA0RldTWFpYS1BxaW9hR1dEd2p5TVNmajlfWVk1R0QzZUJHZmMyMENEMzJ0X0lMR2FscmVvQV9ndjRYbTc4TW1Vd09mTGF3N0IwOGdCTHJMcmpxeHVkd3dUd2t6S0dsbXFaRFhxRmNYbXdEa1JpaWwxVldXWmdEMUNzZkg0a2hrNlh3TkRwSUctbkFrcXV5V3hNX080ME1GNFRJ?oc=5",
+          "published": "Mon, 27 Apr 2026 11:50:34 GMT",
+          "source": "MSN",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Market Logic extends DeepSights Personas with synthetic panels and flexible persona generation to redefine audience research at scale - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPY2ZydnNKMEwtTkJwS3BONzJTUEdHSGVXcUlKeVo3SGNWVkExMHptRTd6SExTVkR2ay1RdThPRmRrU3JGamhITklQNlFRMzcySDF4RjY0N0pVdDFZLVJLZC1aMGZnRmNDd096ZWQ4NFZBZXdndk9VWUMzdWZfY3hYa2FiLV8ySkZLVjVTTk4wbnhLbnFpanJ5bHJ6NnhfWUlRcDFVMEVBcXE2azZwM284ZllvalRpc1R0Nmswbmh6a19kMEstMUs0TWw3eGdTZkZWN1FuOFc0MUtPQkhkenIwdk5WUjBVTk16djVMNWUwZUlPdng3clk2eDI2ZGFfWk9qUkM2dHZ1aGN0NUNYY21iRUpGdXNocENHNDBxWGFyM0F6cl8yV3dpbXNvQzBDQmpQRzRj0gGzAkFVX3lxTE9jZnJ2c0owTC1OQnBLcE43MlNQR0dIZVdxSUp5WjdIY1ZWQTEwem1FN3pITFNWRHZrLVF1OE9GZGtTckZqaEhOSVA2UVEzNzJIMXhGNjQ3SlV0MVktUktkLVowZmdGY0N3T3plZDg0VkFld2d2T1VZQzN1Zl9jeFhrYWItXzJKRktWNVNOTjBueEtucWlqcnlscno2eF9ZSVFwMVUwRUFxcTZrNnAzbzhmWW9qVGlzVHQ2azBuaHprX2QwSy0xSzRNbDd4Z1NmRlY3UW44VzQxS09CSGR6cjB2TlZSMFVOTXp2NUw1ZTBlSU92eDdyWTZ4MjZkYV9aT2pSQzZ0dnVoY3Q1Q1hjbWJFSkZ1c2hwQ0c0MHFYYXIzQXpyXzJXd2ltc29DMENCalBHNGM?oc=5",
+          "published": "Tue, 28 Apr 2026 06:35:00 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Sole Cybersecurity Partner ThreatBook in Successful 'STEALTHNET' Exercise - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0FzdkdwcEVNU3JJbndMUnVuQUZ0dTk5Ul9RMGRUNVRFVjJlSGNGdXJaSnR5SDBnS3g0RjBnM3FJTk0xS1hBTkg3NDBjempVcnlWRG5qRjhoTmkxb3NrZlRwaTB6ckJnOXZJbF9VWGJ2MlBhWXJ5cmRkM0FTWFVrM2NMcVJxaFc2cTNmMm5sZHFJYk9RWmNWSzFTS2Jja2pBMHNUN0lQdFBtNjV2elpVbWxOX0hpMHFrRWIzcW43dzdfTWlOT2J6aHpRY1BVbXE4Y2JQZE1nQVAwV19mdUp0NdIB4AFBVV95cUxOT0FzdkdwcEVNU3JJbndMUnVuQUZ0dTk5Ul9RMGRUNVRFVjJlSGNGdXJaSnR5SDBnS3g0RjBnM3FJTk0xS1hBTkg3NDBjempVcnlWRG5qRjhoTmkxb3NrZlRwaTB6ckJnOXZJbF9VWGJ2MlBhWXJ5cmRkM0FTWFVrM2NMcVJxaFc2cTNmMm5sZHFJYk9RWmNWSzFTS2Jja2pBMHNUN0lQdFBtNjV2elpVbWxOX0hpMHFrRWIzcW43dzdfTWlOT2J6aHpRY1BVbXE4Y2JQZE1nQVAwV19mdUp0NQ?oc=5",
+          "published": "Tue, 28 Apr 2026 06:35:02 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Australian company unlocks a new era for women's health globally with an innovative delivery system for Female testosterone in women with low libido - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOakVKTVBvTlY2akppSzlfQnlyREVYWEM5elI0RTQxbmFEZVI3OWllaXI0Uk40d1JpOFB1aXVKamZESVpnR3B4WkRzYXBXaWVDLVhWb0V1NngycG0yQk5rQmZZZDVYeW9odXZGNmJwRWVFSFY3VjNSdzJqcm80ZlVCZS1ROFMxTWoxc29TTmdTam44ZUhPSTZTWWxMSUk3bW53bE5RR2c2Q04yOEl4WVRUbnZaZ0F5M08wTHpJTi11TXJQVW5LNXZKRGx1MHhsSmhwdTVvdjRsM1JsTlh4N3N5b3RkanlfSGdTS2x1WlR5VF9WMEFSelpXMWppV3JXcnQ3cGRpSVBZMFlSOHVZRDBTUU5hUHRQVGhCQWEwWjA5ZUxDVlJyYUhBVkhBREo2cDBDSTJkcGFBajZvOEJvUFNlMTFReHF1Z9IBxgJBVV95cUxOakVKTVBvTlY2akppSzlfQnlyREVYWEM5elI0RTQxbmFEZVI3OWllaXI0Uk40d1JpOFB1aXVKamZESVpnR3B4WkRzYXBXaWVDLVhWb0V1NngycG0yQk5rQmZZZDVYeW9odXZGNmJwRWVFSFY3VjNSdzJqcm80ZlVCZS1ROFMxTWoxc29TTmdTam44ZUhPSTZTWWxMSUk3bW53bE5RR2c2Q04yOEl4WVRUbnZaZ0F5M08wTHpJTi11TXJQVW5LNXZKRGx1MHhsSmhwdTVvdjRsM1JsTlh4N3N5b3RkanlfSGdTS2x1WlR5VF9WMEFSelpXMWppV3JXcnQ3cGRpSVBZMFlSOHVZRDBTUU5hUHRQVGhCQWEwWjA5ZUxDVlJyYUhBVkhBREo2cDBDSTJkcGFBajZvOEJvUFNlMTFReHF1Zw?oc=5",
+          "published": "Tue, 28 Apr 2026 06:55:16 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Sungrow Hosts GRES 2026, Showcasing Value-Driven Innovation Across Full Energy Scenarios - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVU1zWU1SN2QtUTQ5MDhBSWtJT1U4OERGOC1XU0R5TnVfcFN1ZjZPNVNPcThwcVg3Rmd3LWpFVHZOZnlRTEt6dEdZaDRFYUNwaGhvX1l2TV9BZFhiREtZMjFwQ2lVd3JodGlkajFrQjI2RGk5cDBrS1hkX011cmJDaDVfOHRKYkE1cHFDTzlEUUhUZUJRZWYxTGN6Q1BLeVR0YXEtNVBKMDByQzc0TFNjcW1MLS1xSWpQM0U5SVowMXVPSGxOamRsLTZZTFZsWlZBVXBWZVNYaVFnNlZTR2diam5BelR3YXdlWjNXUUVWMWFLdUxxOHfSAfYBQVVfeXFMT1VNc1lNUjdkLVE0OTA4QUlrSU9VODhERjgtV1NEeU51X3BTdWY2TzVTT3E4cHFYN0Zndy1qRVR2TmZ5UUxLenRHWWg0RWFDcGhob19Zdk1fQWRYYkRLWTIxcENpVXdyaHRpZGoxa0IyNkRpOXAwa0tYZF9NdXJiQ2g1Xzh0SmJBNXBxQ085RFFIVGVCUWVmMUxjekNQS3lUdGFxLTVQSjAwckM3NExTY3FtTC0tcUlqUDNFOUlaMDF1T0hsTmpkbC02WUxWbFpWQVVwVmVTWGlRZzZWU0dnYmpuQXpUd2F3ZVozV1FFVjFhS3VMcTh3?oc=5",
+          "published": "Tue, 28 Apr 2026 06:35:07 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Introduced the first 'Bhutan International Travel Mart (BITM)' 2026 and launched the website www.bitm.bt - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOGVGd290VXB6ay1jWVJFRjhVQUp4eDJGVDR5bXU3c0daWjlvMVNKSzhITFR0enJDdERxeUxxcVRyWHgtTWdMY2pvTEhNR2RaNVUwNWVmd0RfVFpEbDdybXNQV005eGNsV3BNamdiYWpPOGZVQkw4QXotN0lhOWJaNUtnVWhiZFdsVU0zNm5wYjI2MTZIQmJrMWdEVk8xaU01V05vOGJIeDZmekROM2xRUWZ5XzdXRmt4MnJKTzVOcENCYTFrVXJFY25DZU5YVmtJTVVnMlFjd3lnN0lLaTJyendyMkk5RlVHenRUVk9yeGFPU3ZNTnlvSXgyMzVaLWI5T0NfSNIBhAJBVV95cUxNOGVGd290VXB6ay1jWVJFRjhVQUp4eDJGVDR5bXU3c0daWjlvMVNKSzhITFR0enJDdERxeUxxcVRyWHgtTWdMY2pvTEhNR2RaNVUwNWVmd0RfVFpEbDdybXNQV005eGNsV3BNamdiYWpPOGZVQkw4QXotN0lhOWJaNUtnVWhiZFdsVU0zNm5wYjI2MTZIQmJrMWdEVk8xaU01V05vOGJIeDZmekROM2xRUWZ5XzdXRmt4MnJKTzVOcENCYTFrVXJFY25DZU5YVmtJTVVnMlFjd3lnN0lLaTJyendyMkk5RlVHenRUVk9yeGFPU3ZNTnlvSXgyMzVaLWI5T0NfSA?oc=5",
+          "published": "Tue, 28 Apr 2026 05:54:55 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 0,
+      "items": []
+    },
+    "sub_olive": {
+      "count": 0,
+      "items": []
+    },
+    "sub_ark": {
+      "count": 13,
+      "items": [
+        {
+          "title": "ETF League Tables: ARK Adds $800M - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3JCZmVZM3liYUwteHBMdng5V1luWF9xVGotNGZKa3V2b0FXOGZxZUgwR1QwQkVNME9DakU5VXQyRTR4MjJvVXo4X1ZJLUJ5dlkzRTNMdDQtZWNSRFB2V2k4THlWNjFPcWNZcUg3bzZkS2xseHpSV0dzbndTT3pqWVhINDcyZ2lvOURQZDhBX2NfQQ?oc=5",
+          "published": "Mon, 27 Apr 2026 21:00:34 GMT",
+          "source": "TradingView",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "More NTLA, Less RKLB: Cathie Wood’s Latest ARK Trades Explained - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1d4d2U3bGVQMnhYMjNwSWJUYkd0d2dmRERQZ25CaThhZlFlV0VXRFhmR2dxUHZrSmZDckJWMC1vMTZmUjB0ci1ZOThQR3BybkhoTmhVdWktb3BkOWczU3c0ZDFZSnZjcTR1Q0g3R2VxOFhJR3MxdG1HU3dsdW9CdTFDRUpreGhjRnhWSmRkQUxVS0wxUkJsaEFoWVdyX3FYRTRfcjJYTzJVUHZldUZOdEtaRQ?oc=5",
+          "published": "Tue, 28 Apr 2026 05:56:51 GMT",
+          "source": "Stocktwits",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Cathie Wood's ARK bets bigger on this biotech play, slashes stake in this space stock - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdWwycU9sWXZrcnl0YndWSUtJR3g2eFhPM0pjclVUdEphRTlhZ2V4OUdwMlF1TS1pNjdEdEotSmVHQVBwRDdGUnYxUkJ6azQ1b2NMd3JoTjJPNVp6STRTU0ZOTEw3MDc5VWNqdXk1X2Zwa3FPTE16clFFMmMtMjJ4SDlZd3pTaEd6YmpFLUtwVmx1R05uVjBvdEljbjBPcGU3aUhtMDdhXzBiTXlJNEFpSFNqSmk3SjE4eWFhOTE0TE9PR2JpMFNqR0NVNC10c2dxVnA2MEtKalFCc0JOSDFlUG92S3I1c3hTbWlGV1Qza2R1dw?oc=5",
+          "published": "Tue, 28 Apr 2026 06:33:46 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "ARK lays out case for SpaceX mega-IPO - investordaily.com.au",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBROHZwUjRKamszOXdITG9rUmFPX25KRWVaNXhFR1pKX3NyXzI3bml5d0t2VXRBbHFTSkM5TEJhV1dOX0VIa3BQWk9pYlExa0Rxdk5QZ2NLOTFlWndDUC1LeUlKMGVVUEI2OFZNRktCT2pLU2JyU2xSd0dRSQ?oc=5",
+          "published": "Tue, 28 Apr 2026 09:15:59 GMT",
+          "source": "investordaily.com.au",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Joby stock jumps to best day in a month: Cathie Wood’s ARK loads up amid White House eVTOL program boost - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNNElGVUFjVkJtTk9YYkZsamNrVzVRdVJadkdhYXdjNmhRREJVcmxsVFJmVkE2UDUtV3BsalVJb21LNklIenlYTWdkQy0tUVEyWVZfM0VZdkYxMUc3WTZQXzJacjR6OU81NHk1dF9pdUY0VUFFS0UzeURaR0NCNF9odTJ1SXZJYlBpeGgyczVOYUY1eHhPdXpac2Rxb0FpZ2NweEdXZ1pJaWVhemxMRElkdU56X180eVFvRS1zdWV6UzlaVENYdWZYbFNMQi1PbWVDUk1KTW9HcnFfUnZ3U2FKUlZ2Z1E2Ujd1Y2FIWHZiMVRGSWFtMVFHR0trZjRueVo1YkNvNG9HaUJydThHM3Vhb0tMMW5rREp6cFFJN0FqeG1pejVyblpMdnA0ZEV1NkRFejkyRVFQVnZDWmpRa3BUTkZyUkhJVURDTGJCX1FnNEZGRlBxZ2dJLWFUN2NWaHA2Y29HUTJUUll5NFZsNnRIMUxGTFYtT3hRZ1BkcDRSZDNkZEtiTUdneFhHemN1dWZ0bHRoMkMxcWNSaTBvY0duV1prTW9mSkZ3NmRsSF9sc2pqX1VrN2lOeDdJdUFvX19aSlg5UzdCYWtPWHZyUGpJY1NUT3Q3elU1ZURseV96dGh1VHM?oc=5",
+          "published": "Tue, 28 Apr 2026 05:06:55 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Cathie Wood and ARK Invest: A Bold Bet on the Future of Technology - Dalal Street Investment Journal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdGo0S1FUYTdlQmVOSjBhc29vdEN2b0t5andMVUtpRnhwMWR6UjVZSjRvV3VRcTFOSlZWWnlnQUItYUtqbWhQRm9yWXZWcllrTElrZzZHVE5vUjFPWExEemlWRHBjNnpETEUwd3dvZjJVTWsxcUtlSnc3RHBEVVhZNU9IckZaY2dsREdlbUE2b21TZDFxNDZIa0pBMzhfTnNCdmZpcFdjSExHWW5aM3c?oc=5",
+          "published": "Mon, 27 Apr 2026 12:04:25 GMT",
+          "source": "Dalal Street Investment Journal",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Noah Holdings Opens Thangka Intangible Cultural Heritage Exhibition in Shanghai, Celebrating a New Generation of Inheritors - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOU5OVEI3c1JyTXNCZVJyY1g0MnRIVDV6cTZ1WUZFSWJkcmtMY3hoTDgtNUprZlYwV2pUNUJTN0VoNG0zTjVFeHUzNzdYakxsMFRCUUM3SEd3ZFVHUE44czRpdG9MdnRfMmpLSXZOX2wwem1OTE52MzlsZm5kUmx6cGVxRlJEWU1EbDdmXzl1WWVVNHZ6T1pwcU5HNk5iQW9xOWVmNVhkVHVqNUc1MnB6QjFOMnBPS25HMDlReFhzNDRHcWYwWHFiRGFnd1hxUkFadWpyZW94Y3lLam9DQUFQVmNGRWZLU1l2bkZUUUlqZm56Y1BJZnU1UmxYMnc5N3NfUDZjNTE0MjNHUDl1SzlGaGhFVWVuTlZ1RUFieGtFUWdaeVdN0gGkAkFVX3lxTE85Tk5UQjdzUnJNc0JlUnJjWDQydEhUNXpxNnVZRkVJYmRya0xjeGhMOC01SmtmVjBXalQ1QlM3RWg0bTNONUV4dTM3N1hqTGwwVEJRQzdIR3dkVUdQTjhzNGl0b0x2dF8yaktJdk5fbDB6bU5MTnYzOWxmbmRSbHpwZXFGUkRZTURsN2ZfOXVZZVU0dnpPWnBxTkc2TmJBb3E5ZWY1WGRUdWo1RzUycHpCMU4ycE9LbkcwOVF4WHM0NEdxZjBYcWJEYWd3WHFSQVp1anJlb3hjeUtqb0NBQVBWY0ZFZktTWXZuRlRRSWpmbnpjUElmdTVSbFgydzk3c19QNmM1MTQyM0dQOXVLOUZoaEVVZW5OVnVFQWJ4a0VRZ1p5V00?oc=5",
+          "published": "Tue, 28 Apr 2026 05:54:55 GMT",
+          "source": "The Manila Times",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "You Can Buy Stock in SpaceX, OpenAI, and Anthropic For $500. Here's How. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0w3LTdaT00xVGo1ekdWTGhlaHRMUkhsdGlJSGtsT2xubjk4M25vdHh5TE1zNmdBb09LSDdxOXUtYWlGaDZvc0p4N0tTdjVESE51Um1NdmRzMXpZZkNlQkdlRlRGRkRsaFNWTEZaSUY2VnotemdkT2xrNkl0MTZnY1lULVVmYXZVcF9DVEZXc1JVeU5Vc0E?oc=5",
+          "published": "Mon, 27 Apr 2026 11:47:00 GMT",
+          "source": "The Motley Fool",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Kotyark Industries Reports Strong FY26 Financial Performance with 13.65% Profit Growth - scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQS1zWjdSZFpNQ3ByRFc0Vm5vQnE4OTFQcEpMT2hYMHVGdWhKeHgxcEVWRndFaVF0cXNTeG9iM3drZy0zUnl3TlJSQi15Y3hSRjVrTXB0YlFPZ3o5eXBURVJ5bG5fU0RnaE1PMm5CWFV6NFBEMXFsR2JVVGxNSV9MQzBjbXJtc0NwVnlTRXA4ZGQ3Q0VlcWVZZDd0OURZR3FpQlhoZWUyRTNhMHk1US04dk9BT29QWjJHQlRvQ0IzQU1IMnhWX241NUh4bGFIN0tEZC1vMDRGN3dHQQ?oc=5",
+          "published": "Tue, 28 Apr 2026 04:32:15 GMT",
+          "source": "scanx.trade",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Tesla stock sits out the MAG 7 rally — Cathie Wood’s Ark keeps loading up anyway - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN3M2c1o0UG9XbHVPRmtaVzVKam1wVm1nWkFXNWo5OXJIai13Zl9XMW9fNk9kNVJlS1lRdlFMN3pWZ1FkSFowYTlaOFBWRlhsRVdOR1J2RDhyMmNLZDBmdHdtb1JlUjkyQ3pHVTVYSW5aZ0Q4WGVaa2JxZi03Q09LM29mMjFxWXNkZjg0ZzhRa013em9QRDE0YUhwZURxUEpqTXcyemllZEM5LUx4VFJTUUo2MktTcXZqbng5TVhEVmpGQTI1SE9CU3JmSWpaM0tOWjQ4b2tuMjdMNGlfTkxTbmxGTTlWSXQwMHNCUHUxNHRvcjJBRWVGV2xRNnJXMVhsWVdjNGk4V2hTRDlLQmotT1NmejhvRkNWZ0lpUGVBRGlaSXl0MVUyNG42LVkxRDZ4Nk91Y0RFcTBOQjdCTVJ1SjJHWjBicDNhMk54UHRDYUpzbVU3Q0steVNQbDJtQQ?oc=5",
+          "published": "Mon, 27 Apr 2026 19:38:38 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 0,
+      "items": []
+    },
+    "sub_glory": {
+      "count": 0,
+      "items": []
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Noah Holdings Opens Thangka Intangible Cultural Heritage Exhibition in Shanghai, Celebrating a New Generation of Inheritors - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVE5WUHhLd19xb1FXU2ZtaUJqSkJDNXBpc3MyNTZ2RXdra3JiNGJ6eExtZ2V4YjZOd2NjdGstZ2VZVFB1R3FDNDA3aVdjNmUwbU1OTEE5VkdQYl85bElDTkxaV29Wa0tHdlNFSlduQU91Wm9iSnV1c3BwZ1BERmRBRGtZUmtyUk5NbjdLaUpqT1BtSkZldHhyTjZFSnFXeXRpVHZlTmlYZEkxSTU2SUMxRlQwT1dKNzdNNm0wLTdKeE91Q2tKdmxtdENzLWZmZGU5YTJqRnlJMzh4azdPVjF3T1A5a3BiSkpzMXZ4T1NleDdhNlU5ay1NRFdkX3dYeGZpeGJZOC1hRl9ldHFBUmUzQlJTS1ZfRTFHMlZlajgzNNIBpAJBVV95cUxPOU5OVEI3c1JyTXNCZVJyY1g0MnRIVDV6cTZ1WUZFSWJkcmtMY3hoTDgtNUprZlYwV2pUNUJTN0VoNG0zTjVFeHUzNzdYakxsMFRCUUM3SEd3ZFVHUE44czRpdG9MdnRfMmpLSXZOX2wwem1OTE52MzlsZm5kUmx6cGVxRlJEWU1EbDdmXzl1WWVVNHZ6T1pwcU5HNk5iQW9xOWVmNVhkVHVqNUc1MnB6QjFOMnBPS25HMDlReFhzNDRHcWYwWHFiRGFnd1hxUkFadWpyZW94Y3lLam9DQUFQVmNGRWZLU1l2bkZUUUlqZm56Y1BJZnU1UmxYMnc5N3NfUDZjNTE0MjNHUDl1SzlGaGhFVWVuTlZ1RUFieGtFUWdaeVdN?oc=5",
+          "published": "Tue, 28 Apr 2026 05:54:55 GMT",
+          "source": "The Manila Times",
+          "query": "Zander Yin"
+        }
+      ]
+    },
+    "comp_arta": {
+      "count": 1,
+      "items": [
+        {
+          "title": "6 Lucrative Investment Ideas for Savvy Investors of April 2026 - MoneyMade",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX3hIcGlLU1RCa1IwOGxPdFVkWVQyeXVkZ0NTYzU3YnJRbjZ4YTVrNUNFdkUwZzQ5Z3NBWHVuYkduOUt4RVZMZ2p5anRTUXFsUjlzVzIxdHdKaGdMT1U0?oc=5",
+          "published": "Tue, 28 Apr 2026 05:02:28 GMT",
+          "source": "MoneyMade",
+          "query": "Arta Finance"
+        }
+      ]
+    },
+    "comp_ubs_apac": {
+      "count": 8,
+      "items": [
+        {
+          "title": "Impact Investing Trumps Crypto For NextGens Amid $83 Trillion Wealth Transfer – UBS - Wealth Briefing",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1hBWG1CYTNVY0kxSGgxaHNqWlhmQ1JkbnJRZEw3b0dlbTAwUDdGQkYxLUFkVC1WUFpLaHQzOGZxOGlOTVQ4NzdjMjJnaHhvcFN1TzBROWZnYzctWFFnVVJiUlU2N2UyS2lmaEhhLXdsNjJuY0dIYWl3Wk9MM3lSVUhfRXI4QjdnQW04VzVncW1ySERRaGpYQTBuMEtLZUVXLVAwdHdCUjl1eXF6Qkx1aUx0T0phaWthQ002Mi1adG5ha3pVTFp2cUJxdHlzR1E?oc=5",
+          "published": "Tue, 28 Apr 2026 06:54:17 GMT",
+          "source": "Wealth Briefing",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "The world’s best private banks - Euromoney",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkxwNjV3MndRUW81THRWejdBb3ZZbzFjYWp5Wjg0ckxEQmRPbldraWd3QUFlYy14QV9mazhYRzUxbEJWLXdCV2Mwb2dLZ2xOVGZuenlBTWlPMzNfZlBMRlVVREh5WVBxM3ZValJMUkJtUWQ4RVNZLWowUFZkUmRfV1BxMkduMHFEcFhNV3k2MS1nN25FckZ3UG1tSTcxZw?oc=5",
+          "published": "Tue, 28 Apr 2026 06:45:00 GMT",
+          "source": "Euromoney",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "Bank of Singapore Bolsters Leadership Team to Capture Ultra-Wealth Growth - finews.asia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QdXJhOHN1TEd6ME1Vd2RBVEV4OE9pNnNNVHo4OHVYMTg4OFplYnNCT1FydEF3RmhEcm5nOVJMRWdKZDFLU3FBNm5DR25iRGQ4Z1Flak9mcUhlVFY4Nl92aFpYUDVVX2o2aGM3bXRQWnQycUNreWlKTWszdjc?oc=5",
+          "published": "Tue, 28 Apr 2026 08:34:00 GMT",
+          "source": "finews.asia",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "Bank of Singapore Family Office Adds Senior Hires for Wealth Push - Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTM0anFrd1pkZDh3ZTNFVlMzbWZVWFpJUm5WMnhpRDdhQzlIM0lXdWt0MXFoYlM0bDBOUm1VU2NudWNvVVFsUVhza2JBa2Myb3l4LWhXa2JKWDJ2XzBGakR4aUN3cUxNbjlycXNjYW5tYktvQi1UMGtUelBtbjNSS0tNbURwMVhzYWRHUHI5VzVqNDdwclRMbHJ3?oc=5",
+          "published": "Tue, 28 Apr 2026 07:27:00 GMT",
+          "source": "Fintech Singapore",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "Bank of Singapore reshuffles family office and wealth advisory senior leadership - The Star",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ243aW5oenlwYWZkMlVlb2JvelVxZG9BYTJFMzNneVlPdzF0Z2F4RnpWNU00ckFPcTM5Mm9PbnhHSVZlV1ZjUk9QUHF6dVFHUmhISmprMVRRbHg2cTJCT0gxY1NGTmpiekVyUE5GNi1FTlNxSU9hREdHWW41NzlTbEZ5eC0zTjgzbE5MOGJWWUhzc0VTVkp2SmJCb1F1cWJIVXk0VXZNUnlYVEV0MmpPbVpnMmpqS1RGZlZteV81M01YN0REWS1Vc2Y4bm9JbnBXNXdmRDdpakI?oc=5",
+          "published": "Tue, 28 Apr 2026 08:09:00 GMT",
+          "source": "The Star",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "Bank of Singapore strengthens family office, wealth advisory team to support UHNW demand - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWWktaXEyLXBPbUxFSDJ4UldPRzNjU3VhRDltWTZVNWRTM1Y4dWhTQ2NyQmZialNjdXlHWmZ1Y0J0MndGdlpIMTFYMzdMd0JHai1ubGpJd2FBckprX0h2ODdnUDVDcjRFTGpGNUpMVE1rX2puOF9TSTZZX016Ynp5UE9LVmJMMENrcmNvTGZqS2FnTnZuNGhUcDJNREFuRk1YbkhpRVl4OWllb182T1RUMkxTaGF3VC1TRU9NV3Z5Z1NBSksyUmxreV9SM0tMUlJCQmh2N21BNW9EeXFLeDRCSHhR?oc=5",
+          "published": "Tue, 28 Apr 2026 02:47:00 GMT",
+          "source": "The Business Times",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "Bank of Singapore reshuffles family office and wealth advisory senior leadership - KLSE Screener",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1JzSDRrRnIyUkdDNGRCVmg3dUVpQy1zcjlvRG9ReUhVZmVpZU4xNzZvNHRDN3A2QTlsUHEyajNQeG1vQk43MTVkRXJCT1hMUU5WSjhILVBKbFJsOXY1cEtlOWpBRVVGUHNwZjJKUW16d2VoaGJQSEdTUzBjbXZ4d1luQVVIZ2dKbEIwMHB6am1IaHN2VmwyMEdlVk1ZVWJ5OHBndWwxQWVwZmJVS1hzOXlNdTZvUUx1RTJla1RxTnl5c2dLUFo5clZ3?oc=5",
+          "published": "Tue, 28 Apr 2026 08:32:35 GMT",
+          "source": "KLSE Screener",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "Bank of Singapore Appoints New Leaders for Wealth Advisory Units - world.infonasional.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYVBJVFU3U1ZSMXkySDd6amhZc0ttcjJUbnJ2SkQ1bmtHUWJIR2lJeGNHSFh4UVo0OEhjazBMSEJwdTduYVM1M1JUSUpEZXFzZkd6QnYxenh4M2FqQklvRHFGZGFkbVdOWEhlZ01kaGRCc1Y1cUYxQ1h3UUt5UjdkS2NKakU3bWh6TkVaMGtleWxSVUduYlF2Z2VNZw?oc=5",
+          "published": "Tue, 28 Apr 2026 03:23:13 GMT",
+          "source": "world.infonasional.com",
+          "query": "UBS Singapore wealth"
+        }
+      ]
+    },
+    "topic_hnw_chinese": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Guangdong Goods Go Global: Zhongshan Products in Malaysia event makes its debut abroad - Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGExOHdoWVNlTjU1Y2g4d2xvOENYZmZXYWZOaHJOMXVKbzItYXpuVGl0ZThaUWVpWEtSUzJTa2FibDlCb2puN2FCdXhFWUVJX1pMSHVnNTlKNVRielZPZWFSUmUzaFVoci1MOWswd0tPdHpMZjI4X1RueWYyUjhKbjdpakNxSk1SdXBzX1dlTFlQVElqaC0takw0RlZLdUNsRzhNdWIyUU54cUdNTjJocXVYLTB0RFp2MURVM0JiX2ZzTTV2RmpIVlFERnNBUzJVSHlHenF4QVRaMHdvTkhn?oc=5",
+          "published": "Tue, 28 Apr 2026 07:22:00 GMT",
+          "source": "Morningstar",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Service Preferences of the Silver Generation - HKTDC Research",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJVEpkdmxwQnJiQW0zdTA3MTNSX1Z5c21JOHFMZkFxYno1TG1pWmNlRE1JX3d1cWgzTC1tVzhXejQtUEV3d210d0x5SHlMMXpXTjRWenlRajVMZ1YzRjZIZzNB?oc=5",
+          "published": "Tue, 28 Apr 2026 09:34:38 GMT",
+          "source": "HKTDC Research",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Shangri-La Asia Completes Record RMB 1.2 Billion Panda Bond Issuance Under New RMB 10 Billion Programme - WebWire",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0NHdtc2lyVnNRSjgyaWs1aFpCd05DR1gwQXdyNGpSWmlzdTM1Uzc4dG9aM3lYaDVvbEZuTzBXMm5YU1FRbnZ5R1l6ellHazF2bXdHc0toQUxmWTdfNF82bg?oc=5",
+          "published": "Mon, 27 Apr 2026 22:22:43 GMT",
+          "source": "WebWire",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Beijing intensifies diplomatic isolation of Taiwan’s president - Lowy Institute",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkFrWGluZGg4N0ZJcDJOcW5lTklrZEo2Y1E1SW5uS2FKSGhYTU1zOFo5TVloLUl3TnN5c1ZEOWhJLVBHd05KYzNCWFpUNTI2Uk42OGpDdTloV1VNakNwLUQ2N0lKaE56Qk1lWUFDWm5mLVpkQXh6bTd2VWgyZFJUeTVGVk5FRUMtTHdWUC0xR19NcE1CbU9EQXZpNVp4QUZjUC1vQVRfYlo?oc=5",
+          "published": "Tue, 28 Apr 2026 02:05:06 GMT",
+          "source": "Lowy Institute",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China orders Meta to unwind $2B purchase of AI startup Manus - KSL News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUZ3SndRUEFESUpOOXhPU0FSWm5ESVVoNlhWRHZWUWxDdzdVdEZvbVZidkFjNHFiejNoRERuYnF0RHA2V0hZSEwtclk5TUFoVkJDTWhrTlZuaVhJaFJlSTNCTFc3STRJY0JiWko4YS1YYkhMRUxtb1ladkdZUldBTVFPa2RCVGZCa3RPTk5SREFGdlFLNDQ2cWpRV20?oc=5",
+          "published": "Mon, 27 Apr 2026 21:09:00 GMT",
+          "source": "KSL News",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Able View Global (NASDAQ: ABLV) 2025 20-F details earnings, leverage and PRC risks - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWNtdFh3WXJzVkVmX0NUUG9SRVVacm42SmxDVUV1Q01sZXNyaFZleUtaMjhoaDFTNldBU2JhN09SYmVvRDBBdE8weHhUR29ILXJfZmhJcXdkbHY4amVYMkZSQktzbUNkWVFUMFNLemFpc0RoZHlhNlNsMWNvdV9HOFFyWVF1YXZSdUpaNkZDN1d2VzQ2REFaZnF2NEVYaFB0SmNycDhPZXNWLWtZZjBxejNmcVltMFVrZFdRZUo4RQ?oc=5",
+          "published": "Mon, 27 Apr 2026 21:15:26 GMT",
+          "source": "Stock Titan",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Beyond U.S. Listings: Chinese Companies Shift Toward Structural Reconfiguration in Cross-Border Capital Strategies - Caixin Global",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1ZodGxCSS1QckpPODl5MWMwalVybl92S2N4cVhGSk9XUXctUUZkdjR5b3ZvdVJJakIwQ3I0UERSaDFiSVRJSWdoMW9TQm9kN0w4Ynk1QjNkRXUydEZ0X0tWRm9TREo5VWd3OTFXSEw0R0FiX3RtaXFoQnNqaGk2Skd3cFcwcU1TbTRFMWxuRC02TGNXZUdXRnBJYk94OVA4T2FPTGlFcS1ELUxrTVBQVklJYzFfTHN0X3VtS0FRTUI2NnZZamNkeTBPUDh5VktrY21URGlQQW5ST0lVSlpacHJ1VXFGdEV0NGJiRXNHQWFBd2h1SXRqR1F3?oc=5",
+          "published": "Mon, 27 Apr 2026 20:42:40 GMT",
+          "source": "Caixin Global",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China orders Meta to unwind $2B purchase of AI startup Manus - The Journal Record",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTERsSTN4VmVhQ20zVjc1Qkh6Tm9WYVFlX1hYbVR1WTItNzFCVUw2YWJFSGxiT2dIN2VLZmw1V01hQ1M0dm1ub0Y0bDZqMHhTWjItUU5QYmxjTk43S0k3RG9xTEs3Nmtha2V4TTFmRkdKMk5WTWFCYXBLRUJqdDVoblFBN0VvVDBGOE1kb0FhMTB4dw?oc=5",
+          "published": "Mon, 27 Apr 2026 17:33:11 GMT",
+          "source": "The Journal Record",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "CDP and Lockton expand cross-border benefits push - Insurance Business",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnZxWklyUl9zRk13WUd6cndlM1ZEaEtFRkYwWU9VdnZZVnV3blJEMEtZZm85QXJCbEdvdW9NQmZZamFJdG4tVVpTZmtzNndLZ243S2RkeDFlZ19mbndkTUt6bEt2bG9MbDQxX2YtcHk5OVhqeDBnY2w4OEhoejA0aUtQcUVmU1FTdVNWdnpfcXBrTV9HcGU4ZHNLRVZDakJqTFlsTGhuTE1Sa3hXWXMwMDlzSWt1SE1jZnBQR09B?oc=5",
+          "published": "Tue, 28 Apr 2026 01:20:04 GMT",
+          "source": "Insurance Business",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China blocks Meta's $2B Manus deal, orders unwind - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmFuc2l0OGg3UlB2MUNIT2FtaEU2Uk5kYlZMV2tELUQ3X1RDR1NZdE5LZk41ZXA2Zk4tSTA4MmhRa0NRQ1lMenhBQ0I3Znlzdm1YT25MOElsWmlTM2ZYZWdUVVAtcW5DOENXYzFBVzlUa0VzZ0tvRjRsMkJ2emhLdjMwSFZsZW41TllZTkpiQi16V2MwZHgzS0kxMnpUdF9OZTd6M0Y2bEJzdkNWX2o3Rl9DVGdJNFRGN0dZRVF6eWJWbmdJb1lRcVBUZS1yUmJyamYw?oc=5",
+          "published": "Mon, 27 Apr 2026 14:37:16 GMT",
+          "source": "MSN",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 16,
+      "items": [
+        {
+          "title": "TheWealthNet - Bank of Singapore hires family office head from JP Morgan PB - Pam Insight",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHRnX3JKZU1lbHlZY0dRV0Vhb0xxcHl5TGo4dUozWGxTelhzMTFIWVctT21iZy0tbmpsLXNyT1BDQ1d4TTB3ZTNSa0hiUi0xZGNrNlk4NkZEN3lCbk11LWtZVVlCU1JmbDdtRkxwSGhiQmlOQmlhWEpTZE5KUGoxMU41YllyNXNPbUlHbjZYMFlHTlFMcmQzbHU5djBSX3J4?oc=5",
+          "published": "Tue, 28 Apr 2026 07:33:22 GMT",
+          "source": "Pam Insight",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore rejigs family office team amid JPM hire - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZFR5aXAzTFlVcjluR0U0aXZXS3hDVTJTem91NTE3QnhRcG4zaXNGMGxnd1AyYmRkVFAycXZ4dTlWc1A1TVNOdXpLWE5NWDU3LXlTUHNpa3VxUTlMQ05IWWdnbVNSNXRYb01EY1BTaUxEUV9MQXpvUEl5NGtOQkRqckJ0ZFRESUoyYzRPbUNHaE1UMkpHYjhtNmxRb3ZGQQ?oc=5",
+          "published": "Tue, 28 Apr 2026 01:50:04 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore Family Office Adds Senior Hires for Wealth Push - Fintech Singapore",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTM0anFrd1pkZDh3ZTNFVlMzbWZVWFpJUm5WMnhpRDdhQzlIM0lXdWt0MXFoYlM0bDBOUm1VU2NudWNvVVFsUVhza2JBa2Myb3l4LWhXa2JKWDJ2XzBGakR4aUN3cUxNbjlycXNjYW5tYktvQi1UMGtUelBtbjNSS0tNbURwMVhzYWRHUHI5VzVqNDdwclRMbHJ3?oc=5",
+          "published": "Tue, 28 Apr 2026 07:27:00 GMT",
+          "source": "Fintech Singapore",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore reshuffles family office and wealth advisory senior leadership - The Star",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ243aW5oenlwYWZkMlVlb2JvelVxZG9BYTJFMzNneVlPdzF0Z2F4RnpWNU00ckFPcTM5Mm9PbnhHSVZlV1ZjUk9QUHF6dVFHUmhISmprMVRRbHg2cTJCT0gxY1NGTmpiekVyUE5GNi1FTlNxSU9hREdHWW41NzlTbEZ5eC0zTjgzbE5MOGJWWUhzc0VTVkp2SmJCb1F1cWJIVXk0VXZNUnlYVEV0MmpPbVpnMmpqS1RGZlZteV81M01YN0REWS1Vc2Y4bm9JbnBXNXdmRDdpakI?oc=5",
+          "published": "Tue, 28 Apr 2026 08:09:00 GMT",
+          "source": "The Star",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore hires JPMorgan Private Bank exec in UNHW push - Fund Selector Asia",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjk0T1MwcGVlOEQzblphSmpuMzEwRzdNWGlwQ0ZoYzZZakhpcU9GNnh3S1BUbDZMaVBfRVhDSVg5VXBkM1lWUDA4QWJiNEFwMjJsNnYwS3hwT1U4SzR1S1B4dGNGcjBRclhJUkNNSUo2STdhNDZWMTA3TUt5ZTFoeGxMUmM4OVFNT3JqbU90Q3RlNlhuc3dQdg?oc=5",
+          "published": "Tue, 28 Apr 2026 03:18:30 GMT",
+          "source": "Fund Selector Asia",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore strengthens family office, wealth advisory team to support UHNW demand - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWWktaXEyLXBPbUxFSDJ4UldPRzNjU3VhRDltWTZVNWRTM1Y4dWhTQ2NyQmZialNjdXlHWmZ1Y0J0MndGdlpIMTFYMzdMd0JHai1ubGpJd2FBckprX0h2ODdnUDVDcjRFTGpGNUpMVE1rX2puOF9TSTZZX016Ynp5UE9LVmJMMENrcmNvTGZqS2FnTnZuNGhUcDJNREFuRk1YbkhpRVl4OWllb182T1RUMkxTaGF3VC1TRU9NV3Z5Z1NBSksyUmxreV9SM0tMUlJCQmh2N21BNW9EeXFLeDRCSHhR?oc=5",
+          "published": "Tue, 28 Apr 2026 02:47:00 GMT",
+          "source": "The Business Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Raffles Family Office Ramps Up Philanthropic Efforts with the Launch of RFO Foundation - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEZJWFJ3REVhZnd3eXdpT3pmVE5iM1RyWWE3TG5HbmtDNEdZSFFETERic0tNWm1jenk3SDNRVXc2WmdlOEFULUs5YWRtMkZlQzFlUEQwcjdweE9waXRhdUVpV3dwQ3kzLWo5eE5Ram5ZQlB1YWthMGhxcGNKYnhTMUtIalgxbDg1bzJCWFdtbzFNcG9TN2liTjRKa29fZlBVSWlXM2VxaHVHeS0yTDRYU2RWSDg?oc=5",
+          "published": "Tue, 28 Apr 2026 05:37:54 GMT",
+          "source": "Hubbis",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore Bolsters Leadership Team to Capture Ultra-Wealth Growth - finews.asia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QdXJhOHN1TEd6ME1Vd2RBVEV4OE9pNnNNVHo4OHVYMTg4OFplYnNCT1FydEF3RmhEcm5nOVJMRWdKZDFLU3FBNm5DR25iRGQ4Z1Flak9mcUhlVFY4Nl92aFpYUDVVX2o2aGM3bXRQWnQycUNreWlKTWszdjc?oc=5",
+          "published": "Tue, 28 Apr 2026 08:34:00 GMT",
+          "source": "finews.asia",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore reshuffles family office and wealth advisory senior leadership - KLSE Screener",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1JzSDRrRnIyUkdDNGRCVmg3dUVpQy1zcjlvRG9ReUhVZmVpZU4xNzZvNHRDN3A2QTlsUHEyajNQeG1vQk43MTVkRXJCT1hMUU5WSjhILVBKbFJsOXY1cEtlOWpBRVVGUHNwZjJKUW16d2VoaGJQSEdTUzBjbXZ4d1luQVVIZ2dKbEIwMHB6am1IaHN2VmwyMEdlVk1ZVWJ5OHBndWwxQWVwZmJVS1hzOXlNdTZvUUx1RTJla1RxTnl5c2dLUFo5clZ3?oc=5",
+          "published": "Tue, 28 Apr 2026 08:32:35 GMT",
+          "source": "KLSE Screener",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "TheWealthNet - Profits drop at Barclays PBWM - Pam Insight",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOLVhBbFZLT05mbmcxNW14dmFRcG1uV0J0SHBWd1doMEdfS1VfeHpKLUZRTDB3TFdCUzhkcmZyYWRmZ3ZRWjR0eDdiOU1NRUJ5Tlo3LTRjeWt5aEJZSXh6azRTTjA5bUs3SGJtWUVxOEJEWmpWRzNF?oc=5",
+          "published": "Tue, 28 Apr 2026 07:37:38 GMT",
+          "source": "Pam Insight",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 2,
+    "neutral": 5,
+    "negative": 1,
+    "total": 8,
+    "pos_pct": 25.0,
+    "neg_pct": 12.5
+  },
+  "top_mentions": [
+    {
+      "title": "The world’s best private banks - Euromoney",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkxwNjV3MndRUW81THRWejdBb3ZZbzFjYWp5Wjg0ckxEQmRPbldraWd3QUFlYy14QV9mazhYRzUxbEJWLXdCV2Mwb2dLZ2xOVGZuenlBTWlPMzNfZlBMRlVVREh5WVBxM3ZValJMUkJtUWQ4RVNZLWowUFZkUmRfV1BxMkduMHFEcFhNV3k2MS1nN25FckZ3UG1tSTcxZw?oc=5",
+      "published": "Tue, 28 Apr 2026 06:45:00 GMT",
+      "source": "Euromoney",
+      "query": "UBS Asia wealth",
+      "weight": 3,
+      "sentiment": 1
+    },
+    {
+      "title": "Beyond U.S. Listings: Chinese Companies Shift Toward Structural Reconfiguration in Cross-Border Capital Strategies - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1ZodGxCSS1QckpPODl5MWMwalVybl92S2N4cVhGSk9XUXctUUZkdjR5b3ZvdVJJakIwQ3I0UERSaDFiSVRJSWdoMW9TQm9kN0w4Ynk1QjNkRXUydEZ0X0tWRm9TREo5VWd3OTFXSEw0R0FiX3RtaXFoQnNqaGk2Skd3cFcwcU1TbTRFMWxuRC02TGNXZUdXRnBJYk94OVA4T2FPTGlFcS1ELUxrTVBQVklJYzFfTHN0X3VtS0FRTUI2NnZZamNkeTBPUDh5VktrY21URGlQQW5ST0lVSlpacHJ1VXFGdEV0NGJiRXNHQWFBd2h1SXRqR1F3?oc=5",
+      "published": "Mon, 27 Apr 2026 20:42:40 GMT",
+      "source": "Caixin Global",
+      "query": "overseas Chinese wealth management",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "Milken family office alumni raise $4bn to target private capital upheaval - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2hGM1cwSnJUbmtLYS12Z096ZkxZeDVFVFJFYkFGZzhkWmdITWJ4QnN4ZWlRTzdWOWF5V3VvSG16TlNrc21aRlZIelhudXhUZ1FRbzdtc2ZRODJTSFRvclJOckdoU1cyM19nUlZuOVVRbGhrNjN6NDY1a25INmdWR2ZsQnY?oc=5",
+      "published": "Tue, 28 Apr 2026 04:01:24 GMT",
+      "source": "Financial Times",
+      "query": "家族办公室",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "Kotyark Industries Reports Strong FY26 Financial Performance with 13.65% Profit Growth - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQS1zWjdSZFpNQ3ByRFc0Vm5vQnE4OTFQcEpMT2hYMHVGdWhKeHgxcEVWRndFaVF0cXNTeG9iM3drZy0zUnl3TlJSQi15Y3hSRjVrTXB0YlFPZ3o5eXBURVJ5bG5fU0RnaE1PMm5CWFV6NFBEMXFsR2JVVGxNSV9MQzBjbXJtc0NwVnlTRXA4ZGQ3Q0VlcWVZZDd0OURZR3FpQlhoZWUyRTNhMHk1US04dk9BT29QWjJHQlRvQ0IzQU1IMnhWX241NUh4bGFIN0tEZC1vMDRGN3dHQQ?oc=5",
+      "published": "Tue, 28 Apr 2026 04:32:15 GMT",
+      "source": "scanx.trade",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 3
+    },
+    {
+      "title": "Coastline Wealth Management’s Garrett Taylor Named Northeast Regional Excellence Awardee in the Advisor of the Year 2025 - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTXJ6NkZ4Y3JOcFBSaDRTTm8xRFp6UFl5TUhNWEpxOXJkdmMtelRfSkF1WU5LYi14MVRqQ2dFakVmY1Rtb2NrNEp3NkdQaW9TRmlIVnZlelZoNTNhT0pSZFZHb21KUGNGclRKWEJxLU1jN2Q4OTg2TzZIVW90WUt1Zkpkc2V5YXp0S0NzRXVnei05SGRvYW1YVzN4VHJWazZLQnhSdEVGMkdtajVhdDMzSnVVbHJjVE15dlRCZml4RkVoVEZLRk1wSlo3cDc1bFNBU0FoYmFDTExKcnpjenRiX2l5SkloVlgtbTlzVFVjRTV5UHhHTWlnU3N2U2kxdHVR?oc=5",
+      "published": "Mon, 27 Apr 2026 13:00:00 GMT",
+      "source": "巴士的報",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 2
+    },
+    {
+      "title": "Market Logic extends DeepSights Personas with synthetic panels and flexible persona generation to redefine audience research at scale - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPY2ZydnNKMEwtTkJwS3BONzJTUEdHSGVXcUlKeVo3SGNWVkExMHptRTd6SExTVkR2ay1RdThPRmRrU3JGamhITklQNlFRMzcySDF4RjY0N0pVdDFZLVJLZC1aMGZnRmNDd096ZWQ4NFZBZXdndk9VWUMzdWZfY3hYa2FiLV8ySkZLVjVTTk4wbnhLbnFpanJ5bHJ6NnhfWUlRcDFVMEVBcXE2azZwM284ZllvalRpc1R0Nmswbmh6a19kMEstMUs0TWw3eGdTZkZWN1FuOFc0MUtPQkhkenIwdk5WUjBVTk16djVMNWUwZUlPdng3clk2eDI2ZGFfWk9qUkM2dHZ1aGN0NUNYY21iRUpGdXNocENHNDBxWGFyM0F6cl8yV3dpbXNvQzBDQmpQRzRj0gGzAkFVX3lxTE9jZnJ2c0owTC1OQnBLcE43MlNQR0dIZVdxSUp5WjdIY1ZWQTEwem1FN3pITFNWRHZrLVF1OE9GZGtTckZqaEhOSVA2UVEzNzJIMXhGNjQ3SlV0MVktUktkLVowZmdGY0N3T3plZDg0VkFld2d2T1VZQzN1Zl9jeFhrYWItXzJKRktWNVNOTjBueEtucWlqcnlscno2eF9ZSVFwMVUwRUFxcTZrNnAzbzhmWW9qVGlzVHQ2azBuaHprX2QwSy0xSzRNbDd4Z1NmRlY3UW44VzQxS09CSGR6cjB2TlZSMFVOTXp2NUw1ZTBlSU92eDdyWTZ4MjZkYV9aT2pSQzZ0dnVoY3Q1Q1hjbWJFSkZ1c2hwQ0c0MHFYYXIzQXpyXzJXd2ltc29DMENCalBHNGM?oc=5",
+      "published": "Tue, 28 Apr 2026 06:35:00 GMT",
+      "source": "The Manila Times",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "Sole Cybersecurity Partner ThreatBook in Successful 'STEALTHNET' Exercise - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT0FzdkdwcEVNU3JJbndMUnVuQUZ0dTk5Ul9RMGRUNVRFVjJlSGNGdXJaSnR5SDBnS3g0RjBnM3FJTk0xS1hBTkg3NDBjempVcnlWRG5qRjhoTmkxb3NrZlRwaTB6ckJnOXZJbF9VWGJ2MlBhWXJ5cmRkM0FTWFVrM2NMcVJxaFc2cTNmMm5sZHFJYk9RWmNWSzFTS2Jja2pBMHNUN0lQdFBtNjV2elpVbWxOX0hpMHFrRWIzcW43dzdfTWlOT2J6aHpRY1BVbXE4Y2JQZE1nQVAwV19mdUp0NdIB4AFBVV95cUxOT0FzdkdwcEVNU3JJbndMUnVuQUZ0dTk5Ul9RMGRUNVRFVjJlSGNGdXJaSnR5SDBnS3g0RjBnM3FJTk0xS1hBTkg3NDBjempVcnlWRG5qRjhoTmkxb3NrZlRwaTB6ckJnOXZJbF9VWGJ2MlBhWXJ5cmRkM0FTWFVrM2NMcVJxaFc2cTNmMm5sZHFJYk9RWmNWSzFTS2Jja2pBMHNUN0lQdFBtNjV2elpVbWxOX0hpMHFrRWIzcW43dzdfTWlOT2J6aHpRY1BVbXE4Y2JQZE1nQVAwV19mdUp0NQ?oc=5",
+      "published": "Tue, 28 Apr 2026 06:35:02 GMT",
+      "source": "The Manila Times",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Sungrow Hosts GRES 2026, Showcasing Value-Driven Innovation Across Full Energy Scenarios - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVU1zWU1SN2QtUTQ5MDhBSWtJT1U4OERGOC1XU0R5TnVfcFN1ZjZPNVNPcThwcVg3Rmd3LWpFVHZOZnlRTEt6dEdZaDRFYUNwaGhvX1l2TV9BZFhiREtZMjFwQ2lVd3JodGlkajFrQjI2RGk5cDBrS1hkX011cmJDaDVfOHRKYkE1cHFDTzlEUUhUZUJRZWYxTGN6Q1BLeVR0YXEtNVBKMDByQzc0TFNjcW1MLS1xSWpQM0U5SVowMXVPSGxOamRsLTZZTFZsWlZBVXBWZVNYaVFnNlZTR2diam5BelR3YXdlWjNXUUVWMWFLdUxxOHfSAfYBQVVfeXFMT1VNc1lNUjdkLVE0OTA4QUlrSU9VODhERjgtV1NEeU51X3BTdWY2TzVTT3E4cHFYN0Zndy1qRVR2TmZ5UUxLenRHWWg0RWFDcGhob19Zdk1fQWRYYkRLWTIxcENpVXdyaHRpZGoxa0IyNkRpOXAwa0tYZF9NdXJiQ2g1Xzh0SmJBNXBxQ085RFFIVGVCUWVmMUxjekNQS3lUdGFxLTVQSjAwckM3NExTY3FtTC0tcUlqUDNFOUlaMDF1T0hsTmpkbC02WUxWbFpWQVVwVmVTWGlRZzZWU0dnYmpuQXpUd2F3ZVozV1FFVjFhS3VMcTh3?oc=5",
+      "published": "Tue, 28 Apr 2026 06:35:07 GMT",
+      "source": "The Manila Times",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Joby stock jumps to best day in a month: Cathie Wood’s ARK loads up amid White House eVTOL program boost - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNNElGVUFjVkJtTk9YYkZsamNrVzVRdVJadkdhYXdjNmhRREJVcmxsVFJmVkE2UDUtV3BsalVJb21LNklIenlYTWdkQy0tUVEyWVZfM0VZdkYxMUc3WTZQXzJacjR6OU81NHk1dF9pdUY0VUFFS0UzeURaR0NCNF9odTJ1SXZJYlBpeGgyczVOYUY1eHhPdXpac2Rxb0FpZ2NweEdXZ1pJaWVhemxMRElkdU56X180eVFvRS1zdWV6UzlaVENYdWZYbFNMQi1PbWVDUk1KTW9HcnFfUnZ3U2FKUlZ2Z1E2Ujd1Y2FIWHZiMVRGSWFtMVFHR0trZjRueVo1YkNvNG9HaUJydThHM3Vhb0tMMW5rREp6cFFJN0FqeG1pejVyblpMdnA0ZEV1NkRFejkyRVFQVnZDWmpRa3BUTkZyUkhJVURDTGJCX1FnNEZGRlBxZ2dJLWFUN2NWaHA2Y29HUTJUUll5NFZsNnRIMUxGTFYtT3hRZ1BkcDRSZDNkZEtiTUdneFhHemN1dWZ0bHRoMkMxcWNSaTBvY0duV1prTW9mSkZ3NmRsSF9sc2pqX1VrN2lOeDdJdUFvX19aSlg5UzdCYWtPWHZyUGpJY1NUT3Q3elU1ZURseV96dGh1VHM?oc=5",
+      "published": "Tue, 28 Apr 2026 05:06:55 GMT",
+      "source": "MSN",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "JOBY stock heads for weekly loss: Cathie Wood scoops up 835K shares in 3-day buying spree - MSN",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNV3hCTzNlOFFnWHk5WTlTUVJLQ01ObGNpNHYxSTRnTnVIU3pqZVNhRTBfSklGUVBvaHRRVUdsN0ZKWXdzODR6dkZIU182cV8wR05tQWpKOHM2ZnNINGt0M2xGNE1aOVlVbVRYR3JDMmhpRlN4VHhteXgySWF3NjNIcF9OQXlUdk9uZjN4TDBWUWlvbC1fLW40TlJGUnlycHZpSHNobzU2dnhNaW9yYkF5c3BiSlR2YTZLOXBMckhCTmhIS3JpVlpMRTZSX25oaEluLWo1LUdvYU5YX2NPR2d3Q2ZHeWkzMmtUNGdCeUdxOWxYTV9qQnRvVXhISzRDblM2SHpIa0RGcHViUXZiRk1mR0RacVktVGRfclVJQ3luWUpoR2tUcHBzN0hwOGp0NHlYX2J2SVpwY2ZTZElDQjlJWWFNd3dvelE3eC1Fb0V5ZzNhQVpZaURGaUZGdUlSa1g1b1B6V0NQUDNwd1Bwb0JLeHpCVm0zV2g5ZGUzN0hlalc3NFNBVU5ZQThpQ3VZQQ?oc=5",
+      "published": "Mon, 27 Apr 2026 15:24:19 GMT",
+      "source": "MSN",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": -1
+    }
+  ]
+}
