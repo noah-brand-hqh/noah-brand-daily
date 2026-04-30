@@ -1,0 +1,600 @@
+{
+  "date": "2026-04-30",
+  "collected_at": "2026-04-30T17:26:03.088984+08:00",
+  "metrics": {
+    "news_noah_en": 15,
+    "news_noah_zh": 3,
+    "news_olive": 2,
+    "news_ark": 7,
+    "news_gopher": 2,
+    "news_glory": 1,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 1,
+    "news_ubs_apac": 18,
+    "news_topic_hnw": 15,
+    "news_topic_fo": 15,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 53.8,
+    "sentiment_neg_pct": 7.7
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Short Interest in Noah Holdings Ltd. (NYSE:NOAH) Increases By 27.3% - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUxTOG9ITl9YVU5aSTZRUHQtZFFDWE54NFNzUV9zQ2FTXzR5MG8wX3ZGX0NMUG5fVERjYTIyaExDZUkzVEVxMUx2VnI3aDlObVE3cFZjSkRROXVDYndGcDdyaEM3V3FGNFhkYzdCaXA1eU1PY3o5RTZaNGU2NlpCY2c2NTZkc0lLcnZEWGNDejl6NlBpUk5jcm9PRG52SzE2Y2kwdUllTWlQdFFGMnFYUTdwTUdfUQ?oc=5",
+          "published": "Wed, 29 Apr 2026 23:49:37 GMT",
+          "source": "MarketBeat",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "AGM for Noah Holdings (NYSE: NOAH) to approve buyback, share issuance and dividends - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1U4X1g3ZFpzSENlaURONWU5eXpSaTJySURXeTdGVGZiX3VGalNxNVY3U0UyVU4xSzVMaVVmVnRORnJOTXA3QVBTSzFNblNva3BmdkxYcWRLbkFYM002VlhhUms2MHp0ZmlxWkdCZFM1UDdkMDhiREVLNTZtb1hmS05PV1Ntc2RrRWxydVFVYm40di0wWmxYbXZ4VTJzMzV6RjNUb1dVeFkxQ2htc1dDRGRqTQ?oc=5",
+          "published": "Wed, 29 Apr 2026 20:17:23 GMT",
+          "source": "Stock Titan",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Holdings (06686) has proposed a final dividend of RMB 0.933 per share. - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcW1ERXdrYjUtWDFTOFFJRWFMTHVJTi0tcDYtM1RzLWtkZUNPd1N2cUJvQWp5Y1dYQTVaWEFjNFFINlM3TFNNcFEyYnA5Q0dhQ2g2RndmbkpKaTV2ZjcwQ2NGcFd2QUVOYm1xQ2FwRG42R1dZMmwxTU9sYnUtc0hBWDBjQl9qWnNXLTIyMzNfX3NtVndWSW9LTW1aTFo2V28?oc=5",
+          "published": "Wed, 29 Apr 2026 19:52:15 GMT",
+          "source": "Moomoo",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Holdings proposes dividend equal to 100% of 2025 profit - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTNxeTlPdlpSMDRrMFdGVnVSZXo4VHNxVG9OUl9DbEU0eXliWXhMSWIzTUlYT3VOT2RoaXNYNW9XU05wb1cxLVVobm50SnFSVWhHdFBadEhESmZtdjgwdGNTbGNQY3RWMldvRGJHRnhTYWk4NjhMemwtTFFQajFkcFVvejQ0bnBudzl4UGl5VDFoVW5IQXJGbEEtcEVyRWlUbjA2NTkxUTlvejY0VzJHVldITERZNUk?oc=5",
+          "published": "Wed, 29 Apr 2026 13:06:59 GMT",
+          "source": "Investing.com",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Holdings Confirms RMB306 Million Special Dividend Despite Share Changes - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVRnTXR5ZTJya05wUXh5THVFek5zeHd1S3lxUnpQLVFKOGlGdkJHUmZWVE54bkhzRC1VYzFXUmppTnA0VTFYcGt0eWRqbWsxWENBYUZPUUVaR05TektQNzVSYm15S01TVFpyVzh6eEJQeXJSd09DUS14bVYxaHFCLTFrT0xaTHMyWG1HYzNmNGF0dmtHRmRBNFp2bzktb2lsZHYzTG82OHBrTVlTRW5XR213YVItTGFPSzgydDk0QlgwSWJqNVZB?oc=5",
+          "published": "Wed, 29 Apr 2026 13:51:57 GMT",
+          "source": "TipRanks",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Holdings Limited Files 2025 Annual Report on Form 20-F - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDZrNXN0bXdGTEZDVHprdS1qMHNPdG1DYVd6Y0VYSUhvbk1GTlh6OEpNMHNkNi13TUgzTEZZYVNZcnE0d0lHY3o2TEgzTHozTEhSVFR0cXFXMHotTVlDOG9iOHBDLUdfU3B2QjFVSGsyNVNjYmNIOGdnR0xaWkE5a0xmQ3k1b05yWFliQV9HaHBhTWhjU0Z2eWJ4NDJWX01IZzZiLUZ0NzQ0Z3djQjhBbW81elJpalppMFBSQnA4b3pIQWJVbHpYTzRCc9IB0AFBVV95cUxOMGp4amtKcUpIaG9ZUWJQdVNtaXRkcy1fNWRaWmNPRGRXTmhCbjl1RFBaSXJYRVFPSUZZalFQX3FvRXJNbUlFMGRRcmtfVFF0UHhELThVV1U2YXA1NVRibjFYS25WRjhGSjZHWTFZSnBjZzJyNmhZMzlhWEc3MTJnUlJKZUxHclVWenZzVW1QVUNBNlFTZE5VMGEzY3VxWWJRMDBNNXdsZ1NSRXJtVkhPNm1Cb2NCSEtMX2JIZUtHZndfWVRVZ3BNY3ozdFRZZXdE?oc=5",
+          "published": "Wed, 29 Apr 2026 13:08:31 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Holdings (NYSE: NOAH) 20-F outlines VIE reliance, China regulatory and HFCAA risks - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3ZCakdaeng0S3FEM0lGa1ltcXprR01ZZUdOdjFJTGhsRE12ODRiWmEtWjV1eFZBYjBQUU9XaEwySWhpaVFvdmFIVzJGSWVBUnNtM2NBeDJoS2F2aFBvZWZ5SUQ0NlEtYkdiWHUtQmlSTVVLWWxnZ2lhVWljMGhhNHNXR3FvdFJreWp0VUdJWVV1ZjJfbmY4ZE5fbU45R0FZaXJfTEVJeWdKWjVoS3ZZM2d0VkQxVHdfbFBn?oc=5",
+          "published": "Wed, 29 Apr 2026 12:09:33 GMT",
+          "source": "Stock Titan",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Holdings Confirms Final 2025 Dividend Amid Slight Share Count Change - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUlfRkhXZC00S2hTQ1FxYmhFUkJBdFduUkNsRk84RkFZUlpSRndjSU84UDFrWF9LUzl2czI0bVdscUZBU0hTNFdmNjFfd1p6azJUQkdVT093bjRjLWpKYlpXUGNJX19malVmQVdva2JtY3ZUTG5nMk1hTHVtWTJ4M3ViX2kxUnlseVRNamZud3hWd0Y1N0pZT3hWLXQ3cHM0ZTBmQml3dEZTRnNsV0JKTG54Umh6MGpBVXBnZ2N2WTdIRlE?oc=5",
+          "published": "Wed, 29 Apr 2026 13:51:57 GMT",
+          "source": "TipRanks",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Letter from the Chairlady to Shareholders: Noah Holdings Fiscal Year 2025 - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHRCLVB6UTFuaVEyV2lBVkRCM1Q3VkF5V05LNEhxQ2liNHdjM3pjY1pScXVNRmFFSVY2aTdzNXRJajBZZ1gySWlZOWdXQldmdnp3eTFUakZNZzlLMDN1MDJsUmp0VkpzbFFDTWc5Y1ZXSDlrRUNVOFN5QnhNMnN0Vl8xcTFDaFBvU3VodHBXX0JDZjhuQ24wUzVJenJwVFhJUWRhcHU1dW9feXZwOWJVYkt4cWdVZVNPTGRobXdKMWJZQm4xTWl0VGF6WngzakRCWTF5ZGF6eEdud0xE0gHiAUFVX3lxTE9ZaHNJQWdNWWFxaTRCM0hFel92NVlST2tPZ1p1TWdrZUtDQ21yMVc0Nk02aGtpNTBSS2hUNXZ2M2ZqQnhLa0ZqYXVaMW13RGhRVHplc3haRjd1eFhFLTZBTTR6cndYT3pBcEp2MVltdThEaEVCcndmR0ZjN1dmQW9FZGVIMm92SnhtaUxKVVQtb1Z5SzJOSjZoQ1ZXOVFJc0IzQzVURnhHdGtTZ19pcWV0bWlVQnhTRXZqbXFXcE5XeUM3VDZSY21iYkRzVmVObEJmSGc3ZHNuaDhkcUxXTDh3NVE?oc=5",
+          "published": "Wed, 29 Apr 2026 13:08:31 GMT",
+          "source": "The Manila Times",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah posts 2025 Form 20-F, offers free audited statements - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1FJMnJSVnY5NVdQaXZUTFdQdUYwLThUNkNLV2xvNDI2YUNoMndHTHk0bzcwcDhQNkE5ek93NExHa2ZheTBDUEQ3dFdtZFNWc2R5OUlHd0h4cDVjSk5LTVVZUWJERUVBMFE3c2FOT25GWDhnX1M3V1daTXh6UjFGTkJyVUQ3TTFFTHpuVXpza2gwX1VZWGM4Ti1Rd3ktRDRVemRzQmtMTW8zME55bzJRLTNR?oc=5",
+          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
+          "source": "Stock Titan",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 3,
+      "items": [
+        {
+          "title": "Noah Holdings (06686) has proposed a final dividend of RMB 0.933 per share. - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcW1ERXdrYjUtWDFTOFFJRWFMTHVJTi0tcDYtM1RzLWtkZUNPd1N2cUJvQWp5Y1dYQTVaWEFjNFFINlM3TFNNcFEyYnA5Q0dhQ2g2RndmbkpKaTV2ZjcwQ2NGcFd2QUVOYm1xQ2FwRG42R1dZMmwxTU9sYnUtc0hBWDBjQl9qWnNXLTIyMzNfX3NtVndWSW9LTW1aTFo2V28?oc=5",
+          "published": "Wed, 29 Apr 2026 19:52:15 GMT",
+          "source": "Moomoo",
+          "query": "诺亚控股"
+        },
+        {
+          "title": "AGM for Noah Holdings (NYSE: NOAH) to approve buyback, share issuance and dividends - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1U4X1g3ZFpzSENlaURONWU5eXpSaTJySURXeTdGVGZiX3VGalNxNVY3U0UyVU4xSzVMaVVmVnRORnJOTXA3QVBTSzFNblNva3BmdkxYcWRLbkFYM002VlhhUms2MHp0ZmlxWkdCZFM1UDdkMDhiREVLNTZtb1hmS05PV1Ntc2RrRWxydVFVYm40di0wWmxYbXZ4VTJzMzV6RjNUb1dVeFkxQ2htc1dDRGRqTQ?oc=5",
+          "published": "Wed, 29 Apr 2026 20:17:23 GMT",
+          "source": "Stock Titan",
+          "query": "诺亚控股"
+        },
+        {
+          "title": "Short Interest in Noah Holdings Ltd. (NYSE:NOAH) Increases By 27.3% - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUxTOG9ITl9YVU5aSTZRUHQtZFFDWE54NFNzUV9zQ2FTXzR5MG8wX3ZGX0NMUG5fVERjYTIyaExDZUkzVEVxMUx2VnI3aDlObVE3cFZjSkRROXVDYndGcDdyaEM3V3FGNFhkYzdCaXA1eU1PY3o5RTZaNGU2NlpCY2c2NTZkc0lLcnZEWGNDejl6NlBpUk5jcm9PRG52SzE2Y2kwdUllTWlQdFFGMnFYUTdwTUdfUQ?oc=5",
+          "published": "Wed, 29 Apr 2026 23:49:37 GMT",
+          "source": "MarketBeat",
+          "query": "诺亚控股"
+        }
+      ]
+    },
+    "sub_olive": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Noah Holdings Limited Files 2025 Annual Report on Form 20-F - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDZrNXN0bXdGTEZDVHprdS1qMHNPdG1DYVd6Y0VYSUhvbk1GTlh6OEpNMHNkNi13TUgzTEZZYVNZcnE0d0lHY3o2TEgzTHozTEhSVFR0cXFXMHotTVlDOG9iOHBDLUdfU3B2QjFVSGsyNVNjYmNIOGdnR0xaWkE5a0xmQ3k1b05yWFliQV9HaHBhTWhjU0Z2eWJ4NDJWX01IZzZiLUZ0NzQ0Z3djQjhBbW81elJpalppMFBSQnA4b3pIQWJVbHpYTzRCc9IB0AFBVV95cUxOMGp4amtKcUpIaG9ZUWJQdVNtaXRkcy1fNWRaWmNPRGRXTmhCbjl1RFBaSXJYRVFPSUZZalFQX3FvRXJNbUlFMGRRcmtfVFF0UHhELThVV1U2YXA1NVRibjFYS25WRjhGSjZHWTFZSnBjZzJyNmhZMzlhWEc3MTJnUlJKZUxHclVWenZzVW1QVUNBNlFTZE5VMGEzY3VxWWJRMDBNNXdsZ1NSRXJtVkhPNm1Cb2NCSEtMX2JIZUtHZndfWVRVZ3BNY3ozdFRZZXdE?oc=5",
+          "published": "Wed, 29 Apr 2026 13:08:31 GMT",
+          "source": "The Manila Times",
+          "query": "Olive Asset Management"
+        },
+        {
+          "title": "Noah Holdings proposes dividend equal to 100% of 2025 profit - Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc04wb2s1bWN1YkhFQkZudUVaM1RvYlFpbk1iay1mTDd2ZjZVNGFNQTZfMVFabHdmdklEclhXdFFmZnpkWWhpWHAzODJxTGNLbVJLeFJZS2dKVUs2N1V3U09tMXRWcHJjVEJpRmZaWU9qRFduVGppSHF0cUdWX1ZRNDJ4Z01weHpwaU03Qlo4TmFHVWtDMUd3VVJ0VFRhQTVmeTNhSFY3NGNWeWtKZDBLeXFjSUVIM05CcElOZWk1N1ktQXVpeGRhZUpQU24?oc=5",
+          "published": "Wed, 29 Apr 2026 14:45:25 GMT",
+          "source": "Investing.com UK",
+          "query": "Olive Asset Management"
+        }
+      ]
+    },
+    "sub_ark": {
+      "count": 7,
+      "items": [
+        {
+          "title": "ETF League Tables: Investors Retreat From ARK - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVZ0YzJZczlyekJjVXJZRVNPN1lDSTJQNi1mQlI5ZmF5OTBZakxKelVoaGxZZ0VNaFRJQU9VeG1YX3pQTUplZGxsTU1rSWNoNEpuRmo0TzZUZTBVME9vbDY0R21TYjBUcDNKSmtLOGxBRllLNFJoT3FJV3l4WW8td0hNeGg3WUhkeHN5Y2UxLWVLN0NRcTlxYjhrcWg0b2RhOWpR?oc=5",
+          "published": "Wed, 29 Apr 2026 21:00:05 GMT",
+          "source": "TradingView",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Nearly half of Noah revenue now comes from overseas markets - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2lpOURoU0Q2YmpINm9LMGs0WE5jSmZVUWNwUlU3OEtJdjNndVJLNEQ2V2lNOUdma2c5clpaR1BuNUpValMwdXJTWUFqazdZZkdSQXdKSGVpcGtpeU9qbTFMeUM5ZGVSYU1QZGZhVk1ySjlPLVYwMm9EZHJTQXhpN2VUU3daR3diX3lqMTZpQ01sQUFlbzQyQm5KMVlUaTBfYXFvZTRMX013RjY4enVjdUR4Umc1MU5zNDJTN3phOA?oc=5",
+          "published": "Wed, 29 Apr 2026 12:38:00 GMT",
+          "source": "Stock Titan",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Noah Holdings (NOAH) files 2025 annual and sustainability reports with SEC - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWG16S1RQRWswWkpLRmZNcmxKQ0E5dEduUGNKdXg4a2w2QlVSR2FqLXZGVlMySnZaSndUTjIxQnhDd0NNQ08wd2F2VWgxWlpEa2xkU1NSNzFrZUkzN2FTc29WYUNzZlRBNnhNTDhVc1RWeTZuRWlmZEZKdkc1VmdQcTVqbndMVzN4QjF4QndpVFM5M01SVktYUWpsU1k4R3F6Zml6ek9aOVN3R1pBT0NYdGFZbw?oc=5",
+          "published": "Wed, 29 Apr 2026 12:56:30 GMT",
+          "source": "Stock Titan",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Letter from the Chairlady to Shareholders: Noah Holdings Fiscal Year 2025 - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWhzSUFnTVlhcWk0QjNIRXpfdjVZUk9rT2dadU1na2VLQ0NtcjFXNDZNNmhraTUwUktoVDV2djNmakJ4S2tGamF1WjFtd0RoUVR6ZXN4WkY3dXhYRS02QU00enJ3WE96QXBKdjFZbXU4RGhFQnJ3ZkdGYzdXZkFvRWRlSDJvdkp4bWlMSlVULW9WeUsyTko2aENWVzlRSXNCM0M1VEZ4R3RrU2dfaXFldG1pVUJ4U0V2am1xV3BOV3lDN1Q2UmNtYmJEc1ZlTmxCZkhnN2Rzbmg4ZHFMV0w4dzVR0gHiAUFVX3lxTE9ZaHNJQWdNWWFxaTRCM0hFel92NVlST2tPZ1p1TWdrZUtDQ21yMVc0Nk02aGtpNTBSS2hUNXZ2M2ZqQnhLa0ZqYXVaMW13RGhRVHplc3haRjd1eFhFLTZBTTR6cndYT3pBcEp2MVltdThEaEVCcndmR0ZjN1dmQW9FZGVIMm92SnhtaUxKVVQtb1Z5SzJOSjZoQ1ZXOVFJc0IzQzVURnhHdGtTZ19pcWV0bWlVQnhTRXZqbXFXcE5XeUM3VDZSY21iYkRzVmVObEJmSGc3ZHNuaDhkcUxXTDh3NVE?oc=5",
+          "published": "Wed, 29 Apr 2026 13:08:31 GMT",
+          "source": "The Manila Times",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Advisors Urge Caution on SpaceX IPO for Retail Buyers - Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVFtc3hhUTVEdlB2WWVjM0hPbnZlNTAzRmNyMkZiYlV2TVc5aFZWWElqWlEwMjdsRmZRYkZnbGYwdjgzWW9JTlhyLWRhVW5ydWlwVHRCWlAwMVJCeEJmZEpGT1dSdElSTWFTMkdmQTExNGlpNHVpYldIRHZSNEZzcEtCVi1BemdVWE9BMmtRNDd3QVFFaVkydU81MzhJeHRRWE5OeGthUV9pNjUtZzBCdQ?oc=5",
+          "published": "Wed, 29 Apr 2026 18:42:05 GMT",
+          "source": "Wealth Management",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Noah Holdings proposes dividend equal to 100% of 2025 profit By Investing.com - Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjlRRE1BNVliMXBDdFAwR3pIOW13RC1IZXBsTmtadlRtSEdGNjhlNV94WmNlQTA3Yk9RRGRDSU9uV2NGV0pGREJqQjBVWG1oQmRTdDFobGt6SGNWN2JEUXgxQ0tIX3Qyd1h1SjY4WWFKNVJRVlI0TU5rWlBpY1dKNnh1cVplNzE5dkVCRGlLT2d5NmlqZ19ja2N5eHFTYlNlWEQxamhWRkN3QTBJd21yN1FRTjR3RlRLTlFpag?oc=5",
+          "published": "Wed, 29 Apr 2026 12:54:47 GMT",
+          "source": "Investing.com Australia",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Noah posts 2025 Form 20-F, offers free audited statements - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1FJMnJSVnY5NVdQaXZUTFdQdUYwLThUNkNLV2xvNDI2YUNoMndHTHk0bzcwcDhQNkE5ek93NExHa2ZheTBDUEQ3dFdtZFNWc2R5OUlHd0h4cDVjSk5LTVVZUWJERUVBMFE3c2FOT25GWDhnX1M3V1daTXh6UjFGTkJyVUQ3TTFFTHpuVXpza2gwX1VZWGM4Ti1Rd3ktRDRVemRzQmtMTW8zME55bzJRLTNR?oc=5",
+          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
+          "source": "Stock Titan",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Noah posts 2025 Form 20-F, offers free audited statements - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1FJMnJSVnY5NVdQaXZUTFdQdUYwLThUNkNLV2xvNDI2YUNoMndHTHk0bzcwcDhQNkE5ek93NExHa2ZheTBDUEQ3dFdtZFNWc2R5OUlHd0h4cDVjSk5LTVVZUWJERUVBMFE3c2FOT25GWDhnX1M3V1daTXh6UjFGTkJyVUQ3TTFFTHpuVXpza2gwX1VZWGM4Ti1Rd3ktRDRVemRzQmtMTW8zME55bzJRLTNR?oc=5",
+          "published": "Wed, 29 Apr 2026 12:44:00 GMT",
+          "source": "Stock Titan",
+          "query": "Gopher Asset Management"
+        },
+        {
+          "title": "Noah Holdings Limited Files 2025 Annual Report on Form 20-F - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDZrNXN0bXdGTEZDVHprdS1qMHNPdG1DYVd6Y0VYSUhvbk1GTlh6OEpNMHNkNi13TUgzTEZZYVNZcnE0d0lHY3o2TEgzTHozTEhSVFR0cXFXMHotTVlDOG9iOHBDLUdfU3B2QjFVSGsyNVNjYmNIOGdnR0xaWkE5a0xmQ3k1b05yWFliQV9HaHBhTWhjU0Z2eWJ4NDJWX01IZzZiLUZ0NzQ0Z3djQjhBbW81elJpalppMFBSQnA4b3pIQWJVbHpYTzRCc9IB0AFBVV95cUxOMGp4amtKcUpIaG9ZUWJQdVNtaXRkcy1fNWRaWmNPRGRXTmhCbjl1RFBaSXJYRVFPSUZZalFQX3FvRXJNbUlFMGRRcmtfVFF0UHhELThVV1U2YXA1NVRibjFYS25WRjhGSjZHWTFZSnBjZzJyNmhZMzlhWEc3MTJnUlJKZUxHclVWenZzVW1QVUNBNlFTZE5VMGEzY3VxWWJRMDBNNXdsZ1NSRXJtVkhPNm1Cb2NCSEtMX2JIZUtHZndfWVRVZ3BNY3ozdFRZZXdE?oc=5",
+          "published": "Wed, 29 Apr 2026 13:08:31 GMT",
+          "source": "The Manila Times",
+          "query": "Gopher Asset Management"
+        }
+      ]
+    },
+    "sub_glory": {
+      "count": 1,
+      "items": [
+        {
+          "title": "This Whiskey and Apple Brandy Collab Might Be the Most American Drink Ever - InsideHook",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWxoOFB1bEQxdEtJWE5Za0MweXJoX21FMkpkWEtqUUp3RHN3WlJPbkNsZ1diQlc3WGFGUUgtUW1XU21nU2JFejZ3dktmb0U3S0M5UVFqOTFCWDJ4NjNwR0RaVmFPajlBbE5XY3JkcVQ2UlNrenFib0ZtbG1WbXZfMTFUQjVxUnlUdV9yY3FrcVlTUdIBlwFBVV95cUxPdEF6SGtNM0czeWowTVlsbVFCYXhlQUl3UkF4ZndpZzJOdzV2R3B2OWhvRnlYZzRQUDUzeDRCT1FYczNPeHZvWExjTTNZXzRyMDRvNkJRaThweE9GQ1U3MW1HLVB0YmFDTlZIWWFZODI0dkgwMHJpSUtQN1hMSU81MEZxVmJhSmRNTGl1eWljdTRHN0d1Sklr?oc=5",
+          "published": "Wed, 29 Apr 2026 10:59:00 GMT",
+          "source": "InsideHook",
+          "query": "Glory Family Heritage"
+        }
+      ]
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Arta TechFin Raises HK$60 Million Through Share Placing to Fund Expansion and Debt Repayment - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOODI3dUxmZDNFUDhuWmJZMklfTzY4dUNCN0FibmpfY0RNNGJSMHdmTlpkU1hDMF9XWFU3VUZ5QzhYVDQxSDJMdlRUU25Kc0NqcmthWS02bHVWQUZHNlhENFBMVTZza25aOTNidDMtTTNJNjV4ZmN3elI0anZOZ3EtcWlYeHdSQTRxUXQxeVd0VUtiampUMGpCcVNxU3d6Q3pDUnRjQUtxM21DcjhSeEhhTlkwcE80TXEwTHFxUGpjTjE4N0IxcU9WVDl2eXdQajF5SzJ5dkJLNUhNZ2M?oc=5",
+          "published": "Wed, 29 Apr 2026 11:26:25 GMT",
+          "source": "TipRanks",
+          "query": "Arta Finance"
+        }
+      ]
+    },
+    "comp_ubs_apac": {
+      "count": 18,
+      "items": [
+        {
+          "title": "UBS Q1 2026 Profits Surge, Reiterates Cost Impact Of Proposed Swiss Capital Hike - WealthBriefingAsia",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJHRXVzLUQ3VUJicVZGSWFabzNmTWY2bW9abDVFS1hsYjJMQnhXZkFhWGo5RGFRcUVXNXNRNG5YQUFpOTlHYVdZblQ5Vkg2OTk2dExzN3k3RjY1cWFHQWFKaDFOeWluTDItdWkwQkdNQ1h1WThvYW5NWTJuZ25rdGdhN2ZjdlRjTkM0M2prRXluSXVrMk5IN1kxbk9wajlzRFNiNXUyd2tyUHRETklCdVVNQ2VHMFlQTVpScU9TZXdZcnh1VXJYdw?oc=5",
+          "published": "Wed, 29 Apr 2026 14:32:00 GMT",
+          "source": "WealthBriefingAsia",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Shares Climb After Investment Banking, Wealth Boost Profit - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2hCa3c4Nk1DcU9PMUdzcWVPUVBEX3VMVWdXeFpObklOSnVkQ1pxXzFFWHlYcENJX0lfZms4LWhGSGxwT3Nnd0RYY2lnNzdVeVZnTlMyaWV3OFlKeF91NW84YmIxUXU0OGRuNkR5MVhvR2pKTjJzRnN3QkEwTzlad3MtNFFTVFQzZ1VsYWg0b19aMm42Nkdrb0MwUnA?oc=5",
+          "published": "Wed, 29 Apr 2026 12:14:00 GMT",
+          "source": "WSJ",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Group Q1 2026 Earnings Call Transcript - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQVhnVk82TFdqcDlybk9YejdqSjNKQVR0WmQ5VEFMM1haM29GdWhzX3B1Q053UnItU0tpampFUTJlMWxKZVlZMUpkVnhzZ0k2a1psU3AyUk8yLV9kalZkZXdxQmpqbzBtbDZSMVFic1ZHMmJZOUN6WUluU3ptUQ?oc=5",
+          "published": "Thu, 30 Apr 2026 01:16:20 GMT",
+          "source": "MarketBeat",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS GWM's Apac inflows more than double to $19bn in Q1 - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUExNTJvbDlNenZCY2lNZ0o5NFZCYnJGcEJKbU9JLWxMQW9KUm5KZmJjUE00V1hYaDdUMTZtUW1aZDJ5bEN3clNGWkx4OWNNN0l0WWdFMGdySHlFX2lDM1hKWnBMLThzOFpCTlZZOXEwWjNmS1I1NzRNZWRRWHFoTkl4dU1vdlBmd01sOXRyT3N2MFlYLUdZ?oc=5",
+          "published": "Thu, 30 Apr 2026 03:02:46 GMT",
+          "source": "Citywire",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "DBS Profit Meets Estimates as Wealth Management Fees Soar - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV3RDWHBIaVY2b3A0NU5uV0xOTUtDQm9USHNHMk1kZTI1RzAwX2pYVnYtUnhfR0FIbkNGZ3BLUHo5WGN2bnZTcjg3ZTNMTXNabmFySWJKeEZaWUFyamhPMnpkd1pqSU9YNEY2NFhrY250OWdzOE5GalpsdzViUWFCY1hVQmhaWDJKSE16V0gtWFNhX2dMOHU1al9mdVpfU2xUTS0xM0FEU2d2VEd4Y1NTNGpuQWt3QlBLRUY1aUtLTi1sQQ?oc=5",
+          "published": "Wed, 29 Apr 2026 22:48:53 GMT",
+          "source": "Bloomberg.com",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Sees Recovery Signs in US Wealth as Inflows Return - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWlONG5FSk5ORlVYNzFLOVFsN0lsVmVvamN0NTJDa0xmVjBOQ1U5bDhMNDNyLUtScnozT0NiSk90ODhwN3NLbUltZjMzOEtMMElXQjBPUmNYczFYY28taVJINHlWNk9SSzZJRFkycTV6WFBNYlFXRlcxOW1lbkROTjNhQ01QYVdsVFVKS29JczROWng0R0E?oc=5",
+          "published": "Wed, 29 Apr 2026 14:26:44 GMT",
+          "source": "Yahoo Finance",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Reports $3.04B Profit, Trading Revenue Jumps Nearly 30% - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzFzRDgzQmFsWGFlaFFFVlMtYXhvcHk2WndKMHVhRU5qV0dmNlF5NHI5blJPNmQ1am4zdWVCRWRtYXB0aGZzdEd1cnJOeE9aQ2dGdE1XNVFyTnpma05sMUhoSmQzLU5xdmJrTzVsZ3BXX085VFhJSUlQLTBuNXBaNmJteUlUdW9RZHl4VVRYSVVWNVlJaWE5Rk1GNlR0bU9RY19nRk1STFNMdGh2bUtRYTlyZnZXLXc?oc=5",
+          "published": "Wed, 29 Apr 2026 16:14:14 GMT",
+          "source": "TradingView",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS' US wealth business shows signs of resilience - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGlNU25FQUxDZ0hkUzl4aGd0SE9qc3ZUeWxJSVg1MkE4QnJXT3pTbW5zdXVER3ZZZlZHUVBCOXowU2RhTDR4T1Z0S0UzM2RtMk9NVk83ZjJ2cV9iMTJjMjVhaTZhLXljekdBOHl5QU5MQmxNWnF5UjY1NzlPa29iS0NvU3dpOEZEcHA5U1IwYzI?oc=5",
+          "published": "Wed, 29 Apr 2026 18:17:27 GMT",
+          "source": "Citywire",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "Wealth Managers Stay Upbeat On Gold Despite Volatility - WealthBriefingAsia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMF9Eam84MlhJeEFLQnRlSURGMlo1ZUNmd0NzUUJsM3hVRGI2NHJtU0dYc2NFb0t3ZnZybTBYcDJsZ0dUVnBmTmxjaWFEbGJ1QTNROHU0bDRaVFF6UnU3dngwSGNOMlI0UDlvODBnSV9wbUhVR2d1TGp6c3hZUHg2dEVwTHpfYmNuZkIxMExPckY5T082WnFyRXF1Rmp5R3ZJQjJwSllTa2V0dVdsSDkzVEtueW5Rdw?oc=5",
+          "published": "Wed, 29 Apr 2026 19:07:57 GMT",
+          "source": "WealthBriefingAsia",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS: Despite geopolitical conflicts, wealthy clients worldwide continue to inject large amounts of capital into the market - bitget.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zVWtmcnozR3MwWjBhNTAxQ00xZkhYVTZxY1VKTEY4LTlIY20wdU0yd0UzTzdLblFJU0d2eWE2TkltdlBOUnE3b1BJb0U0QWtLY0paS0RLTWRjWUd2RFlITFdPSFhULXhzZ1HSAWpBVV95cUxNc1VrZnJ6M0dzMFowYTUwMUNNMWZIWFU2cWNVSkxGOC05SGNtMHVNMndFM083S25RSVNHdnlhNk5JbXZQTlJxN29QSW9FNEFrS2NKWktES01kY1lHdkRZSExXT0hYVC14c2dR?oc=5",
+          "published": "Wed, 29 Apr 2026 12:13:59 GMT",
+          "source": "bitget.com",
+          "query": "UBS Asia wealth"
+        }
+      ]
+    },
+    "topic_hnw_chinese": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Asia-Pacific Financial Institutions 2Q 2026 Monitor: War, Nonbank Finance, And AI Are On The Radar - S&P Global",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR0hVb21iM3RZWEZBNGlzZWJBc2h5eFZtSmJ4eklTd0d5Vk9fZWo2YkphNkI3Tk9aWWlGVk9MUFZNcFlKS3o1WkRPRGYyYnVTbUhkdHp3TVF3YVBqU0dUaTRyT3JUOEoyQXVPR1g5MmtJMkhxd25qOFYzTnJQWW5sTHl3YVp6OTdta1VyYWFTRWdIQnpaeGVWcC00QkhqRlhhd3JtQ0Y3aHNPQ0t3S1VUMTBtcXd1N3FaWWJuZFU0djdlQmRlYXNyT3ppOV9WT0lBbXlCYklWekgwUFpicmY1WEZIdHBMM2pTSzBfbzFpRVA3Sjg?oc=5",
+          "published": "Thu, 30 Apr 2026 00:20:00 GMT",
+          "source": "S&P Global",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "DBS's Q1 net profit beat underpins 2026 outlook as wealth arm softens Iran war risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGdjNWpHMXEzWHJNR2ZHbnpwNHFqT1pJUjFMaTR1eVJYZzBrXzJjNXBpbVNXSkQzMTRrRzRHV2pSSHU3RE1MRHBBMzFPc2tPaTBrRWxkZXJSRkFleWw4cEc4UDhMZzFiR2lIbWUxN3dRQmZiMHhMQjNmZDUwZmhjNk9NREZVZWFtTFV0amxHQm9JRnNYczRKSER1VjJKRXNMM1NPVU9lR2dsQlVKdGtNNw?oc=5",
+          "published": "Wed, 29 Apr 2026 22:38:00 GMT",
+          "source": "Reuters",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Singapore's DBS warns of 'second-order effects' from Iran war - Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXdQOE5DUkRZNVY2c2tPT1NMRTQ4T2VkZkFsenVLRzAxOEJXZnpMdGVQSkpucFZURXI0NEY3V05VWVphS3ptNkRadlIzUDBGUVNPVVc5dWxaT1hWclBZMHJwZFhQMXJrRXVVR0FDQXM3QlAtZUNFRWdQNFd6X1Z3bWtsMlBNRGVIM2ZiV3RQRnBMSlV0dmRUdzFqalBCcEs4Zmc?oc=5",
+          "published": "Thu, 30 Apr 2026 07:07:00 GMT",
+          "source": "Nikkei Asia",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Chinese automakers' Q1 earnings highlight impact of currency fluctuations - CnEVPost",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2JBaWNPUldRcG40S0tVQzFabkxYTGNhSmg0ak9wdFh0NUJKcU5EdXRLUk5Sb2hrc2dyZjdrSU9PQXd1SFF3UWVUTExDM0NRSWR6YTVyUERxRWRia1dEYnJxLWtaUnJtQW1oMGtrTzVzWDFsZGNIdGF1cXJIWVdFN1djeXBPanotdDVaMGJ0eDV1Q2dGdlNJTFhsdTE?oc=5",
+          "published": "Thu, 30 Apr 2026 01:47:00 GMT",
+          "source": "CnEVPost",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China Merchants Bank Files Unaudited Q1 2026 IFRS Report, Cautions on Forward-Looking Risks - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQenRlb25HNF9uaEd3NElFaHNGcXlwMUNuYldUdUdFbHNlVEhNRGNBVUk2c3ZwMXVCMkRaUkhpWm93WWJqcGhsdWpMd1cxa3hERUJ0SEZCR1lQaTFIcUVjWFR0SkRrQTJzbmZVY0tENWwtNjNfR0NydWhwYVBWUDlWbjZ3WE5FNlZUMXY1Q3pESkNGODJkUlRwdXZ4bTBrUmZqUTUzUW9xdzBDOFZwZFpteWhFSHhtaUZrdVhDUVJtWjlEMS1aMTRSTFdWU1ozN3c4S0JSbDRoWXJwR0Z1NXBHOGZZbFc3VlF4alIzdmRHWDJiQjJsRTBYX3liXzI4QmtQ?oc=5",
+          "published": "Wed, 29 Apr 2026 13:29:19 GMT",
+          "source": "The Globe and Mail",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China-focused Nam Tai Property (NTPIF) outlines core assets and high regulatory risk - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTEp0VGF2RFpGQWpNM3FIaTZxTWtkaDVMUUlKeW9DQlVkYmtTcjlfX3VlSmU4Qlk4NHpGRjc5azZhM2FvbzJIblhtOFZ3NWxoaW5fZnk1dVA0dU81R3NLLVBBcURwOG1tMnpza1lSa1FFa243d3pheEpGVFhtNEUwb19OSUlDQXpRYmpDQUpKOHJvdkhBZ3VfWWZ4bnAyemppZTB0VGtRdi1SVFkxdlVETmlVU3NxTWhJTERLeDN4WlE?oc=5",
+          "published": "Wed, 29 Apr 2026 18:04:31 GMT",
+          "source": "Stock Titan",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "DBS Profit Meets Estimates As Wealth Management Fees Soar - BusinessToday Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmdjMmtFQldZWTFMZE42NWN2V21ock1mZ25GblJad0lzc0NudXRKdm5XcWdDaVE2aGNxM0Rhck84YTJmMkVON3ZBYk5ob1lpUXNMZnp1d1JWQ2pGeXV2U1lJNnNYd3RzdXVjQmI3SlAzelo1ZGt4LVNJbUZyRjBRSEk2RTc5YU56dFVUQmRjclItV1NHSzFkcS1aa0NJUi1GX2g2RA?oc=5",
+          "published": "Thu, 30 Apr 2026 00:54:36 GMT",
+          "source": "BusinessToday Malaysia",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Singapore's DBS keeps 2026 outlook largely unchanged, Q1 profit beats forecasts - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOandVRzlGS2c2NWFiUWZGU2pDeXFHMzI4TTAtS0p0ZFlWakdDblFyVWJKQkRGUGVTWWFkMkNwSkRGdVBTbkozVWdFbU5ObldRWTN4bHo3WWYwX3kxTVRiU3dWU1laS2lQMkRvZTg5RHZ6b3d3V1FEaUxaZ0tsTDRNVFJiVmpVaG01R1g4NHh0UWM5ZUw3ZkoyVVNnWEs2SHhiN3dXMzFLTmlUbzZ6VzUzc3J3R0ZPYlRMUGF4UjRCeHlFc0Q2ZE1fM1JuNzFkVHRaczhtdS12UWV2S2NzYThpOG4wQVJKOXpiY2JkdA?oc=5",
+          "published": "Wed, 29 Apr 2026 23:39:51 GMT",
+          "source": "MSN",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "2026 Su River Wealth Dialogue | Second Roundtable: Heated Discussion on New Avenues for RMB Investment and Financing - 富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2dMRk1WWlJaRUFhaGV2SFBhWXhHQ1ZUS2plajR6eTJkWjdkM3hxRlhyYl9lVkhNaV9rQnJwakVDN1NNVEs3MFQtTkdXVU10Q2diME9ZOUx5U0R6c0VWZmtYTjNIckg0Umx3MW1jamZnTzZETFF1WjBlb2FEWUM3ODZQWWE4a2k4Z2dTUkZFaUhoelVnRmRONmtFMTlqMlBBRDhtX3hkcHQzRmRJb2c?oc=5",
+          "published": "Thu, 30 Apr 2026 04:22:32 GMT",
+          "source": "富途牛牛",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "DBS Beat Estimates, But Dialed Back Its Profit View - Finimize",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVNCUEtxUWw1Vm53RHV0YTJUVXlfRjZnS3JHNHNGQThFUDdnYXh6NDNQZ2gyODVPQWxIVV9pT1Y3a1RhMmxSRTZTWUJCTjZ3XzJldnRXRTdmREt3SWJoRE40OVQ5UU5oNXZ2cmE3YldWSUJFVGlMcGhjRUZ1ZmZ1NDBjRU5vR3Jr?oc=5",
+          "published": "Thu, 30 Apr 2026 00:00:40 GMT",
+          "source": "Finimize",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Family Office for $12 Billion Tetra Pak Fortune Exits Hong Kong - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjZnbUs4WnFXbWJVZHZ1WXMwWnJvZC1DWE5KVGE0Ulk0V25MWjdCYkNMN1hNQUtrTE05R1JicWNDamxKSDA4Nkl2d3h1dWVzOWtyRzJackUzdDdzYW5Gc0o3Rmh4ODFWZUFFRkxnelVYSndlMEQxa2RlNng2WXBiYTU3QjltMUxEWUlFUFg0WFo3aUNpZlhETGpJTDkwcEtRbGRTM0xVdF8zZ3hfWWN5UHBrSQ?oc=5",
+          "published": "Wed, 29 Apr 2026 14:47:36 GMT",
+          "source": "Bloomberg.com",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Stokes Family Office Exceeds $3 billion in Assets Under Management, Among Louisiana's Largest Registered Investment Advisors - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGtKN0QxUlBHSE0tX1dtZmVPalNQMDc2U1VIaXdIQ3d6ZmVsTFRGRkExWldTbkNTbHcwUnQxUWpzYzREdkVHRmRyeWdCZVR0Rkx1emY1TWFfeTdmOXlKYk5mbGhJTWJmLW1PVUZSNlBhbkxIQTdqNmVBWXNLSWN0Q05rb3NSZw?oc=5",
+          "published": "Wed, 29 Apr 2026 12:39:00 GMT",
+          "source": "Yahoo Finance Singapore",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Flashpoints, friction and flexibility: PWM Tea Break - Professional Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82bHNpUXVZVmoxSk5vZUVmcHJVN184M3lndXdTV0RrYlVvVmRfVlRqM3l3QnUtRUNGcGN0a21xZXhlZHZTQUlsU2xsZl9CektVNTdsOUZ6Zmp5WFZmZFNDRWE5cms0QW9rTldfMVFpOG01c0U?oc=5",
+          "published": "Wed, 29 Apr 2026 13:06:39 GMT",
+          "source": "Professional Wealth Management",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Chinese asset manager to open Abu Dhabi office - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbl9YbmpEUEhOcHA5elB2T3ZaM2NHVDdkRkdCSm9EWWp4TTluc2RrbHJSc1lvRzhJQ0JQMmVQWThXUC1fRllLX29iQXBid2VaZHNBQk5XU1VYY1JXOHdkMGlwNVl1WVVIS1RXcWgwazNPRDdpNm9vdUZsem5CQ1hfaFFXX3hscThqNHVIWFhjNVhYejNvaTJ1UQ?oc=5",
+          "published": "Thu, 30 Apr 2026 05:24:54 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Bank of Singapore adds J.P. Morgan veteran to lead family office push - AsianInvestor Wealth",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFhVd2o5SmhpaHROaUxRbGd1SWdSRFpxTUlvMHZKRjgtdExobkoyZXdJXzdiQW9mTVNNNEt5NmMtTFozTFVnbFExNmZyWTN3dWxDTUY4ZlB3eUFNY0U2SkJpTjdZSUhCNmNUbFU4UFM4UTRQMGJpaWFPcUJrMFpfejNUR3VObHZ1a0tuUER6blpqU21leHMxTlZ1Y0xqbmxHOXFTOVBvLVRURGNvdXVtVWJzanoxR3JWRjJF?oc=5",
+          "published": "Wed, 29 Apr 2026 16:05:17 GMT",
+          "source": "AsianInvestor Wealth",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Lloyds Banking Group Names MD For Wealth Management, Family Office Coverage - Wealth Briefing",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXdBUkZzRnl1eGZjMGFtSmxPdGI1ZFRua1ZWUkNHY2JTeVozbFgzVktaZHE1QlhaLTU3X2ZjNGdkT2xyN0ltMUlSV1U3Y2hPa2hTRDVZYURCa0hzUjVpUEVCNDduNTVpekdacjJteUVyWXpzM2xYRDhGT0lSbjdHbjZrRTg3YXgzZXd0MW1LOWtBM2hFS1FnS08wcWZ2bXo1aE1nNnZfdnZJTkRNaEE3cVd6RWw4NExiQ3Voc2hMVkh3dlhz?oc=5",
+          "published": "Thu, 30 Apr 2026 07:06:46 GMT",
+          "source": "Wealth Briefing",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Study reveals family office investment strategies shift as younger generations take a bigger role - IFA Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZW1VUXhOQXdZMDlQNFBlLU1MR1dCbmpfR05ORmh3Y0ozanhiS1pKXzMxZVFFQURQS2VUWW44VXYxRFFYQzYwTy16Z0RvVTdnMm1haHhTa1A4UzdHd3l4NkI5RDBURFpKNUl5eGhEeE5YcTZJSk00Ul9Oa3J0VmhyWGNfblNkLU9pODFiZGZkY0ZDZi0tTnhvRjNmdzREVEhCTzlDbUdlOXlmclN5a3AwbThOZE5TWUo0Q3BBZjJVUQ?oc=5",
+          "published": "Wed, 29 Apr 2026 12:30:00 GMT",
+          "source": "IFA Magazine",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Silvercrest picks Atlanta for first local office, taps wealth veteran - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2lRUFptUk5uQnpXZ05kSkZka3VYWERMV21wSE5qQlYyQ3MyMXowRzluaGNUaFB1XzhhU0ttM1FJTGlyekpqZzBvdHNra1VleTFPY1ZoUG5PZTVNZmQ2anlFV1FTVXN2WE5fRDdWVHcxNGhIVTNVUHZFZGswR3BXeTFGaGRZdlp4QXcxWjdIY19KeXdDT0Q0RC1ZSm44S3d1Wm93MzFmSjhlMjlK?oc=5",
+          "published": "Wed, 29 Apr 2026 12:21:00 GMT",
+          "source": "Stock Titan",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Silvercrest Establishes Atlanta Office, Hires Brittain Prigge - GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXlia3pmSzdBY1g5X0p4Rl9xWm01X1dvbzhfLV9xZlVxYWM4RHRPOW5oeWRPOWVnYkRrRFU4a3M2RGtUbEZBNzBvMlViUjc0eWF2SjVqcTd2LU1NbkRTSnItdFdWa0NuUnA4RzRfQ3ZBdkhCR2t2aVY3Z3JaR1d4X0J1cTVRU1d4NTB5OTdFWjNTTElkLXBGa2swTUdsNGZsMHFGNTBMSUdneF9lRU1USWk4T3BqQkZzTVVTSmhBVm5aQ3BJR1M2eWhpaUc?oc=5",
+          "published": "Wed, 29 Apr 2026 12:21:14 GMT",
+          "source": "GlobeNewswire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Ex‑HSBC veteran Tannir joins Citi as MEA banking chief - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmdPQVY0UlRTYXByMGJ4aklXZjhrQ0lBOUN4REtOaElWaWlwR2xGODdhenJhc296YmhPb25HLTZJUkt3Tk1pcS0zd2J1WTB0NXhHU1FDSks1Y2ZCWmx3NUlqRVd4MlhpeGdsRld6NjJMaEx0Ylh2RlBIczB2WER1Z2ZLUGh0UWNPYXdHRUJReHFWemxncWRUeFdBek1FdHpvX2Rz?oc=5",
+          "published": "Thu, 30 Apr 2026 06:25:06 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 7,
+    "neutral": 5,
+    "negative": 1,
+    "total": 13,
+    "pos_pct": 53.8,
+    "neg_pct": 7.7
+  },
+  "top_mentions": [
+    {
+      "title": "UBS Shares Climb After Investment Banking, Wealth Boost Profit - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2hCa3c4Nk1DcU9PMUdzcWVPUVBEX3VMVWdXeFpObklOSnVkQ1pxXzFFWHlYcENJX0lfZms4LWhGSGxwT3Nnd0RYY2lnNzdVeVZnTlMyaWV3OFlKeF91NW84YmIxUXU0OGRuNkR5MVhvR2pKTjJzRnN3QkEwTzlad3MtNFFTVFQzZ1VsYWg0b19aMm42Nkdrb0MwUnA?oc=5",
+      "published": "Wed, 29 Apr 2026 12:14:00 GMT",
+      "source": "WSJ",
+      "query": "UBS Asia wealth",
+      "weight": 3,
+      "sentiment": 1
+    },
+    {
+      "title": "DBS Profit Meets Estimates as Wealth Management Fees Soar - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV3RDWHBIaVY2b3A0NU5uV0xOTUtDQm9USHNHMk1kZTI1RzAwX2pYVnYtUnhfR0FIbkNGZ3BLUHo5WGN2bnZTcjg3ZTNMTXNabmFySWJKeEZaWUFyamhPMnpkd1pqSU9YNEY2NFhrY250OWdzOE5GalpsdzViUWFCY1hVQmhaWDJKSE16V0gtWFNhX2dMOHU1al9mdVpfU2xUTS0xM0FEU2d2VEd4Y1NTNGpuQWt3QlBLRUY1aUtLTi1sQQ?oc=5",
+      "published": "Wed, 29 Apr 2026 22:48:53 GMT",
+      "source": "Bloomberg.com",
+      "query": "UBS Asia wealth",
+      "weight": 3,
+      "sentiment": 1
+    },
+    {
+      "title": "UBS Sees Recovery Signs in US Wealth Business as Inflows Return - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWRqY3VIdVhNT25kY0pDbWVOd2prOVRYdURzSkJlV2djVUlMUjBhdEZCRXFWUzJ4UHRRSHBrZXl4bEtNbGZ6R0RCUkpXZGRob0hNN3p3T0RGZVZWcmp4RWlJZ2tka2tNZEFockpaZk9Oampxb3lULU5QX0twUlk3MzFrZHh5Vms4ZTZOT3kyOGhnTTZ6NXFtRFlUbS1ZUXpNN01naGtheXdVc0U1TFAzSXZpdWI?oc=5",
+      "published": "Wed, 29 Apr 2026 09:28:12 GMT",
+      "source": "Bloomberg.com",
+      "query": "UBS Asia wealth",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "DBS's Q1 net profit beat underpins 2026 outlook as wealth arm softens Iran war risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGdjNWpHMXEzWHJNR2ZHbnpwNHFqT1pJUjFMaTR1eVJYZzBrXzJjNXBpbVNXSkQzMTRrRzRHV2pSSHU3RE1MRHBBMzFPc2tPaTBrRWxkZXJSRkFleWw4cEc4UDhMZzFiR2lIbWUxN3dRQmZiMHhMQjNmZDUwZmhjNk9NREZVZWFtTFV0amxHQm9JRnNYczRKSER1VjJKRXNMM1NPVU9lR2dsQlVKdGtNNw?oc=5",
+      "published": "Wed, 29 Apr 2026 22:38:00 GMT",
+      "source": "Reuters",
+      "query": "overseas Chinese wealth management",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "Family Office for $12 Billion Tetra Pak Fortune Exits Hong Kong - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjZnbUs4WnFXbWJVZHZ1WXMwWnJvZC1DWE5KVGE0Ulk0V25MWjdCYkNMN1hNQUtrTE05R1JicWNDamxKSDA4Nkl2d3h1dWVzOWtyRzJackUzdDdzYW5Gc0o3Rmh4ODFWZUFFRkxnelVYSndlMEQxa2RlNng2WXBiYTU3QjltMUxEWUlFUFg0WFo3aUNpZlhETGpJTDkwcEtRbGRTM0xVdF8zZ3hfWWN5UHBrSQ?oc=5",
+      "published": "Wed, 29 Apr 2026 14:47:36 GMT",
+      "source": "Bloomberg.com",
+      "query": "Singapore family office",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "Noah Holdings proposes dividend equal to 100% of 2025 profit - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTNxeTlPdlpSMDRrMFdGVnVSZXo4VHNxVG9OUl9DbEU0eXliWXhMSWIzTUlYT3VOT2RoaXNYNW9XU05wb1cxLVVobm50SnFSVWhHdFBadEhESmZtdjgwdGNTbGNQY3RWMldvRGJHRnhTYWk4NjhMemwtTFFQajFkcFVvejQ0bnBudzl4UGl5VDFoVW5IQXJGbEEtcEVyRWlUbjA2NTkxUTlvejY0VzJHVldITERZNUk?oc=5",
+      "published": "Wed, 29 Apr 2026 13:06:59 GMT",
+      "source": "Investing.com",
+      "query": "Noah Holdings",
+      "weight": 2,
+      "sentiment": 2
+    },
+    {
+      "title": "Noah Holdings proposes dividend equal to 100% of 2025 profit - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc04wb2s1bWN1YkhFQkZudUVaM1RvYlFpbk1iay1mTDd2ZjZVNGFNQTZfMVFabHdmdklEclhXdFFmZnpkWWhpWHAzODJxTGNLbVJLeFJZS2dKVUs2N1V3U09tMXRWcHJjVEJpRmZaWU9qRFduVGppSHF0cUdWX1ZRNDJ4Z01weHpwaU03Qlo4TmFHVWtDMUd3VVJ0VFRhQTVmeTNhSFY3NGNWeWtKZDBLeXFjSUVIM05CcElOZWk1N1ktQXVpeGRhZUpQU24?oc=5",
+      "published": "Wed, 29 Apr 2026 14:45:25 GMT",
+      "source": "Investing.com UK",
+      "query": "Olive Asset Management",
+      "weight": 2,
+      "sentiment": 2
+    },
+    {
+      "title": "Noah Holdings proposes dividend equal to 100% of 2025 profit By Investing.com - Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjlRRE1BNVliMXBDdFAwR3pIOW13RC1IZXBsTmtadlRtSEdGNjhlNV94WmNlQTA3Yk9RRGRDSU9uV2NGV0pGREJqQjBVWG1oQmRTdDFobGt6SGNWN2JEUXgxQ0tIX3Qyd1h1SjY4WWFKNVJRVlI0TU5rWlBpY1dKNnh1cVplNzE5dkVCRGlLT2d5NmlqZ19ja2N5eHFTYlNlWEQxamhWRkN3QTBJd21yN1FRTjR3RlRLTlFpag?oc=5",
+      "published": "Wed, 29 Apr 2026 12:54:47 GMT",
+      "source": "Investing.com Australia",
+      "query": "ARK Wealth Management",
+      "weight": 2,
+      "sentiment": 2
+    },
+    {
+      "title": "UBS Sees Recovery Signs in US Wealth as Inflows Return - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWlONG5FSk5ORlVYNzFLOVFsN0lsVmVvamN0NTJDa0xmVjBOQ1U5bDhMNDNyLUtScnozT0NiSk90ODhwN3NLbUltZjMzOEtMMElXQjBPUmNYczFYY28taVJINHlWNk9SSzZJRFkycTV6WFBNYlFXRlcxOW1lbkROTjNhQ01QYVdsVFVKS29JczROWng0R0E?oc=5",
+      "published": "Wed, 29 Apr 2026 14:26:44 GMT",
+      "source": "Yahoo Finance",
+      "query": "UBS Asia wealth",
+      "weight": 2,
+      "sentiment": 0
+    },
+    {
+      "title": "UBS Group Q1 Earnings & Revenues Rise Y/Y Despite Higher Expenses - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnVEZTRXb045c0o3aFF5bEpXblJmcm9CWjY3Nm1EMFFvdUFJQzFBYlA3UG9rMHRXUlI2cU12X19CTU9PSmNzS0VGM2I2SEJJYUFnejNGOS1EbVdXbVdiQVdHTnJfRDRtT1JsY0IzSUV0dDVmeE5za3pjYktBUGNfMDZ2Z0otUQ?oc=5",
+      "published": "Wed, 29 Apr 2026 16:50:00 GMT",
+      "source": "Yahoo Finance Singapore",
+      "query": "UBS Singapore wealth",
+      "weight": 2,
+      "sentiment": 0
+    }
+  ]
+}
