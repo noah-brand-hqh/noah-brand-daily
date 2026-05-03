@@ -1,0 +1,349 @@
+{
+  "date": "2026-05-03",
+  "collected_at": "2026-05-03T16:18:14.354195+08:00",
+  "metrics": {
+    "news_noah_en": 1,
+    "news_noah_zh": 0,
+    "news_olive": 0,
+    "news_ark": 4,
+    "news_gopher": 0,
+    "news_glory": 0,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 0,
+    "news_ubs_apac": 0,
+    "news_topic_hnw": 10,
+    "news_topic_fo": 6,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 0.0,
+    "sentiment_neg_pct": 0.0
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: MGM Resorts (MGM) and Camping World Holdings (CWH) - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOUFdCSFh6OS1razFrYjBleXVLbVQ2NzZldkFvdzFNWXZJWk1oRE9VaEdpQ015aE1mXy13UnpuSWpjTFJvV2YzZlRlVnY5UnEteGNEZGlieU9YT3VKZnN2YVhDNUdpS25lOE14bXZCTGJZN3FSZVl4a1Z0aXd1eDFET2NwRkRHM1hlamhFRjAxSFJZUlVvczAtZEpFRE1yMGF3aVhIWnJkVFB3SnY3Vm9kT1k5ODFwbjVnMmo4SDItc1k2Rkhsak4zZlZaS1l2MmpuZXpJTnJITEY2NHhHOWptd21xV0JzLWJjSWxMRVlrcldtSjN3LXlyNFMwQlQxRU13ZWZLa0F2VVRpRkdKZ0VLQ0xpbFhhaGxZU0F6Skc4N0JCb1A0M3ZaVFBFV3ZYWnM?oc=5",
+          "published": "Sat, 02 May 2026 08:56:00 GMT",
+          "source": "The Globe and Mail",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 0,
+      "items": []
+    },
+    "sub_olive": {
+      "count": 0,
+      "items": []
+    },
+    "sub_ark": {
+      "count": 4,
+      "items": [
+        {
+          "title": "Kornitzer Capital Management Inc. KS Sells 9,012 Shares of AeroVironment, Inc. $AVAV - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZFFmWkhfSnhVRnE5MGtLVWFCa2VnSnR0cHl4SmpIZVpnQ0VfaHg2TTh2NFJHZ3hXNVByQ3N6ZGQ0ekJrTXM4TEFjT3VjdVcxYWdCNUkydVJycVViTTNEOWY3NjJVTGxxdXBuNUJwc05SOHllSW9xN28xWnFBUHpYQWU1WWVRQzRyRDBlSGRFTHJOUXRWUnVGTS1mV0lQc1JJYXRPT196ZktQNmtOa2V3bWRFdlRJTnVvQ1hpZldBY2dWUGVCcHdwM3hFNWFpRVpDYUdBaTdESQ?oc=5",
+          "published": "Sat, 02 May 2026 12:32:46 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Here’s how 9 financial advisers are actually preparing for their own retirement - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVlSeTJLcklmcGxaRFhhb3F1RWJvcTFCWFNnRzByaU44Rm44dnMwOXNFLXdOdV9xVmdWNl9CMzFRMGdzTVNVLVAzQnpaYVZUeGhqTEhQR0E3TnV5SWhHWGE4dklYLWNOQ2x3X1l6cGhMT25TOEtQTDhqX09zVlh0Zkh3c0RIZ3RNS0lvRy1jUG52LWotTHZGdEhKbzJnS2FKd0ZodnBUWExraHBBMldXWWFRaXl6Zw?oc=5",
+          "published": "Sat, 02 May 2026 18:01:00 GMT",
+          "source": "MarketWatch",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Interview with Cathie Wood: Benign deflation is coming, the Fed will cut interest rates, and Bitcoin is still in the bottoming-out phase of a bull market. - PANews",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EWnZtd0FpZS03eUs0cUplWjN0MnZaOW9RV0lfMmtmd1RGQW5SSEJrU1JIbEU4UU93UnFYWmpNbk5RT0NHT0F5NFk5Sk85UGp2bkRaZXZkZGl5SHljSHhadjN5Y1NWajJsbjBXM1JlbjU5Ny1DSDNuWnE4WWFkN3M?oc=5",
+          "published": "Sat, 02 May 2026 08:35:16 GMT",
+          "source": "PANews",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "ARK Invest Snaps Up Meta (META) and Alphabet (GOOGL) While Dumping AMD (AMD) Stock - MoneyCheck",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm1BcU4yVm9fV21JQ19UYUlBelduaFktRTFLWElHSUdkZHVPdDRZc1BaNHEybU1scUxWTkR2cDgyM1NNejlxOHNja2JnNEs5SWtzaWpydklzOFZUbFNnNU9QT3NxaWl1YTV5dURmWUFaeEVZb2FoWEhRbEV2Mk5BeWNYRjJ6Z0dvQVF6dWVDUjItT3E3MHFGWk5ZRl90aWpnVEE?oc=5",
+          "published": "Sat, 02 May 2026 14:45:22 GMT",
+          "source": "MoneyCheck",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 0,
+      "items": []
+    },
+    "sub_glory": {
+      "count": 0,
+      "items": []
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "comp_ubs_apac": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 10,
+      "items": [
+        {
+          "title": "Why Singapore wealth-tech firms pick Hong Kong as their first overseas market - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTDhPVnA5UTNLQnZmUmU0aFh0eXVCOVFlbHhZcTZQbDJlTm5WWk9WLUo3YmpWeUh6emkxeGxPdDAwb3VsYnJtcGQ2MVluWXN3aWI2Q3ZfQzZjT3h3V3JEd090Nzd2Mno4a2RnSm5KSGFjQlpfNW5oaklTOXB1eW5saDF1Y0o4SUVzQmV0UDJDc2swT094QVdjNzZTaDBwc2V5VFc4WHM3LWxBOEJaRmF4cHRESldxeWRSbllucHJfMTlmTGFKb00wUkdnZ3RXTkdTMWU4aTFFa3pXSjBV0gHcAUFVX3lxTE53cXlXNFBKb09kc0N2Ty1PbHlqcUZ4Y2p2OFJyazg5YWt0aWZMZGNTLUVHQmpNcHhQVkFPdHU0ZGlhWDhkZ3pOVDM0VnFEMmNyUVU5ci10d25GUEFseUIxbndWTG14dUhVSTNYZF92NmMwZnlyRXRyZlJYNXZIckVKUFg2NDZ4ck9nOTJHQTUwSHZPR0kzYmJicE43ZUFvNGRUZlM2V0dpMmxEX0RDUXIxOU9pUHRJOVc0QXAxdFpfZHJfV3B3cHJwQndoLXNfY2pWQlc3RnJWQ1NmQkk?oc=5",
+          "published": "Sun, 03 May 2026 06:00:15 GMT",
+          "source": "South China Morning Post",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "India Eases FDI for Chinese Stakeholders, Boosts Insurance Sector - Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUElESHhwbFg1Y2IwLUFzLUlXdTRDd0NlamNnRnVzeGdWMjZWXzlScHVXSTVJMmJnLU83VXZnYW5ieU44R2EwNW9RWFJ3OGxGN0lmUnhyUW92WG1JZ2wzenBzbkpidFlzZnVIT1d4d2hYNEZlaklYS1JlbFdHT0hiSm1GZ3U3aEJVdDJiRWhMUG9DTDFoTzRINnJxMHhYdjVYRVM3NGFCZ1BPbW5BVk5tTzJtRzJYNTRCUlNVWW1odWprb1dVdGUxX2VLdFM2aXpXa2tr?oc=5",
+          "published": "Sat, 02 May 2026 16:55:08 GMT",
+          "source": "Whalesbook",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Govt likely to notify FEMA changes for foreign firms with up to 10% Chinese stake - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDJqQUtXMWF6eXZyWi1EQnNsYmxaTFFJUkFScGVRQU9WZS1rdHZpdjhZUE1HbkhwaGFHYXNiV1dZc1E5UDBxOHg1Y1QyUWQ0TXhHeFVLeUhhQ0xITUR0bUdac1I5anAzbm4yQS1QSllJNC11RTRaYm1XMUxnM1ZvVFd1Zk8tbHp5VXRzZUpkRUZIZklZazV5M3lZOW1SNk1sYmJ2cTdOLVlMLUMwbzF1dTVVMGRsaVZxODBpZmhUZFVsUnR3RmxVRQ?oc=5",
+          "published": "Sat, 02 May 2026 16:38:25 GMT",
+          "source": "MSN",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "中国银行(601988)2026年一季报点评：息差继续保持稳定 险资持仓占比提升 - Futubull - 富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVJuVl81bjctSjBrYy1GV1ZTa3VKa1htd0pwTTFabzFhVmtWSGZ0UWliX3kwdEtFcGdQMDUydDZCOFExelVaeWE1aWlGNlBqOXdjN0hPUFdhU3cyeDJYZkxUemRZM182Zy1QdEZjTjFfcnNUdkdnSXdKa1dDWGNmRFc0YUVGd2d4RV9sYnVGZ3RmMEJjQnNaMUxSQTdlVFFwTTNDX1FB?oc=5",
+          "published": "Sat, 02 May 2026 08:46:01 GMT",
+          "source": "富途牛牛",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Finance Ministry notifies FDI easing for foreign firms with up to 10% Chinese stake under FEMA - The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb21fU2sxNEFicHF5SXYyN1lDUUFJeWVzRHY3WVdKQlptTWZBVnN5ZFpncmo5S2xhR1FhdUl1cmNqYUI2MVpwZDhCSS0xZEFkREtMSHRUdFhFYVd5bFRLSEZ3U3RoYlpfYmZUR19JTWVMMEN6dEJOMnllOERJZVdMZVdjclBOMXpsd2sta1oyc3RLbXZyb0d2UXQtOVUwRC1ncFN4aTRsZ0h1dWk3NElUeGZkWnUyYm9CdnM4US1JY3BJd25MU0JnY0hMRFNhck91UURSaEpHZ3ZDTmlpbjQ4bnhRZWFEcXEwb0Y40gHyAUFVX3lxTFBDQ2k2V2doU2h3cC05UzROcGt4YTV3RDREYzZ5U1YtaXZTRVNkOEFPVGJablJFTUpETFpxOHU5VUVUNzN3ZWoxSmlNNE0tNzFBcTIwMHBNY3BUcTl1Q09aU1N4UkVnTk5DQmVfdmRxZTI5dFQwZHlXT1RWS3l3ck9qSXJQNVpyNUs0dzZ0Tmo5WXF3Ym13YUU2cmZNN2picUVIdWhTSGs1LXdxWWc0UTl6emVIdGJ2MHpSckM3c2NkeElDMWdDanpmTS1ZV3dsVEktRE5zQVE5eDRFNGlLaHA4bmtqbm5SSzdmSW0ySDVZdndn?oc=5",
+          "published": "Sat, 02 May 2026 14:18:16 GMT",
+          "source": "The Hindu",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Govt eases FDI norms under FEMA for up to 10% Chinese stake - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb0lCTVRpQXhWMjBZZHR4cXNvM205LWFKa3M4NDlxOXdYbHl4aWJHcnVvUlBEMUxZTE80NEQteDBrUnhvd3FyY3FqN214UjR3RnlPbnhpVnhURm1WbGc1eVJMUC1RMnlhSkl4TkJ1RUNYcTZQbi0xcnpHUEotMU5mT2lRRTdDNktDeVNwdERmLVNGSG5yMUZQdUozekxDWk5vdzB4cU9RcjYwMGpGWmpDaXZGZmYya3hFUHNaX2V1c1pnSlJQbk5LeG5EVEpLQUV1a3c5SkJPX2fSAdIBQVVfeXFMTW9WOHZWMVRDRlU5SF9NNkh6WkQ0a2REWlhLWnJJVjd3dlJOQ1BuNjZqNm9SS3Vid2FLbW5ONTRJX2NfT3B1ek01ajlZTGFNQkhiNWpqRU5aWGMwdVo5enR4VDVYTldzX2laeVRkdlBqa2V4YUtuRmQ2Y3YxZktIQ2R4SHpTQmZCWG1CZnRwUklpdENGRWRWU0dFVUgzMkNuUVBSU0VRVTF2ZFJzTXVISGhvRWFKaUdxR05ZYU95TF9fdGdwcndvb3JVRXdwZ2pPNDJn?oc=5",
+          "published": "Sat, 02 May 2026 16:46:03 GMT",
+          "source": "The Economic Times",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "India Eases FDI Rules, Opens Automatic Route for Chinese Stakeholders - Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeEZrSUpIaFNQODNTTEJtQnVCX25iUnVueGphUDJPX29rY2NWVVh4azJnYUpXSDY4a3V3SnFxZS1kcHhOelpCR1l2ZVJaWEZjbmpJY3puUFZYeUYtY19DQ1JFOTNtYW02dEt0VExfZHRvbHpqaGxyUmhoT05teThrOUw1Y05mYnpLandhemlzZHdJWVRZMlpZUU5MUzZCZ1FXbEhwelkzNDRRS0RvN3RWNm5EcU92SjJHNFF6YnhrT194V1pXcTcxN244TzJfdkxYbXFUNEwweEk?oc=5",
+          "published": "Sat, 02 May 2026 15:23:26 GMT",
+          "source": "Whalesbook",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "India FDI Rules: Chinese Investors ke Liye Naya Raasta? Automatic Route Pe Ab Focus! - Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcU8xWmxIcDFhcnEzYnZvNWJDLW9XXzM2aE5sWXl0UEZRSzJQcXV6TzFRZXI4bWhXeFJuMTUzcjhwSk1kUGxudDdxMWdmTE5hMks5M1F2LXFHbjZKYVdiQWxlTEhBQ3o5SjVvMFhjLXB6U0hxS01zM0dZUmgzUWpSa21ZQXUwcmVQV256Y2RpNktJZl9nYUk0NE1keHJ5ZXlFUkl4WGVIRkNTZVIyNUc1R3Z2SGhhZWZORXgtN3VKU042V0U4VzdZTDk2azRqVWNqcmpwdDFBRkJvZw?oc=5",
+          "published": "Sat, 02 May 2026 15:23:26 GMT",
+          "source": "Whalesbook",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Apple CEO Tim Cook’s 15-year legacy by the numbers - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEMwMlRyYVVRMFlPSndiYmY1bkY5TWtWM2gyeGRxYldOWDJNcElDUXkwbUdEN1FGa2JXNk9RNXFiM1ZDRXF2YkRZUDRSMEMzcmFoNHE2SHg0Yk8tOTZhQ29hMVp3c3FmRTZDSmF0Mm9XNTNnd0N6QnpYdUpsSWNpNWRBM0pvX0RIR3lsR2Rvcms4R3NTZVdiNm56T3BRYVA0aWxDaUlfQXl1dDRoWUlzWWJqYVRSc09SUDVWV3pLaF9SLUM5aDR4eTc0OTlTWFlrcV9tQ3NicVdwVl9xSFVlQ3N3?oc=5",
+          "published": "Sat, 02 May 2026 08:20:37 GMT",
+          "source": "MSN",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "India eases FDI norms, allows limited Chinese stake under automatic route - Daijiworld",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Q0RWdmJKSkpuWEJRaGFMYWUyX2NfaFplUFdKeEZzcUtENUxlb2IzWUZNMXBjaFc0UU9ZRmtONkljZ0hKZ3R1d1FMaGVBZjEyMjBLY3FhTmlZalVycUtlUWdUOWFzRE9NckE?oc=5",
+          "published": "Sat, 02 May 2026 16:54:55 GMT",
+          "source": "Daijiworld",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 6,
+      "items": [
+        {
+          "title": "Exclusive: Saudi’s Al Rajhi Capital bolsters presence with senior hires - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXBCTWFCUm1WYzA4VkF2YkxGUGFHakFleXhib2tQQ3owcG1LT2Nsa3FaRmZ2anp3ejdfQi1yQmY3SDMxQm1WMkc3a1BCUVJDUHFveWtrR1VnUUlXcUZzeklKMGxKM19lVGVIMndsVFp4UGh0eEc3alhuZkl1cjRaclRRZXBEeWRlbFBHdFhGX2FDa25ERzg0VzAyRkZIZXJoaERValUwNnVPdkNkakdHTkZlbFllaXhu?oc=5",
+          "published": "Sun, 03 May 2026 04:10:07 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "BSF Capital’s WM head exits after 10 years - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnlScUNmcHJCa0NwbW9vQ1ZROEp3bmxyMUN2cEtRVi1DTWkyZXY5elduN0VDNEdUQlhqYS0zZXFCTjJWakhzQW1lMTh1UERHMXBwMVBtWHZkdF9vMFRGa3YxcTNhRlhQeVBlaVhMdExUZGtYZGVzcnZKbVFESFZYSzRFM1ZXZjctaU1laEx5VE5qYm8?oc=5",
+          "published": "Sun, 03 May 2026 04:10:07 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Top 50 Family Offices Fueling India’s Startup Revolution - Indian Startup Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW84RHM2VnVSTFNMNTM3V3hfa0ZxdUwyT0VVYmdPTU5RY01qOEpKRGFlVGZrSTJ4NnVJSW9zWFM1aTJ1ZVV6YXJ1UFJZaTFiQkFNMWNnVWZfMW9Od3AzRGY5TFowMzlrblNtdHBfbkNIbnZ6dE5uSFpfajRmNFZLa0dMc0FReUgzRVpUZ3RBQVZ2SGp2OFYtTkk3dnItT2E3Snc?oc=5",
+          "published": "Sat, 02 May 2026 09:20:38 GMT",
+          "source": "Indian Startup Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "S’porean families moving to Johor for ‘kampung’ lifestyle, space & flexibility, but say it’s not always cheaper - Mothership",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lc0ZUc0cwTWNlaDF2Xzc1RUJwVl94aTd1dXd6X2dGYXFOajZ1Y200NDhzVUxHWEZVdkJXdXRCOFpsUVBpRXA4ZVVpYmJLVG55cFhVbEExSHVWaEJPdUhOU0JfeTlveXpieTJuS2x3VQ?oc=5",
+          "published": "Sun, 03 May 2026 04:43:44 GMT",
+          "source": "Mothership",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "More young people in Singapore buying private properties, some for investment - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVRVZXo4dFQ4RV84bmwyTnlnVUtoOW1PWV92RFR6NkRjMUZmcjhRY0hEU0swY0luLTMtTzFwTy1zTkszYmVoMkxVNDFFandRT1BfLWpueXpzMGQ0NU5vVTBwZVJOSVFQWkJqS2Nrazd3djQtbjMtQ01fb05NMTVkMkhnYkczTmpTNl9uTEU4anlGMENmUEgzU05JdjZHRUZ2SGtJVFdkUTJhTU9yN293V2lGTHNIcVhDWEFjTEd4YlI?oc=5",
+          "published": "Sat, 02 May 2026 21:00:00 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Mendaki programmes benefited more than 160,000 people in 2025; boosting AI use, training - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0hzZXdVYXhBTVJoYmFXdy1OdnN4RWU4ZUJqVWs0U3Vxa1k2Nm1mc0FXR0JRcjI1bTc4bW9YQnhyM2hpYkNoWmJrc2JTelYwaFlES1Z1bF9iLWhqQjdrRU5uTjdHbE9WanlVZ1hvWDExMjF1X1V6T1FBelRDS2Njc2FsemJ5V3ZCRUlTeWNVcGk5OF84a2pzb0dzYk9GX2lvM1pKYjdvUkc5R1FwV05va05XVW1aZE9mUkJSNFRRcw?oc=5",
+          "published": "Sat, 02 May 2026 11:40:00 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0,
+    "total": 1,
+    "pos_pct": 0.0,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "Top 50 Family Offices Fueling India’s Startup Revolution - Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW84RHM2VnVSTFNMNTM3V3hfa0ZxdUwyT0VVYmdPTU5RY01qOEpKRGFlVGZrSTJ4NnVJSW9zWFM1aTJ1ZVV6YXJ1UFJZaTFiQkFNMWNnVWZfMW9Od3AzRGY5TFowMzlrblNtdHBfbkNIbnZ6dE5uSFpfajRmNFZLa0dMc0FReUgzRVpUZ3RBQVZ2SGp2OFYtTkk3dnItT2E3Snc?oc=5",
+      "published": "Sat, 02 May 2026 09:20:38 GMT",
+      "source": "Indian Startup Times",
+      "query": "Singapore family office",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: MGM Resorts (MGM) and Camping World Holdings (CWH) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOUFdCSFh6OS1razFrYjBleXVLbVQ2NzZldkFvdzFNWXZJWk1oRE9VaEdpQ015aE1mXy13UnpuSWpjTFJvV2YzZlRlVnY5UnEteGNEZGlieU9YT3VKZnN2YVhDNUdpS25lOE14bXZCTGJZN3FSZVl4a1Z0aXd1eDFET2NwRkRHM1hlamhFRjAxSFJZUlVvczAtZEpFRE1yMGF3aVhIWnJkVFB3SnY3Vm9kT1k5ODFwbjVnMmo4SDItc1k2Rkhsak4zZlZaS1l2MmpuZXpJTnJITEY2NHhHOWptd21xV0JzLWJjSWxMRVlrcldtSjN3LXlyNFMwQlQxRU13ZWZLa0F2VVRpRkdKZ0VLQ0xpbFhhaGxZU0F6Skc4N0JCb1A0M3ZaVFBFV3ZYWnM?oc=5",
+      "published": "Sat, 02 May 2026 08:56:00 GMT",
+      "source": "The Globe and Mail",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Kornitzer Capital Management Inc. KS Sells 9,012 Shares of AeroVironment, Inc. $AVAV - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZFFmWkhfSnhVRnE5MGtLVWFCa2VnSnR0cHl4SmpIZVpnQ0VfaHg2TTh2NFJHZ3hXNVByQ3N6ZGQ0ekJrTXM4TEFjT3VjdVcxYWdCNUkydVJycVViTTNEOWY3NjJVTGxxdXBuNUJwc05SOHllSW9xN28xWnFBUHpYQWU1WWVRQzRyRDBlSGRFTHJOUXRWUnVGTS1mV0lQc1JJYXRPT196ZktQNmtOa2V3bWRFdlRJTnVvQ1hpZldBY2dWUGVCcHdwM3hFNWFpRVpDYUdBaTdESQ?oc=5",
+      "published": "Sat, 02 May 2026 12:32:46 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Here’s how 9 financial advisers are actually preparing for their own retirement - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVlSeTJLcklmcGxaRFhhb3F1RWJvcTFCWFNnRzByaU44Rm44dnMwOXNFLXdOdV9xVmdWNl9CMzFRMGdzTVNVLVAzQnpaYVZUeGhqTEhQR0E3TnV5SWhHWGE4dklYLWNOQ2x3X1l6cGhMT25TOEtQTDhqX09zVlh0Zkh3c0RIZ3RNS0lvRy1jUG52LWotTHZGdEhKbzJnS2FKd0ZodnBUWExraHBBMldXWWFRaXl6Zw?oc=5",
+      "published": "Sat, 02 May 2026 18:01:00 GMT",
+      "source": "MarketWatch",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Interview with Cathie Wood: Benign deflation is coming, the Fed will cut interest rates, and Bitcoin is still in the bottoming-out phase of a bull market. - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EWnZtd0FpZS03eUs0cUplWjN0MnZaOW9RV0lfMmtmd1RGQW5SSEJrU1JIbEU4UU93UnFYWmpNbk5RT0NHT0F5NFk5Sk85UGp2bkRaZXZkZGl5SHljSHhadjN5Y1NWajJsbjBXM1JlbjU5Ny1DSDNuWnE4WWFkN3M?oc=5",
+      "published": "Sat, 02 May 2026 08:35:16 GMT",
+      "source": "PANews",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "ARK Invest Snaps Up Meta (META) and Alphabet (GOOGL) While Dumping AMD (AMD) Stock - MoneyCheck",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm1BcU4yVm9fV21JQ19UYUlBelduaFktRTFLWElHSUdkZHVPdDRZc1BaNHEybU1scUxWTkR2cDgyM1NNejlxOHNja2JnNEs5SWtzaWpydklzOFZUbFNnNU9QT3NxaWl1YTV5dURmWUFaeEVZb2FoWEhRbEV2Mk5BeWNYRjJ6Z0dvQVF6dWVDUjItT3E3MHFGWk5ZRl90aWpnVEE?oc=5",
+      "published": "Sat, 02 May 2026 14:45:22 GMT",
+      "source": "MoneyCheck",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Why Singapore wealth-tech firms pick Hong Kong as their first overseas market - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTDhPVnA5UTNLQnZmUmU0aFh0eXVCOVFlbHhZcTZQbDJlTm5WWk9WLUo3YmpWeUh6emkxeGxPdDAwb3VsYnJtcGQ2MVluWXN3aWI2Q3ZfQzZjT3h3V3JEd090Nzd2Mno4a2RnSm5KSGFjQlpfNW5oaklTOXB1eW5saDF1Y0o4SUVzQmV0UDJDc2swT094QVdjNzZTaDBwc2V5VFc4WHM3LWxBOEJaRmF4cHRESldxeWRSbllucHJfMTlmTGFKb00wUkdnZ3RXTkdTMWU4aTFFa3pXSjBV0gHcAUFVX3lxTE53cXlXNFBKb09kc0N2Ty1PbHlqcUZ4Y2p2OFJyazg5YWt0aWZMZGNTLUVHQmpNcHhQVkFPdHU0ZGlhWDhkZ3pOVDM0VnFEMmNyUVU5ci10d25GUEFseUIxbndWTG14dUhVSTNYZF92NmMwZnlyRXRyZlJYNXZIckVKUFg2NDZ4ck9nOTJHQTUwSHZPR0kzYmJicE43ZUFvNGRUZlM2V0dpMmxEX0RDUXIxOU9pUHRJOVc0QXAxdFpfZHJfV3B3cHJwQndoLXNfY2pWQlc3RnJWQ1NmQkk?oc=5",
+      "published": "Sun, 03 May 2026 06:00:15 GMT",
+      "source": "South China Morning Post",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "India Eases FDI for Chinese Stakeholders, Boosts Insurance Sector - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUElESHhwbFg1Y2IwLUFzLUlXdTRDd0NlamNnRnVzeGdWMjZWXzlScHVXSTVJMmJnLU83VXZnYW5ieU44R2EwNW9RWFJ3OGxGN0lmUnhyUW92WG1JZ2wzenBzbkpidFlzZnVIT1d4d2hYNEZlaklYS1JlbFdHT0hiSm1GZ3U3aEJVdDJiRWhMUG9DTDFoTzRINnJxMHhYdjVYRVM3NGFCZ1BPbW5BVk5tTzJtRzJYNTRCUlNVWW1odWprb1dVdGUxX2VLdFM2aXpXa2tr?oc=5",
+      "published": "Sat, 02 May 2026 16:55:08 GMT",
+      "source": "Whalesbook",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Govt likely to notify FEMA changes for foreign firms with up to 10% Chinese stake - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDJqQUtXMWF6eXZyWi1EQnNsYmxaTFFJUkFScGVRQU9WZS1rdHZpdjhZUE1HbkhwaGFHYXNiV1dZc1E5UDBxOHg1Y1QyUWQ0TXhHeFVLeUhhQ0xITUR0bUdac1I5anAzbm4yQS1QSllJNC11RTRaYm1XMUxnM1ZvVFd1Zk8tbHp5VXRzZUpkRUZIZklZazV5M3lZOW1SNk1sYmJ2cTdOLVlMLUMwbzF1dTVVMGRsaVZxODBpZmhUZFVsUnR3RmxVRQ?oc=5",
+      "published": "Sat, 02 May 2026 16:38:25 GMT",
+      "source": "MSN",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "中国银行(601988)2026年一季报点评：息差继续保持稳定 险资持仓占比提升 - Futubull - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVJuVl81bjctSjBrYy1GV1ZTa3VKa1htd0pwTTFabzFhVmtWSGZ0UWliX3kwdEtFcGdQMDUydDZCOFExelVaeWE1aWlGNlBqOXdjN0hPUFdhU3cyeDJYZkxUemRZM182Zy1QdEZjTjFfcnNUdkdnSXdKa1dDWGNmRFc0YUVGd2d4RV9sYnVGZ3RmMEJjQnNaMUxSQTdlVFFwTTNDX1FB?oc=5",
+      "published": "Sat, 02 May 2026 08:46:01 GMT",
+      "source": "富途牛牛",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}
