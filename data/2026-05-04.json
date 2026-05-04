@@ -1,0 +1,392 @@
+{
+  "date": "2026-05-04",
+  "collected_at": "2026-05-04T17:32:50.058536+08:00",
+  "metrics": {
+    "news_noah_en": 1,
+    "news_noah_zh": 0,
+    "news_olive": 0,
+    "news_ark": 4,
+    "news_gopher": 0,
+    "news_glory": 0,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 2,
+    "news_ubs_apac": 0,
+    "news_topic_hnw": 10,
+    "news_topic_fo": 13,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 0.0,
+    "sentiment_neg_pct": 100.0
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 1,
+      "items": [
+        {
+          "title": "(NOAH) Risk Channels and Responsive Allocation - Stock Traders Daily",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3dHSG16aEttaFBXWHRrTU0xQUZ1RHdUVWRoVlZtTFUxOVdYRFp1MVFRdElfVXhUTUJaQ2VuNnpHeWFXNDdVUUxWaVlWZTZTOGl1LVdvX3VJckpkMlh5akQ3eFZIZ2RiODR4NDlKQ0c2TXZkWE9IVjFKcHZaeWZuaGVyZkR6VWhkbG9PajVLWlRpZVZLcW1kOF8zSnBpdDh3Qm00SjUzZlM4OE5SQ2tQRVNaYzY0OXNOR0hPc2tUYTZ2Zw?oc=5",
+          "published": "Sun, 03 May 2026 17:56:02 GMT",
+          "source": "Stock Traders Daily",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 0,
+      "items": []
+    },
+    "sub_olive": {
+      "count": 0,
+      "items": []
+    },
+    "sub_ark": {
+      "count": 4,
+      "items": [
+        {
+          "title": "Nano-X Imaging (NNOX) price target decreased by 10.14% to 6.78 - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZUprVUxwNWZQZ3k4VE04WkMzaEJ1SXpQaWxhLVpua3phU191SmFuVWZTSnhpS0pyZVo3ZXM3NzR2NWplZkNxS2wzdnRfbVc5Nm9HeW1tWU9Ua1hIbmxJMTdNYXpIQkt0V0NmS2hKc2V5M0FwOUI0UmEwZkJjOWpuNXVUdnR4bW9tSnZwN3hMcjNrdmNwQjBSZVd1UXRBZmsxV1d6S1B1V0NxVVpUMENVRWVUSQ?oc=5",
+          "published": "Sun, 03 May 2026 21:26:44 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Teradyne, Inc. $TER Stock Position Raised by Gouws Capital LLC - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHZoM1YxRFFrSjNkZGdheURWeFAyMWRMRUp1LXdYekFxMjVDcXFZc3ZxZ3M1XzdOc2h3cDdWXzQweUtEM2VBVzJJTFdHcGZJS2hjb2k0R0hONld0RXZLWVFic1FXaGxyRFQxVDZUcHhSQ3dmalNjUW1NSzk5LXNQa0dvMFoyZUx3ZFlwNkExZ0dxc0JXVzkydlcxN0hWRm81NmZ1ZWZhTFlEb0I5eUlMaUNBUzVxbzJUSXdOaw?oc=5",
+          "published": "Mon, 04 May 2026 09:01:08 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Want to Buy SpaceX Before Its IPO? This Venture Fund Crushed the S&P 500 and Nasdaq-100 in the Past Year. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjg4UWdiQk1BcDB5TGpMek5iY0p3WkFESnM0MzRnSHNJZUxIVHNyd21kTlZGME91WF93V3F3U0k2eFduZDNEeXlZN2RGRmtmd2wtQzF0ckJmMzUxNDNsV2RTQWpyM1o3a2xsUHF0V3BmU2llZTYxaGdXaktYZjRBaHhjRHN4RXRoWUJHQzNzTnhJUlZU?oc=5",
+          "published": "Mon, 04 May 2026 08:49:32 GMT",
+          "source": "The Motley Fool",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Comerica Bank Has $3.50 Million Holdings in Teradyne, Inc. $TER - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0l4NWhndFFBdXJHQi1KLVdBN0NCeXJsSS1WSURSYS1Qc2xZMUd5UlBpcG13aVd0MHpMQ2dsMFlHSUt5dnFNZkR3eGZab1F3RVBpWjdCOGZYNlRRV05DenFHSTZwajhiVXpGX2F3djE5X0xxajBYdXlaSHBOZXVVLS1GaFNlQ1NCM0xGYWRvQUF3VlNzRkNOOEtrSlc3ODdWMnlmSWg3aml4bG9XMzBLZk9WRzJMaS1mSW40?oc=5",
+          "published": "Mon, 04 May 2026 08:08:29 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 0,
+      "items": []
+    },
+    "sub_glory": {
+      "count": 0,
+      "items": []
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Jiaheda Capital (01468) acquired 15,246,000 shares of Yucheng Technology Financial Group for HKD 7.411 million. - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ExLXhRUVVqMFZaRm1wQS1EVU9Bb09GT2l3YnBsY2Z2NFV0T1F1Y1haQUpPYlZaZUVOdUhST3ZSamJnYk4wbTRYc1lXaERYNG8tUlNORnlWNmc5QjhZeUdNSkJIQmt3N0phVHlFM1VSUDRXODVYLW5ZY290bDk0MVRWWURfVEpWQkNlbVA4c3lOYmtqQXN4anNtRERmMmprSDF0Snlmd0tKaTNmNi1WcHE2TXdRS0ViU1NLVg?oc=5",
+          "published": "Sun, 03 May 2026 13:54:45 GMT",
+          "source": "Moomoo",
+          "query": "Arta Finance"
+        },
+        {
+          "title": "Jakota Capital Acquires 3.17% Stake in Arta Techfin Corporation in HK$27.47 Million Discloseable Transaction - Minichart",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNXzl2bS1MbVhZN2ZSYzJUZXBhZlhrcy1HcWtjalY3NEZPa3EtZGJLN192Y2luWExkeEg1RzdIZGxQc180TjZUNnZGVTRPUkM1UDlua0lNajlHZ1FWSVY4eG5vT2NLV0xqbGJwSkdvbmNGSkNCX2JKUDlhOFYzY2VUbkwyTk85ZmxiX3FoOHVSZDB2SXBHOG1YMHJ2YnA5cmdtd1NROHpxX0ZacjVMNUt0cXl1MWlDM0Q1Zy1ZUUwxb3c0M0JPYXV0WTY2cmRiUEtyei1jeHRnbDVfc0tjOWFFeQ?oc=5",
+          "published": "Sun, 03 May 2026 22:29:00 GMT",
+          "source": "Minichart",
+          "query": "Arta Finance"
+        }
+      ]
+    },
+    "comp_ubs_apac": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 10,
+      "items": [
+        {
+          "title": "Inside China’s massive $3tn overseas acquisition spree - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUUpnS1VCYm4wekg0WXdnNFcxdjdqa2NyNmFSSGRpeHVKTFhDNVctZEtzT29peHU4M243TTB0bEhCemtLaFJPX3dVNkI3VkFrVXRMLVIzYndwVG9kTnRnOUl1UFRoT0JUMnBkWVdXdDE?oc=5",
+          "published": "Mon, 04 May 2026 05:30:02 GMT",
+          "source": "Financial Times",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Reading China's Next Chapter: Premia Partners on Policy Alignment, Hardcore Tech, and the Case for Precision Allocation - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmNzNGIwZFczY1hfQV9lcDY3UXJ4VEJCcFVnYkZCa2JvV2JpclBXWVozQlVfNUNHYm92QXpRLVBMdEdXRXhHeUp1a25ESUhqNjB3VWxhMXY1Q3FYQ1gta1pjVENHSnd6TEQ4ODFTaXZtLXN6S1laOFoxTlBCWUFOTnRjUVgzWWhGMkpDQ2NIblY1aGdhcVIyaWJaM1RSLVRfaGJ5UXJyX3R6UU5QdkVVZHEyUHVySzI3V3RlTndFT3hhX2NtTG50Z2RsWG96bEYzWUdoa05PWTBMRmVVZ2pIQQ?oc=5",
+          "published": "Mon, 04 May 2026 07:48:34 GMT",
+          "source": "Hubbis",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Why Singapore wealth-tech firms pick Hong Kong as their first overseas market - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTDhPVnA5UTNLQnZmUmU0aFh0eXVCOVFlbHhZcTZQbDJlTm5WWk9WLUo3YmpWeUh6emkxeGxPdDAwb3VsYnJtcGQ2MVluWXN3aWI2Q3ZfQzZjT3h3V3JEd090Nzd2Mno4a2RnSm5KSGFjQlpfNW5oaklTOXB1eW5saDF1Y0o4SUVzQmV0UDJDc2swT094QVdjNzZTaDBwc2V5VFc4WHM3LWxBOEJaRmF4cHRESldxeWRSbllucHJfMTlmTGFKb00wUkdnZ3RXTkdTMWU4aTFFa3pXSjBV0gHcAUFVX3lxTE53cXlXNFBKb09kc0N2Ty1PbHlqcUZ4Y2p2OFJyazg5YWt0aWZMZGNTLUVHQmpNcHhQVkFPdHU0ZGlhWDhkZ3pOVDM0VnFEMmNyUVU5ci10d25GUEFseUIxbndWTG14dUhVSTNYZF92NmMwZnlyRXRyZlJYNXZIckVKUFg2NDZ4ck9nOTJHQTUwSHZPR0kzYmJicE43ZUFvNGRUZlM2V0dpMmxEX0RDUXIxOU9pUHRJOVc0QXAxdFpfZHJfV3B3cHJwQndoLXNfY2pWQlc3RnJWQ1NmQkk?oc=5",
+          "published": "Mon, 04 May 2026 05:22:35 GMT",
+          "source": "South China Morning Post",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "How AI Powers China’s Golden Tax System, Audits, Transfer Pricing - Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGNiSUF0WWlOZl9YTXZOLXNXNVdaYXIyZWE2ekhOdV8tcDlHdUQ3a2ZsdC1nUVhkN2lNVEdTZnVJQkRUcGt1ZmstcXptNEtXOWVjMVZ6S1VpTHhUT21hdmptbDgxajVteGlQUl9TcHF4UWlzR2FzV2pHZ1p4TWZ3V2NWWHhMZ3FDSllDclh0Z1FNQ0pLWUpuaXVCM3dYaF95Tkd4ajlieDEtN00ta0I2R3NtQnVfQXlUT2JMYkVB?oc=5",
+          "published": "Mon, 04 May 2026 08:30:00 GMT",
+          "source": "Bloomberg Law News",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Govt has eased FDI norms for foreign cos having small Chinese/Hong Kong stake: An explainer - ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMExzbWdXRDNhY3NqTDVJS1FRMEhXNWtQWjNVZ1Z2cU03MVJ1d0p3TVpQSFNMekxUQVhMM1JLSks5dDNGX1RfeGVoS0JGaUgtWG0zb1hwbG9IajdVdklVOHNOcV9WbUhQLTNxLUZWMkFnN01qNmM0Z0V5N29ybHlId19iVEJvN05QLUxNeWw5bUpfLUlIT1JRd0o3dllwQUNoRXlMczhxc0RtZ2J5TFMxUTIyTnU0clFIWk82OWdXejBVNzZCeEHSAcsBQVVfeXFMTVdEbHdpYlh1Z2xaUDRaQUpvV0pmblBaVXZXYktOZ1FpSDBGalZ2T3NyRUw4RkhCWmJQeDVOd0lXQ0RDSS16bGVBVGdRcVQtWEJXZnlRYnJ6WmNxSi1rZkMtb2ZoNFgtVEdQWnVDS01QVXVRNU1wRWtCU0NES3ZMMUJqOUxnOUFnTk1QRXlHZm9zS1hQalROVkJ1VkpjRC1hSDJSZDVySkh1UzZBUFhEZ1VSaDNDLUh1RzkxYm9lbG5BOEhQU21rdGpkeFU?oc=5",
+          "published": "Mon, 04 May 2026 06:46:45 GMT",
+          "source": "ThePrint",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "3 Blue Chip Singapore Stocks Rewarding Investors This Week - The Smart Investor",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFMwNFRzaE1TSUpXMHllOTc2U3hkajV1RmIycEMtQ1J4RzF2dmJyQVlIbFR4eC14VnVMTUpJRVdJNkVkb0QzalllU1dzQjFrS3dyeFpnd1kwR1d3cTM3WWlCZF9vbkladTJpSmJYRVhmZHZOMGxMLW9GYk9CU2xKWFM2ckQ3LXE2clJhc00xd1NoaDJoTUE?oc=5",
+          "published": "Mon, 04 May 2026 06:00:00 GMT",
+          "source": "The Smart Investor",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Trends in Chinese Investment in Israel - inss.org.il",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01RU9wQlEydEdWYXNYekgwQlpod2c3NHVWVS1mRDNBdUFPUmRmNVBFalc3RFNWMEljLVpFcmpGenYwNlRBaHlZa3NQN3piN3dnT09OQ3ZxUnFCc2didlVQUUNqWXpiY28xdU0ydXh3LTlieWtm?oc=5",
+          "published": "Sun, 03 May 2026 14:54:11 GMT",
+          "source": "inss.org.il",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Kazakhstan’s AIFC discussing stock-trading links with Shanghai, Hong Kong - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWxETnhhbWhCNGtRckJwLVpkXzFKTjJoeWs2UDlSWHpkZWJOTFZMMFlvU3FxNG5WWlN2R0UxMjdWQjBuSEF0ZV9DbVEwTHFEbGkwMUYzbUdsSVlJUUZiWUVwczk4aENhbG1MZEpPSTFodGF2Q3BOTERhMUhJLW9HMjI3UkppZ0EyUEs2X0hxWW9DNGJodVc5SGw1SnRFS3pOODlXdllOX3FTdnFyMHFfcXMwMk5vYXVabVE0V3BhdlVXa2R1ZHpj0gHHAUFVX3lxTFBtbEROeGFtaEI0a1FyQnAtWmRfMUpOMmh5azZQOVJYemRlYk5MVkwwWW9TcXE0blZaU3ZHRTEyN1ZCMG5IQXRlX0NtUTBMcURsaTAxRjNtR2xJWUlRRmJZRXBzOThoQ2FsbUxkSk9JMWh0YXZDcE5MRGExSEktb0cyMjdSSmlnQTJQSzZfSHFZb0M0Ymh1VzlIbDVKdEVLek44OVd2WU5fcVN2cXIwcV9xczAyTm9hdVptUTRXcGF2VVdrZHVkemM?oc=5",
+          "published": "Mon, 04 May 2026 01:00:13 GMT",
+          "source": "South China Morning Post",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "BCA to scrap overseas construction tests for China, Thailand in 2027 - Singapore Business Review",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkx5QjZNbTBlQUpqeS0zMmh6aVJfd0FWNFZVUURZT0xzbkljdTB2UkIxWGlGaHMtNFlkS2lqOFdwYVFYMm5nQVMwY2pjRTlrRVFINHhwV1NNVEFjVXBzVlNyR0Z5bm5qbzlUZGRGd0tJY1lBMWhHcVlsMzI0dTZDY3R4YTB0RUctZnJ3YTd1VmRBemR1aDdmbFVETFhCN05Cc2xrbUZlb3Q?oc=5",
+          "published": "Mon, 04 May 2026 02:06:46 GMT",
+          "source": "Singapore Business Review",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Public sector banks rush to build up wealth management assets - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQay1JbFNrOF9jb1BzczBVOWIySHZMR0loZ3VEUWNkeU1Lc1p0Q0tDcmJwMlRpR09XWjdJd3FRNlJRU3NtZ3RKdDAtVEpPSENXWlJQWko1OFNwUHYyaTdKMVBCc3R3eTEwOGlhWkl4MTZuRlBPRnlDcll0WkdYaDBXZlNrRVFEdDQxd2N3azYxR0V6c2h3TXNzelplQjJqa1RFMGZLa2VCYlhBWkFBZWRjbnhkYlpva3BVdngtRVFZbHdzWGQ5Uml2dW5vd21GYWZ1aW94ckVfelY5SGk5TUs0VWJsX2VJSDTSAecBQVVfeXFMUGstSWxTazhfY29Qc3MwVTliMkh2TEdJaGd1RFFjZHlNS3NadENLQ3JicDJUaUdPV1o3SXdxUTZSUVNzbWd0SnQwLVRKT0hDV1pSUFpKNThTcFB2Mmk3SjFQQnN0d3kxMDhpYVpJeDE2bkZQT0Z5Q3JZdFpHWGgwV2ZTa0VRRHQ0MXdjd2s2MUdFenNod01zc3paZUIyamtURTBmS2tlQmJYQVpBQWVkY254ZGJab2twVXZ4LUVRWWx3c1hkOVJpdnVub3dtRmFmdWlveHJFX3pWOUhpOU1LNFVibF9lSUg0?oc=5",
+          "published": "Sun, 03 May 2026 19:32:00 GMT",
+          "source": "The Economic Times",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 13,
+      "items": [
+        {
+          "title": "What’s driving the surge in family office foundations in Singapore – and is it just tax perks? - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd012ZExJVWpYUjFvOFJQakxDMmhzWWRvYWpTUjF3WDNKWW0yaW1WQnMwSUlRSldlZXVSa1RfNzAzQU02UkdBcnpzU2IyR3RncUM0eGY1dWVTdXhwdXVadVYyVENNbXZhLXJZajkzSkRMcURrb3ZYY2tySExBZkFWZ3c5Vk9aTExhZVFHMDZMbTFFV25xdnI0QkRFQkNWQldHOUg4TmRtZ2h2aDdOOTRLZ2VkMjB2Ql9RbFNYMmZhMXE5LS1zU2Jj?oc=5",
+          "published": "Sun, 03 May 2026 23:00:00 GMT",
+          "source": "The Business Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Gulf Bank’s investment unit hires chief investment officer - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHNpS1A1eW0tcjhiWGt2RWd1Wmh3dmZ1OHFrd3pBcHBuYmJ1NXljQkh5d3ZwOVBJcks3R1pBUDM3eEF2X29KQ1ZXMk9HYno1OXY5bHRFTzR4VWJQbHlNU2xKRlJxTFlHTHZlYTEtaGthT05ic2w2MmsxNjlaQzVTTllTckxQSHp0MWllVHNueEdBMk1FWENnYmlwbGEtanhnYmtHeFBtR0k?oc=5",
+          "published": "Mon, 04 May 2026 08:54:00 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "How succession pressures are transforming family office investment strategies - IOL",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUk5YekZXVDFVNzJNX19iX0RaOWE4SnNxc1pYZ3F5VG1oZFNSTFlIbGlIaTlEMkpYZ21DSXJwWXRfZUIyTTlnMlQxMDRBY2FXc2E2a2VWREdSWUVaSXkzLVFXRmNzTWZrV1hxLU9xYXQwWEF5N2NvR0dnNVZCUFdfTkdxdUotQ3NWRnA5NjNXZF9oUnowZmdIRnpzWHdvY2tDeXllRGMtNW42dnNYU0h0Y08zVmk0enBqd0xleTZ2NHlxeHVCeVdPaGtYOE1aMk1SbFp3OTlKVW4tZ1E?oc=5",
+          "published": "Mon, 04 May 2026 08:28:13 GMT",
+          "source": "IOL",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Chokepoints - Malacca, Hormuz And The Wealth Manager's Map - WealthBriefingAsia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnB1V3ZQekZScTV4UmRCMnJWbmFMUnFzTXZuLTB2dWtMQUVBbnpMSTlrS0xVamVzY1p0SUZ0cEpqT214bmM0T3VfVV8tdWU3dlk1VDdnNTd4U05jRHY1YjZhbjhPaTc0N1RGRUZfXzIyVXZuZzFfRnAyNlg1ZHQzSFd1aHltMHc3OHlrSnRPa3pZeUNsUG1XZktfWUtsa0RENVA0UkQ4cnZNTTk4am9GODg3Tkg?oc=5",
+          "published": "Sun, 03 May 2026 14:08:14 GMT",
+          "source": "WealthBriefingAsia",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "‘We can be very annoying': iCapital's $5.3bn team on navigating war - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHZLSXY2cF9kMDIta0ZXR2JTTnl2M3VVQXpZREwxWF8zNy1iMmJJY09hMjFwUS1OUXZKa1hrazMyTUFDN3FuamNOeFgzcEVFZURXZzJsdktGejJvLTc3a3BkNXgwbHNGQlVDcFZJcmpBSmV0bmF6UUplSTZJbU1vRXpFMjFDZ3NiNVhZSzJMWkg1RGwybWNuUWZfVzItVWNQYmhFbDlyblY0R29LRUE?oc=5",
+          "published": "Mon, 04 May 2026 01:56:27 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Institutions and wealth managers in Asia propel outsourced-CIO demand in an uncertain world - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEtKTmtMaERFLUpxQ291czRXX0FSNjVhMkxScXV4SkIwWHJEMWNpc284UWM0b29nWE1zZlpXY2UyUks0ZDE1VTMxOFVSRGE3LWRmU3lFNkkyaHRkV1VDMUc3YUZORE9DeGZ2R3Rxd0d4bktMWTEwMWJBc3Y4UENxbGZSX1lUTFZWUU5sMkpwOGNXRGx4M0FkS25OYTFzTDdZck83VzF4UFZiU0wzTlB0TXpPNHRMY21EdUpybVZ5ZzBxa1pURGVtTFFfMmJnYWJOMkhQV1pB?oc=5",
+          "published": "Sun, 03 May 2026 23:00:00 GMT",
+          "source": "The Business Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "What’s driving the surge in family office foundations in Singapore – and is it just tax perks? - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQMUl6NngwbkhrcWpaMTVtU1B6RXhrcUlfY2ZzaHV6d1NPN0RieHhSYXNxdHVzQ1poQlpuNVZfcldqR0hWSVNkN0MyWEdGQUZZQ3lJcUZHS2lQclgySlRuTG1wRU0?oc=5",
+          "published": "Sun, 03 May 2026 17:00:00 GMT",
+          "source": "The Business Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "14 Best Tingkat Delivery Services In Singapore For Tasty Meals Delivered To Your Door - Sassy Mama Singapore",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW9WV1RSWmdqb09lM2MyWHF1aWVvXzktQ1N1QXk0X2NBU1l5c2VzTlc1ajlVdk9DUzA0Q1A0LWVFeHJuXzFQQkJBQ0NKZWU1cmxJaGhIWk5OWEJVeUxfWGRqcnlqc2U2TXFrcEhVMWJaQV9wTklFS29Od2p2aGx1NEpacTA1c2JoZ196Mw?oc=5",
+          "published": "Mon, 04 May 2026 06:52:31 GMT",
+          "source": "Sassy Mama Singapore",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Grab boosts GrabForGood Fund with US$3.2 million for giving-back programmes in S-E Asia - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0xTNEpFdUZ4TzBaalo5Y1hsOERyQW45Wk9ZaVMtRmE2NEQ2NlF0bnpOeF9yc2tOdVJCVDJfN2JydE1TOWdMWE9PVTQtcTFTR0lDY1FfTEI5RWItcFJSR0ZRTzB0NDJnZGJhT0tyS0ROcnVIWXgydnl2aGdDRlczMk81VU1fdmlrSmJsRzZXc2E1bXRpZHBrcXVsZUlxNExGYTFuMEw2b3pfWTJPZVRTRUhYM0d5dFBN?oc=5",
+          "published": "Mon, 04 May 2026 03:13:00 GMT",
+          "source": "The Business Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Family Office Expansion Drives Surge in Singapore Philanthropy Foundations - world.infonasional.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONl8zdHNZMzA0MWZLOHp4M2hBdjJYSms1YnZUZVdoS3ByTzdRVXZoZmlJbzQ2a2UxUFc1QkVwT0F4ekhUbjRaWm14a0QzQXp5ellNYjlLNUpyMVpEdzhjQm5KNkN0NDRqVzByal95MDZ4U1RIQjBRS0FIeU1QRXBZQ0pkaXBjMjdaVWJIRk5CVC1LZFU?oc=5",
+          "published": "Sun, 03 May 2026 23:14:44 GMT",
+          "source": "world.infonasional.com",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 1,
+    "total": 1,
+    "pos_pct": 0.0,
+    "neg_pct": 100.0
+  },
+  "top_mentions": [
+    {
+      "title": "Inside China’s massive $3tn overseas acquisition spree - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUUpnS1VCYm4wekg0WXdnNFcxdjdqa2NyNmFSSGRpeHVKTFhDNVctZEtzT29peHU4M243TTB0bEhCemtLaFJPX3dVNkI3VkFrVXRMLVIzYndwVG9kTnRnOUl1UFRoT0JUMnBkWVdXdDE?oc=5",
+      "published": "Mon, 04 May 2026 05:30:02 GMT",
+      "source": "Financial Times",
+      "query": "overseas Chinese wealth management",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "How AI Powers China’s Golden Tax System, Audits, Transfer Pricing - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGNiSUF0WWlOZl9YTXZOLXNXNVdaYXIyZWE2ekhOdV8tcDlHdUQ3a2ZsdC1nUVhkN2lNVEdTZnVJQkRUcGt1ZmstcXptNEtXOWVjMVZ6S1VpTHhUT21hdmptbDgxajVteGlQUl9TcHF4UWlzR2FzV2pHZ1p4TWZ3V2NWWHhMZ3FDSllDclh0Z1FNQ0pLWUpuaXVCM3dYaF95Tkd4ajlieDEtN00ta0I2R3NtQnVfQXlUT2JMYkVB?oc=5",
+      "published": "Mon, 04 May 2026 08:30:00 GMT",
+      "source": "Bloomberg Law News",
+      "query": "overseas Chinese wealth management",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "(NOAH) Risk Channels and Responsive Allocation - Stock Traders Daily",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS3dHSG16aEttaFBXWHRrTU0xQUZ1RHdUVWRoVlZtTFUxOVdYRFp1MVFRdElfVXhUTUJaQ2VuNnpHeWFXNDdVUUxWaVlWZTZTOGl1LVdvX3VJckpkMlh5akQ3eFZIZ2RiODR4NDlKQ0c2TXZkWE9IVjFKcHZaeWZuaGVyZkR6VWhkbG9PajVLWlRpZVZLcW1kOF8zSnBpdDh3Qm00SjUzZlM4OE5SQ2tQRVNaYzY0OXNOR0hPc2tUYTZ2Zw?oc=5",
+      "published": "Sun, 03 May 2026 17:56:02 GMT",
+      "source": "Stock Traders Daily",
+      "query": "Noah Holdings",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "How succession pressures are transforming family office investment strategies - IOL",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUk5YekZXVDFVNzJNX19iX0RaOWE4SnNxc1pYZ3F5VG1oZFNSTFlIbGlIaTlEMkpYZ21DSXJwWXRfZUIyTTlnMlQxMDRBY2FXc2E2a2VWREdSWUVaSXkzLVFXRmNzTWZrV1hxLU9xYXQwWEF5N2NvR0dnNVZCUFdfTkdxdUotQ3NWRnA5NjNXZF9oUnowZmdIRnpzWHdvY2tDeXllRGMtNW42dnNYU0h0Y08zVmk0enBqd0xleTZ2NHlxeHVCeVdPaGtYOE1aMk1SbFp3OTlKVW4tZ1E?oc=5",
+      "published": "Mon, 04 May 2026 08:28:13 GMT",
+      "source": "IOL",
+      "query": "Singapore family office",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "14 Best Tingkat Delivery Services In Singapore For Tasty Meals Delivered To Your Door - Sassy Mama Singapore",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW9WV1RSWmdqb09lM2MyWHF1aWVvXzktQ1N1QXk0X2NBU1l5c2VzTlc1ajlVdk9DUzA0Q1A0LWVFeHJuXzFQQkJBQ0NKZWU1cmxJaGhIWk5OWEJVeUxfWGRqcnlqc2U2TXFrcEhVMWJaQV9wTklFS29Od2p2aGx1NEpacTA1c2JoZ196Mw?oc=5",
+      "published": "Mon, 04 May 2026 06:52:31 GMT",
+      "source": "Sassy Mama Singapore",
+      "query": "Singapore family office",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "Nano-X Imaging (NNOX) price target decreased by 10.14% to 6.78 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZUprVUxwNWZQZ3k4VE04WkMzaEJ1SXpQaWxhLVpua3phU191SmFuVWZTSnhpS0pyZVo3ZXM3NzR2NWplZkNxS2wzdnRfbVc5Nm9HeW1tWU9Ua1hIbmxJMTdNYXpIQkt0V0NmS2hKc2V5M0FwOUI0UmEwZkJjOWpuNXVUdnR4bW9tSnZwN3hMcjNrdmNwQjBSZVd1UXRBZmsxV1d6S1B1V0NxVVpUMENVRWVUSQ?oc=5",
+      "published": "Sun, 03 May 2026 21:26:44 GMT",
+      "source": "MSN",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Teradyne, Inc. $TER Stock Position Raised by Gouws Capital LLC - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHZoM1YxRFFrSjNkZGdheURWeFAyMWRMRUp1LXdYekFxMjVDcXFZc3ZxZ3M1XzdOc2h3cDdWXzQweUtEM2VBVzJJTFdHcGZJS2hjb2k0R0hONld0RXZLWVFic1FXaGxyRFQxVDZUcHhSQ3dmalNjUW1NSzk5LXNQa0dvMFoyZUx3ZFlwNkExZ0dxc0JXVzkydlcxN0hWRm81NmZ1ZWZhTFlEb0I5eUlMaUNBUzVxbzJUSXdOaw?oc=5",
+      "published": "Mon, 04 May 2026 09:01:08 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Want to Buy SpaceX Before Its IPO? This Venture Fund Crushed the S&P 500 and Nasdaq-100 in the Past Year. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjg4UWdiQk1BcDB5TGpMek5iY0p3WkFESnM0MzRnSHNJZUxIVHNyd21kTlZGME91WF93V3F3U0k2eFduZDNEeXlZN2RGRmtmd2wtQzF0ckJmMzUxNDNsV2RTQWpyM1o3a2xsUHF0V3BmU2llZTYxaGdXaktYZjRBaHhjRHN4RXRoWUJHQzNzTnhJUlZU?oc=5",
+      "published": "Mon, 04 May 2026 08:49:32 GMT",
+      "source": "The Motley Fool",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Comerica Bank Has $3.50 Million Holdings in Teradyne, Inc. $TER - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0l4NWhndFFBdXJHQi1KLVdBN0NCeXJsSS1WSURSYS1Qc2xZMUd5UlBpcG13aVd0MHpMQ2dsMFlHSUt5dnFNZkR3eGZab1F3RVBpWjdCOGZYNlRRV05DenFHSTZwajhiVXpGX2F3djE5X0xxajBYdXlaSHBOZXVVLS1GaFNlQ1NCM0xGYWRvQUF3VlNzRkNOOEtrSlc3ODdWMnlmSWg3aml4bG9XMzBLZk9WRzJMaS1mSW40?oc=5",
+      "published": "Mon, 04 May 2026 08:08:29 GMT",
+      "source": "MarketBeat",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Jiaheda Capital (01468) acquired 15,246,000 shares of Yucheng Technology Financial Group for HKD 7.411 million. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ExLXhRUVVqMFZaRm1wQS1EVU9Bb09GT2l3YnBsY2Z2NFV0T1F1Y1haQUpPYlZaZUVOdUhST3ZSamJnYk4wbTRYc1lXaERYNG8tUlNORnlWNmc5QjhZeUdNSkJIQmt3N0phVHlFM1VSUDRXODVYLW5ZY290bDk0MVRWWURfVEpWQkNlbVA4c3lOYmtqQXN4anNtRERmMmprSDF0Snlmd0tKaTNmNi1WcHE2TXdRS0ViU1NLVg?oc=5",
+      "published": "Sun, 03 May 2026 13:54:45 GMT",
+      "source": "Moomoo",
+      "query": "Arta Finance",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}
