@@ -1,0 +1,451 @@
+{
+  "date": "2026-05-06",
+  "collected_at": "2026-05-06T17:38:46.872017+08:00",
+  "metrics": {
+    "news_noah_en": 1,
+    "news_noah_zh": 0,
+    "news_olive": 1,
+    "news_ark": 5,
+    "news_gopher": 1,
+    "news_glory": 1,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 0,
+    "news_ubs_apac": 6,
+    "news_topic_hnw": 12,
+    "news_topic_fo": 15,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 0.0,
+    "sentiment_neg_pct": 100.0
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+          "published": "Wed, 06 May 2026 05:42:25 GMT",
+          "source": "Seeking Alpha",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 0,
+      "items": []
+    },
+    "sub_olive": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+          "published": "Wed, 06 May 2026 05:42:25 GMT",
+          "source": "Seeking Alpha",
+          "query": "Olive Asset Management"
+        }
+      ]
+    },
+    "sub_ark": {
+      "count": 5,
+      "items": [
+        {
+          "title": "Monica Lewinsky told us how she really feels about retirement — and we bet you can relate - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZllTN0NITXRQWlB2WlZBSjV0R0hQN0ZhVWRDRlVnNHJWa1lBU2RSelJYZi1BSWl5RERiVnR6Vk9LMFlKZ0E5ZVV5V2JjUXcwd0NuMndWc1dTTmVVbEpZR2ZDS0dQMnlIRXFIcEV6SjFVbzk2ZV9uVXAwdlVfZ29qcVp0T25Sb2kwS0pyaU1EUDY5dDY0dTBPbldYVmlOZ0dmYVFTd2hkS1ZHbVRHZV9qcmdwMnJkeWtBLVdqaUV1MzdxS1JZNjNiNzRB?oc=5",
+          "published": "Tue, 05 May 2026 18:11:00 GMT",
+          "source": "MarketWatch",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Bill Ackman’s ‘Influencer Hedge Fund’ IPO Tanks 18% on Day 1 - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkJoLUEwVVV3bFdxQkxSLVRjNDR5aGtvS3hrYXNpZmt2bDJsWTQyT056a3ZFQmxjZXJ5bmxYdDBEVTZHUENwaG9ZbmFrQWV1ZHNtbUhFdWc1N3JTSGJzTE5VS1gxaG1DT2owZF9qOGVOZmtPY0ZPVTJqcHhOSnBvMHNORQ?oc=5",
+          "published": "Tue, 05 May 2026 13:04:04 GMT",
+          "source": "AOL.com",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Bitcoin Smashes Back Above $80,000 After 3 Months As ETF Money Floods In - Sahm",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONGxoR3E5ZC10WV8tQlJ3VjdvcW1uelZRZVVMaElVWjhvR2dBZXpmZmZXUkZBX3ViUEoteFJ3NUFqYkxxYmswRmV5QlJ3YkszSl9hTkFpQjRCVTBGUlJ0ZnBqOE42MUZhQWMwUVNyV3VNb2Y0OUZQYUlHR19LN0JueXo5aEt2SEVKTVJRVVNudFIxM2VkWC1qRzVsTW1QWWNsTE1yYVB5N3FuQzFBbUtKNG96Rm5ITEh4QWNyQThVMA?oc=5",
+          "published": "Tue, 05 May 2026 16:05:07 GMT",
+          "source": "Sahm",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Cathie Wood says BlackRock participation opened door for pensions, sovereign wealth funds to enter crypto - 디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYVcwc09BMDVyQkVPTGpqWHFxTDhKQm9jeTR4VUROSTY0dGZSZVUyU0NteWUxUzVSbGhOZ1FYTm1GbHY5ZnZiOFRRazRURVZEVjlpdkRMTWM1ZmRmdUZ6Rm1DUWRSYTgybmp4dDlzNmp6eDNUbW5NXzAwckNsbkgwQ1dIVTc4YzdvZDhzaUwtT1VRQ2Q0Z1Etb19zV1BxYWFYcjBSa1VYbTFtdHllYXRmcmtmNDVYTXRYeHBkcWN2RWhtTU4xYy1VbDRyNzZ0SmxwM1U5Z2NuUTU0Tl9KZWd2Y0JURlBWekVp?oc=5",
+          "published": "Tue, 05 May 2026 15:01:00 GMT",
+          "source": "디지털투데이",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Is SpaceX's Biggest Risk Also the Best Reason to Buy It? - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjFjaDJvZER1Q3BuQlBDTUs5dGlnV18yZkRaLXJiSy1YWVVhVEhuQ3JFY1VrekhsbFdYempBcS01NUxPTWhTYTNtRERQMV9PTWkzX0NNdjdjZmdrYzRENTIzazJ5UjBGN05BTUxHWUFlRGo5TFllWGxMOV81LTc3bk5B?oc=5",
+          "published": "Tue, 05 May 2026 17:28:46 GMT",
+          "source": "AOL.com",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+          "published": "Wed, 06 May 2026 05:42:25 GMT",
+          "source": "Seeking Alpha",
+          "query": "Gopher Asset Management"
+        }
+      ]
+    },
+    "sub_glory": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+          "published": "Wed, 06 May 2026 05:42:25 GMT",
+          "source": "Seeking Alpha",
+          "query": "Glory Family Heritage"
+        }
+      ]
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "comp_ubs_apac": {
+      "count": 6,
+      "items": [
+        {
+          "title": "UBS Builds Southeast Asia Wealth Group - WealthBriefingAsia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDh4SVBUcHNxZGhyLTFGZkQwemhTYzdxd1pzaEZUbFc5SFpHUFluNlgxc295UzJMdUJQMVlyOW5iSUtSWlZkMjhPZzltc1Y1cnFTZjd5cjFDTHAzeUUtUE92SWhmQm1zM2Y3bHZjLVNrOHpKVFI3R0VIWTV1aFJGVHZ6RklfQ1hZVktQVmYxaw?oc=5",
+          "published": "Tue, 05 May 2026 17:44:48 GMT",
+          "source": "WealthBriefingAsia",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Wealth Mgmt: Ongoing Central Bank Gold Buying to Back Prices, Seen Reaching USD5,900/oz by Yr-end - AASTOCKS.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORllaTDlNUjZlWFUtSFhEUU1yQlRvT3hTU2NlSS1ELVFFX2FrbW1kenlqdS1xdHFubUc4RjJUcmdpQXhSU3BXZm92SklFbmJWU3N2azAtQkFkTTdkZGcyWmViMDNUWXNUSEpEUWhUajZuOUxPVVh1eURTY2J5UThUODkzd2kwczNWdTd0U3l4VWxWZC1Y?oc=5",
+          "published": "Wed, 06 May 2026 07:05:00 GMT",
+          "source": "AASTOCKS.com",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Wealth Management: Ongoing Central Bank Gold Buying to Support Prices, Seen Reaching USD5,900 per Ounce by Year-end - AASTOCKS.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVBCZ1BhampRM3NqOFY5dmlXbE53aDB3akxCQ2NJcFRFcDNuN2RvVXJPa1BwX0U2c3R2czF3Z1k3Qi1yT3lsdVhLVHlxVGdvYTFMTWFWQ3NpUGsxTEFzdjJXZm1ORlBESk1VX2YzdXdya2l1T1JxczVZN0FPTzh1Vkc4ZUtoTDRHR2J2RUtCTDlGTHVQ?oc=5",
+          "published": "Wed, 06 May 2026 07:05:00 GMT",
+          "source": "AASTOCKS.com",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "Bank J Safra Sarasin Upbeat On Emerging Market Equities, Driven By Tech - WealthBriefingAsia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOai15YTZQT0VKNG5meW53QW1BZGNBcmFfM2x3OGVqaXZXQUxiZkFXLUtIdUxwLV9WZ0JEZkVnaFZSUmRMdVh6RnhwUEc5d01WZFFMeUVQN01rRmtzWERibGVsdzVvdEdvV1RYdDRDOC15QVprXzhiZktVT3d0bTJteUZrVVU3MDNfMlpOczAxVkFmZmxTOXJlY1hLWGhvYVktemRpWERGV3BBcWxLN2Y1T1U3dlQ0UU5pNUpJ?oc=5",
+          "published": "Tue, 05 May 2026 17:44:38 GMT",
+          "source": "WealthBriefingAsia",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "It’s a new era of wealth - UBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQm1RZUlhYUp0X2VUT0lCVkJJX19wTHJ0NUFOZ3VuOHFuRGphdURodS1ZcTU5MTd2Ni1VeV9JMExvODRqS3NCNEZTUFVONkNMTFlqekZqc2E4Z0pCWkFIaW9hMlo0OXhDUHFKRmxvLURxLW1DZzJpaV9VdTQ0bWdHSDlWT0t2X25JZVdib0pCcVdjaE1sbjhsNGw0bHdDZmJXZ2dYYWlWeGpWMHkyTUg1TkI2bw?oc=5",
+          "published": "Tue, 05 May 2026 20:02:19 GMT",
+          "source": "UBS",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "Evolving for real estate 3.0 - UBS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanN0RlNSQklJQ01qY3ozb2xnbS05bDhKd09QSlJGd2VPeVc1TUZjdlNjUlM2NFlRejJLZjNrLUZndWdXcGVlazlsX1J2U0NyV1VzOEk0NkRWQllYS2IzWGNkNjN3Y3hERmtNbjJ0LUdUZTY3dlB0eVg1dFZsYU5iOGcyeDhzUnBILU1qVkRjdmdQSkJjVWpGOU90NWZxMjRnaU5pMXdYOEpfTmVXV0hpbDJVTVI0N3dsSUV5WlVvVGRmX1VS?oc=5",
+          "published": "Tue, 05 May 2026 10:06:35 GMT",
+          "source": "UBS",
+          "query": "UBS Singapore wealth"
+        }
+      ]
+    },
+    "topic_hnw_chinese": {
+      "count": 12,
+      "items": [
+        {
+          "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+          "published": "Wed, 06 May 2026 05:42:25 GMT",
+          "source": "Seeking Alpha",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Reordering Central Asia: China’s Emerging Economic Hierarchy - Foreign Policy Research Institute",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHE4dHdfZXAyX0t6em5HMXU0T0IxWFI5OFFBQXc1SDhTa0J2dVdSZXZtem9ibExYTHotR0Vyb2hFNXhQdUJMUnJUX0F0aDN5QktFU3Q1NVdFd1BQdTl3N1ppWVhTUHhIU0U4c1RPN3gzenlzbnF3eng4WW9PbTlrR2UxYmliZFJnVVVZRkQtc2d0RnpYYU9IR0p3amY?oc=5",
+          "published": "Tue, 05 May 2026 17:32:29 GMT",
+          "source": "Foreign Policy Research Institute",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Matthews International Sells Futu Shares: Stake Drops to 3.81% of AUM - News and Statistics - IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWENGa3E5SFB6WnRuT24xb05EVkxDWjRiUzJBOHNHM0d5ZkgyNEJlbl9uTy0tZll1S2ZpeW9XXzBqeUxKT1h6YnNCWEV0cTdoT2pGY3N6aWtJcEZhektZLUdHTVJ4dDBZVWVnRG9URy1pNHdvaHZoaVN4bTBCNmFCR2ZaN1FFNDdLMTlIMEJyM1JGUFFHanEtblozOGJObDQ5?oc=5",
+          "published": "Wed, 06 May 2026 01:00:00 GMT",
+          "source": "IndexBox",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Premier heads to Asia on first official financial services trip - Cayman Compass",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPek5qSzlTV2dZTDFKNU16YUk4N0dIS2NhMVJBeHBEa0hYSFFEV0o0TjZ1cmNuRU1zT19LUDF0U3dRcmZnWF9DMTBJV04tdVJlUW0wRzJTZmVnTXBPQjhaa05iZmt5VGE5SGVxNVBrTW9XbzVuaUlvV1NIeG9KREtiOTRfSnAzaWlfZndMT0oxblM4U2tDTTdIOURLTl9NZWtLaG1JMmR4dUY?oc=5",
+          "published": "Wed, 06 May 2026 05:01:53 GMT",
+          "source": "Cayman Compass",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Singapore’s OCBC expands regional footprint with acquisition of HSBC Indonesia’s wealth and retail business - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVFlGUmZaMXM3Q0xOSHFyTHFPTy02X2NIdkw1dTJPNkg4cWVZb3Q1c3Q2SlZiOW1NNnZpSHNkM2JpSXdXNXFfM3YyRXFQUVJVa0NkUHRYbFlnRUx5X1MxSW9WM0xCY1UxXzFGSElldHVwSExRVFZhcm53cnlaaGZUdmg1Tm5Rb1g5ZUhtVnZHcllBWF9UM05fNU1aR21KX1N6V3Z2c1Q2eWhjVkc5d2NwR2dYdU1jRlJRaEstSFJzNUFKM0tpUzBETDdRVWFFc19HaVZ4M3JKOGRJbU81TTdQUzdMNjRpUnVHdE9nUA?oc=5",
+          "published": "Tue, 05 May 2026 22:06:00 GMT",
+          "source": "MSN",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Investors Can Find Comfort In China Overseas Grand Oceans Group's (HKG:81) Earnings Quality - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQa21qekRqdGJvQWhDWFV1ZmNwNnc0cC00OUo3Vm9FZW9wRTVsa05BalFVSi1nZWQ5X0VmUDF0Y2lrU3pJVlB6TzNNVmUwNmlFSmJpR2pWR2xQSmRmZzNEemhrVXFzZmVaYmd1NzJBMHlrR2J3cW5jX2lXd2ZFT3hkdkFpc0p4QWRwWVZjUWxqaXhXQ3pyVnZjYWtHcC1wT21VbmgxVnZWbXNScURsM3BtOE55T2QxNDJiWE83VTc4ZnpfSl9XZFRXQWhNc3dMUkh2UE85N25BMmVaQzBDaFhnamlBWlQtbFJsXzhmRktiUmVCTGtaclkzSU83eEUyLTdpcUcyWFkyeW9SQVBERFk1anJ5cTZiZEHSAZcCQVVfeXFMUGttanpEanRib0FoQ1hVdWZjcDZ3NHAtNDlKN1ZvRWVvcEU1bGtOQWpRVUotZ2VkOV9FZlAxdGNpa1N6SVZQek8zTVZlMDZpRUpiaUdqVkdsUEpkZmczRHpoa1Vxc2ZlWmJndTcyQTB5a0did3FuY19pV3dmRU94ZHZBaXNKeEFkcFlWY1Fsaml4V0N6clZ2Y2FrR3AtcE9tVW5oMVZ2Vm1zUnFEbDNwbThOeU9kMTQyYlhPN1U3OGZ6X0pfV2RUV0FoTXN3TFJIdlBPOTduQTJlWkMwQ2hYZ2ppQVpULWxSbF84ZkZLYlJlQkxrWnJZM0lPN3hFMi03aXFHMlhZMnlvUkFQRERZNWpyeXE2YmRB?oc=5",
+          "published": "Tue, 05 May 2026 23:14:02 GMT",
+          "source": "simplywall.st",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Mail Business's \"Maekyung Plus (+),\" which will be introduced from the 7th, is a comprehensive inves.. - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWjFZR1hKemZVNFVxLW5qdW9Mc1ZYb1ZCWk1Ebi1CY1h1U3JYUHdBLWxKdmlJME9xWFlfQjhVQVdUVW91TlpmcGF5eS1vTE9v?oc=5",
+          "published": "Wed, 06 May 2026 08:41:10 GMT",
+          "source": "매일경제",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "\"Even Apgujeong's Wealthy Are Selling Real Estate and Moving Into Stocks\" [Investment Strategies of the Wealthy] ② - 아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeHQ1Zkg5OWQtVzQzdExUYWZFVzcydjhJaGlNckZrc1hXQ0xXcXRiWkJCU0xaTGd1UFd2RVZDdnZhbGdmNDJyMnZ1c2h1b3IwMFR3U3NSWF8zSU1BYXJiU05LRTc?oc=5",
+          "published": "Tue, 05 May 2026 22:51:17 GMT",
+          "source": "아시아경제",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Axis Mutual Fund halts investments in 3 international schemes; Here’s what it means for investors - ET Now",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVmprNmx4eTczVGdGSmRYZ3dNQ1cweUh3UzBCVkxyRmxSdHN1ZmFGMmcwcUx4MDVPNkF5cUliUEpvby1NT2oyQnktMDN5T0pxN0tRYnVfbFBFbmowV3JsMXRxSjctYzNzUDRWQ2lQN29tUDFBTmM4QWFqQUcxbUtrdThnQnp6ZFY1QzJqeVp5WTV2eEltN1pqTmNidUpVUnNadjFwMUo1b19FQnZyNDdqam1KX3hJMElQZy03SngybkNRZ0pVTjgzU012RXB1OWJzWk41dkhPTUttWDNDZ3FzZ2NMSEQxUV8zTXfSAe8BQVVfeXFMTU9RNWtUcllGWEs2b0NXdWl2b2tTVlMtOVBfbnRBRUVhdEhMR3lBRy1lMlR6Qmt2RlJHcjJreFhfZ2pYa1dENW9YZC1HOHRBZzl4TTNVX3JnU1FjVktnQVBJaDlfXzN3UW5kblVlMzU3c3ZOY1hPQVN0UnVKajA0ZmEybWhuamRoMmJ1SFRHLVRMeUVLMGllVUlhOE51NUpkMDZDZlA2Z3d3NGRnTHZKYXh4RXotcG1rbWE1LV9aUXdyd01yTDg2eDg2OWd3MzNnVmh6Ym44c1l0S1NjdktPYUlUaml0UW81OTRkV1BjMjA?oc=5",
+          "published": "Wed, 06 May 2026 06:35:20 GMT",
+          "source": "ET Now",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Chinese electronics company Taikang chooses Tunisia for first overseas production unit - African Manager",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMVU2MkZBcUdBNmFzRzlYVDVyX0FsZ2ZvUjZwWjE4Q0VDNElJMERFMTloRXU5WkplMVJ6RzFjcU5uX01ROFhmNGNxYVF1dlo0d1FiU2E2Z1RSYVJjMHBlb1NKcWdwSXhPTlNwdV9KMGxCejdJbWtaMGpaRUE1SDRNQXR5V3ZleFNlMXktUEFEd1ZVeFJCQkNBUDhkRjFtei1ndEJKNGRtdFhaQ3RucGo0RzNYTkt6Y3Jj?oc=5",
+          "published": "Wed, 06 May 2026 08:44:14 GMT",
+          "source": "African Manager",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Silvercrest (NASDAQ: SAMG) plans May 12 call on Q1 2026 results - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0stX1NNODFEckIwV0w5cXIyYmg0UDJZT1BaeVhFcURfMF9WY0RnbHFLb1MtbkxsSnhQY2xXMC1yU25LM3o4UUdFZ1JqRWQ2V2NsWXhaUnViaWN2S0dUTTMzVEtfTlB1MGd4U2RlVi1iYkNRdHlGS29XcjhYTHVXNGg3UG5zek1oalh4N1NGWmNIM3Y4aHBBRGpFSGlHRVpYMXpYOFQwTVQtMEhnWWVHWFU1N08tSE90WW4yYTY2RFBiU3VJdlE?oc=5",
+          "published": "Tue, 05 May 2026 20:16:06 GMT",
+          "source": "Stock Titan",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Larry Fink: AI isn't a bubble, it's an asset class - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUZoZDBtSFZZTjZrdC1YSHppVE1mOG9yd01OZGprbmdjSXloS0dvSzRma29CanVnNXJUcDY4TjBSMHg1MUFHbFNlVVFtNFM5eFlkMDFldWVtWmtiWGtvcWVGNUtiVXE4Mm80NXIyWDR4bHpzbjk1bmFIMEJTb2FiSlRaeS1ERnJDczlEa3lHSXc1bVMxLW1nMw?oc=5",
+          "published": "Wed, 06 May 2026 01:41:00 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Silvercrest Asset Management (SAMG) to Announce First Quarter 2026 Results and Host Investor Conference Call - GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX1M4RkNWRjhpMUFtUnh6RW9BM1kzcDRiUU5qajlFeGRncFhQUzFDNlhWOExsWHFtd1JDMmNXRUU0Y2ZDYm9uZVlwSFJsWjB3VlEtbjFkbWtlOEE0TEZaTWZiSWt4OWlncGZrSU1ITXduYTgydjRZdXJSc2JUdER4Y0hhbEFaVTVZSV84UWhEc1dlSnk4T0xvemRDN3BBcjROM3pJOTJsQnFVYlp0cHpxNTFSaUlCWC05T09ibF9LNTBQY3NuclNwN1RpQ2d3ZG90ejJDTTlKbnk4bGgtb0RxVURmZUhDQVpFUkdERXhTXzctcUplZ2daYS1pOHJiN0xaZjl6RkhIV2NHdw?oc=5",
+          "published": "Tue, 05 May 2026 20:01:00 GMT",
+          "source": "GlobeNewswire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "SilverCrest Asset Management Sets Date for Q1 Results - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFNfWVV0QVpWLUhPdW9tTUJkOEpRcW5QalhQREpKUzM5eG5rdUtDbEJhdzJxbE9QOVdfY1lsUW1DU2ZIeS1kMHc0UXRTQnVYZ1ZwWXh6dGp3d1BTdVNqLV9ZdHUzUERzS0piZnVLQ0lCeGV5XzBqQXB0NnJ5TlcwdGdiVV8yeWdwR0tCbjJTSVRjb0hxYl9laHI3REdwSVRickNCLWE0YUI?oc=5",
+          "published": "Tue, 05 May 2026 22:17:40 GMT",
+          "source": "TipRanks",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "LIV Golf boss Scott O’Neil sees hope for new sponsors beyond 2026 - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFBJWVlyek9kNHBTRDlUYzItbnVQaUp1R2FRd09WQ2N1NGJkU2tzSktNUHBuaWtMcUNIMjFsQmVwM3dvLUlCV25rYU5iVllLbngyYXVnS1lkc1hLVWNfRFdULUdOYjVmRDhhWWE4clpjU1c4RVFJNnlGMUpYeEZJUDdKQjhXdUVtc1NYNUZ2NEthUDFsX1VkOUs5WFNCdG5xVUVZWWpnQjFXRHFrY01NNU9fOHV2bEN1UjlvUXIwdVZxR0U?oc=5",
+          "published": "Wed, 06 May 2026 05:25:42 GMT",
+          "source": "The Straits Times",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Schroders head of global equities says Iran is fuelling energy transition - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWpndnV5QUVuTUFOR1UyYjI3empQSEhvMkRDdkVpT1FqbVFYcWVHX3pPS2NzNk9GZ0hRTm1oUGhvcVQtcDdPOVg4ZWZXSjFGci1aWTFZSnBkRC1RakJkbDFHUEVkSGpmTnhNVVlZT1JWRm53NktzTm5nMklFRGVKdkJiV29IWXVhaVI5RmFQaFhFWWlZQmdzMlN4QWItSDlkc2hMOTRJT08yUjJ6THRBNHF1ZXJyQUlQbDNleQ?oc=5",
+          "published": "Wed, 06 May 2026 08:09:52 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Circulate Capital raises $220M at first close for Asia Fund II - Interplas Insights",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc180Wk80dDV4cFVPMDZsaTRVb05Mc1pXYXg2QjRRY2gwZ0RzdWJ5anY5LWFla25ZcG9sMnA5QmJVLTZLS0NEd3oyQ3gtT2dFVTk5WWprV0dhUVV4cnZpU2p2Z1o1NkJVWUx6ODVHYkpPSUN2REhMekhfQzZDREpiSlFJdGYyWEhUVzhLajBreC1Hb0dYc2dkOTNyOExyMThlaVkwNHhnTDFEWGg4SVdqRFpZNHJKWkUzcVhkQm1SUWplLVlfWmw0c3NNSlVEVGFnVEI4VllKTHpONkh6SzNsag?oc=5",
+          "published": "Tue, 05 May 2026 11:34:57 GMT",
+          "source": "Interplas Insights",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Cambodian PM’s Cousin Says Owned 30% Of Scam-Linked Firm - BusinessToday Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlFNWGdvYVhtenBvZTA5Z3FxbUlTN1RCdjdiek81M3JpMzRKSERJbW8xQ2FmaHBJQlpqVGZyYXNjZjRMcENsUDl5a0djX1gySVpmWEZ0clgtUEM5VC0zc21HUUVVQThLTGVDc0tTdzlMTlFsVEdVNm9UTzRjM3RKNDA0eWFsZmhxTDNCMk1mbWEwSUZyWTdhMWNNV2NHRS11?oc=5",
+          "published": "Wed, 06 May 2026 07:42:59 GMT",
+          "source": "BusinessToday Malaysia",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Why Ripple’s DIFC License Could Change Everything for XRP - Coinfomania",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS29HZEY0TFYzUDVLc0gtNldhbmcwM3VNY2NkT1hvZmNVSTFTRHpfS3VHcm1hYmgxRjVmaDZadmlDb1pXRmlCV2hvMWZOQkU5VG95ekJEbTV3eVFESVlndUp3UTNtYlF0UVNCLXpKNG1qQ2U0UkxadWZrNlM1SDhLYU1IZ1dXLTRM?oc=5",
+          "published": "Wed, 06 May 2026 08:45:28 GMT",
+          "source": "Coinfomania",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "KKR CEO: Wealth outflows 'small dollars in the grand scheme of things' - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmxIWmhLajkxcnlGUFB5SEhzQVRMRjc1MTFvaUx3V0QxcFJBUlN3SWVRbldsX0JDcFRhVGtxY1Uwb0dxOHduUmVKNDB3bW1vY2ljZS0yVUVDTU9YZzBNNk8xMVdUclVDdEM4XzVfZUhiQjZHSVVjYnctTm9HZW9pTUhXUkVsbEplaWJaam56am5sUlBMYmRsX3B3X2ZCallhWjBfaGZaa0ltVzdocldkZUVmVWo?oc=5",
+          "published": "Wed, 06 May 2026 01:41:00 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 1,
+    "total": 1,
+    "pos_pct": 0.0,
+    "neg_pct": 100.0
+  },
+  "top_mentions": [
+    {
+      "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+      "published": "Wed, 06 May 2026 05:42:25 GMT",
+      "source": "Seeking Alpha",
+      "query": "Noah Holdings",
+      "weight": 2,
+      "sentiment": -1
+    },
+    {
+      "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+      "published": "Wed, 06 May 2026 05:42:25 GMT",
+      "source": "Seeking Alpha",
+      "query": "Olive Asset Management",
+      "weight": 2,
+      "sentiment": -1
+    },
+    {
+      "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+      "published": "Wed, 06 May 2026 05:42:25 GMT",
+      "source": "Seeking Alpha",
+      "query": "Gopher Asset Management",
+      "weight": 2,
+      "sentiment": -1
+    },
+    {
+      "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+      "published": "Wed, 06 May 2026 05:42:25 GMT",
+      "source": "Seeking Alpha",
+      "query": "Glory Family Heritage",
+      "weight": 2,
+      "sentiment": -1
+    },
+    {
+      "title": "Noah Holdings: The Market Is Overpricing Risks (NYSE:NOAH) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdThsUm8zci14eTU1d0w1VFctRDZJX1hBOG9OczJQdVFWTm9YWjFTVlgtUXZPS054c3dNUkhIMi1JcWRxZ1BxU3NuT29kbFhjWmVPeGdYcG1LbUFWY0d5R1pBUW10V0JOZEJoTmxRNkE3U0FQWEFWYjdpMC1EWERpS2ZNR1FqVnA3aUZ3OE5lcw?oc=5",
+      "published": "Wed, 06 May 2026 05:42:25 GMT",
+      "source": "Seeking Alpha",
+      "query": "overseas Chinese wealth management",
+      "weight": 2,
+      "sentiment": -1
+    },
+    {
+      "title": "Matthews International Sells Futu Shares: Stake Drops to 3.81% of AUM - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWENGa3E5SFB6WnRuT24xb05EVkxDWjRiUzJBOHNHM0d5ZkgyNEJlbl9uTy0tZll1S2ZpeW9XXzBqeUxKT1h6YnNCWEV0cTdoT2pGY3N6aWtJcEZhektZLUdHTVJ4dDBZVWVnRG9URy1pNHdvaHZoaVN4bTBCNmFCR2ZaN1FFNDdLMTlIMEJyM1JGUFFHanEtblozOGJObDQ5?oc=5",
+      "published": "Wed, 06 May 2026 01:00:00 GMT",
+      "source": "IndexBox",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "China's carmakers chase 'Yaris moment' to ignite overseas growth - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUVxaTYxQkhKdHFINzZ6U2VXRlNHTnlxV1dlTExxSEkxQ29VS1dqNnU3QXQ5Q2l6cnJpeWlPaGF4RHJpTms4Tmh4ckc3NlhnZjdqamM0QVpGeG5WX2tTZFNpTUpLUG5MM3BpWm5ocTk3Y2U3RlR4dG5uRkllSmhwZ2FxV1hDRzFHNWU5NGxhR3BIcW1aWDNTY3dtRktjRHBUUUFEbnlERHV1c1ZJM25UcWF3?oc=5",
+      "published": "Tue, 05 May 2026 11:37:30 GMT",
+      "source": "MSN",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "KraneShares CSI China Internet ETF (KWEB) - Assessing Risk-Reward Tradeoffs of Its Linked Covered Call Income Strategy - Shared Buy Zones - Newser",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1NVbnhfZlhtTUduc1dSRzJ5RjR1NDdremxLQ2Q0SS0wVlI0QjFFNUhsOFVlMklkdUhaVHJ5bWpsSzFfQzNYRUdBQjlTUmU5WjRXYmRnTTB4RHZKTmUzdlVvQklLbDJWXzhLMzNQSXQwa3libGN5Y1VfSXlxWjd0WTFzRy1feVFPNDc1Vm1McU9WN0oxeUNjZ1V3eUo3bDRkWnZJNmR5Wi1XLXN1V2pna05ORkNJZWhzbVJTOUUyMkl2Vm1FTGI3N3hGOUxDb3V1YnhtVXZYWk9BUS1EaVI4OVB2dFRmVXFIekM5ejQ4NA?oc=5",
+      "published": "Tue, 05 May 2026 13:57:36 GMT",
+      "source": "Newser",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "Monica Lewinsky told us how she really feels about retirement — and we bet you can relate - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZllTN0NITXRQWlB2WlZBSjV0R0hQN0ZhVWRDRlVnNHJWa1lBU2RSelJYZi1BSWl5RERiVnR6Vk9LMFlKZ0E5ZVV5V2JjUXcwd0NuMndWc1dTTmVVbEpZR2ZDS0dQMnlIRXFIcEV6SjFVbzk2ZV9uVXAwdlVfZ29qcVp0T25Sb2kwS0pyaU1EUDY5dDY0dTBPbldYVmlOZ0dmYVFTd2hkS1ZHbVRHZV9qcmdwMnJkeWtBLVdqaUV1MzdxS1JZNjNiNzRB?oc=5",
+      "published": "Tue, 05 May 2026 18:11:00 GMT",
+      "source": "MarketWatch",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    },
+    {
+      "title": "Bill Ackman’s ‘Influencer Hedge Fund’ IPO Tanks 18% on Day 1 - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkJoLUEwVVV3bFdxQkxSLVRjNDR5aGtvS3hrYXNpZmt2bDJsWTQyT056a3ZFQmxjZXJ5bmxYdDBEVTZHUENwaG9ZbmFrQWV1ZHNtbUhFdWc1N3JTSGJzTE5VS1gxaG1DT2owZF9qOGVOZmtPY0ZPVTJqcHhOSnBvMHNORQ?oc=5",
+      "published": "Tue, 05 May 2026 13:04:04 GMT",
+      "source": "AOL.com",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": 0
+    }
+  ]
+}
