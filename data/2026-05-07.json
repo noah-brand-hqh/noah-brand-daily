@@ -1,0 +1,507 @@
+{
+  "date": "2026-05-07",
+  "collected_at": "2026-05-07T18:09:32.770460+08:00",
+  "metrics": {
+    "news_noah_en": 5,
+    "news_noah_zh": 1,
+    "news_olive": 1,
+    "news_ark": 8,
+    "news_gopher": 0,
+    "news_glory": 1,
+    "news_iark": 0,
+    "news_norah": 0,
+    "news_zander": 0,
+    "news_arta": 0,
+    "news_ubs_apac": 7,
+    "news_topic_hnw": 12,
+    "news_topic_fo": 15,
+    "stock_price": 0,
+    "stock_change_pct": 0,
+    "stock_volume": 0,
+    "reddit_noah": 0,
+    "reddit_arta": 0,
+    "reddit_topic": 0,
+    "sentiment_pos_pct": 0.0,
+    "sentiment_neg_pct": 0.0
+  },
+  "news": {
+    "noah_holdings_en": {
+      "count": 5,
+      "items": [
+        {
+          "title": "Noah (NYSE:NOAH) Share Price Crosses Above 200 Day Moving Average - Here's What Happened - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX29xX0RubXlmcHdnd1dfYnlad0dsV3BPV2UyRDJyRWtaMFo5V2ltM3JidXhqcjlsd2FRb2dCLS1UbkYtQXZkTTRreVJnNEpfb0RxeHVKYzZ5ZGt1a2JZUDRMdHJmMU5VRGJ5VUNFR0IzcjdrTUhXbFVtZ19lcXNwaEQ1OFFBT3BPTUZJb2syZWhDVUNpSThJWFZlblJYUDdjWG9fVGs2am8zMjhjYWNWTE1RQ3RjYl9oRExyc243WEVVZEc3SkRjZ3J6cVoyWmhIRVE?oc=5",
+          "published": "Thu, 07 May 2026 08:16:23 GMT",
+          "source": "MarketBeat",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Ex-NFL player’s company got $55K in Dauphin County gaming grants for a project that’s stalled - PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWViWklVN1BNVkhjR0p0bkxmdU5VQ3hlc1VSdXd5MUQ4M1QxZ0lyN0Z4QncwZ2RhX05TOUU0SHNXUVYtUGpGVnFGVDJXZjAzdmU0akNZdDV1ZDdTeFBjS0oyYWl1VURRSkRGcjNDdzhUeHZmMlRVWUJyOEtqaHcyMDl4VEpkdHJ4T2J1bmZHdURUcVJyMWRCNTlQekZ0SVVNaVktbWJmNVFWUXFnSVRWc21MUXNkbWVZOWhXaW5jNWZlcjJPak5TNjUzOXlQd9IB4gFBVV95cUxOQUlFcU9WS1l2RHQ0SWlSM3dmalpjTEliWTFGcnB6R2dSVHE1Tk9tdExVUWxWNnNDQ0c4N2NBMGhCWVVmVnBRVHloMTlGeUdRQ1k4dElSNEFDREI1eXFwQ0xPUzVJREZqaXV5RFFFMnhjbWtUZk9FeVA1Y0NaVzdpVXV4SjRjVS1RRFM2T0lsR292NWRFMngyeHpUdkw1c2NMTEF4T2lRdnktZUJDNkZUUnNwcTJ5TGZmWWNyb09tMklyRFFzdW51N3ZNVkNsX05oY1VYZjNlNUJkVzJObWFxaWp3?oc=5",
+          "published": "Wed, 06 May 2026 23:04:00 GMT",
+          "source": "PennLive.com",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Analysts Offer Insights on Consumer Cyclical Companies: OPENLANE (OPLN), Booking Holdings (BKNG) and Life Time Group Holdings (LTH) - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWUVzcTZuMEtVNjlsRnQ4VGVZWTBoSXQ2ZWpEZnZyUDhNa0l2Qjdsc09KQlkxNnZqRzE0cXJfZTZ5TUs5aDVVRktYMGJwUGVyWE1ISnJZdHIwdGwwTGhLMkFVdEZ1LVpuNFgwZkxfdHJtR2h4Njd1MENsc1ZOUEt2Y2ZiSG9idlpiWXduNXZkWVhrWnhLNnFaY3dvUXJmREwwSS1nMWZYZ2VmT2hSZkdUOURQQ0ZhellIOHV1NE5kMDBZdjBXSG5zb1pzVlBlLU1QWUhLM2twNWJ3OHVueHBGQnZTZkpUQ3IxbzVQTS1jbU9DbzlGRDZtdU9PR1hBdlJtRWlsVDFfaHdOVkJtajl5OWlrNXhpZXVLQ3JCNVJjSFp5eW00YWNKdi1MbjJQUDJPMGVDXw?oc=5",
+          "published": "Thu, 07 May 2026 08:57:02 GMT",
+          "source": "The Globe and Mail",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Noah Cates out for remainder of Flyers-Canes series, Christian Dvorak is 'more day-to-day' - PhillyVoice",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGtnZTZTLVBvelVUNjMtWEFHV2dOc3hhQ1pHWHphci01UVZ0QnJvWl9aRnVGLVYwbTBoVmdROHlreUJaZnFVd3ZhaDkxbU9RT0tKekwwNDMwN1EyT0tvOUlhZFFRZ3kxR1pnb1NYendNYVhfQ3pEVk5wZVdVQkJmcEZRc3FST1QzUURQeUdLS29OZHhldDMzbWRxWnZnaS1LdGc?oc=5",
+          "published": "Wed, 06 May 2026 17:57:11 GMT",
+          "source": "PhillyVoice",
+          "query": "Noah Holdings"
+        },
+        {
+          "title": "Earnings call transcript: Acushnet Holdings Q1 2026 misses EPS, beats revenue - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQSVd4aTd5WllHR2JHYXBDenB3UDFjM0pJM0MxUGd6ODdJTkUzZExtdWI3dVA2M2d1Q3RuZU1FVFNzc0NCUzRheWxfQUNFT0M2WnB2QXVrTTVaRzFsOHh4cUEzdWtlRDgzOTBmLVZnMk9MZGxrSHUzODZxUXRRcnJzRFM2Y1dZazkxMUs0R3BndFk1NmdTWGhlRExkM2xFZ1BhbGpRczNCWnA0Ty1XUy10eUp3TTJ0RTJsaTRjWnd0djYyc3NYSUtjTQ?oc=5",
+          "published": "Wed, 06 May 2026 13:58:46 GMT",
+          "source": "Investing.com",
+          "query": "Noah Holdings"
+        }
+      ]
+    },
+    "noah_holdings_zh": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Noah (NYSE:NOAH) Share Price Crosses Above 200 Day Moving Average - Here's What Happened - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX29xX0RubXlmcHdnd1dfYnlad0dsV3BPV2UyRDJyRWtaMFo5V2ltM3JidXhqcjlsd2FRb2dCLS1UbkYtQXZkTTRreVJnNEpfb0RxeHVKYzZ5ZGt1a2JZUDRMdHJmMU5VRGJ5VUNFR0IzcjdrTUhXbFVtZ19lcXNwaEQ1OFFBT3BPTUZJb2syZWhDVUNpSThJWFZlblJYUDdjWG9fVGs2am8zMjhjYWNWTE1RQ3RjYl9oRExyc243WEVVZEc3SkRjZ3J6cVoyWmhIRVE?oc=5",
+          "published": "Thu, 07 May 2026 08:16:23 GMT",
+          "source": "MarketBeat",
+          "query": "诺亚控股"
+        }
+      ]
+    },
+    "sub_olive": {
+      "count": 1,
+      "items": [
+        {
+          "title": "CJ Chairman Lee to Visit US as Olive Young Plants Flag - Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGswRGZrMGtrcDZzaVNlSkJRNUVYRXlXUVl4ZFlMMm5BdHp5Qmxfc2NQRFYwdTVLSDR6SW1neGVselFETUZxb2MtV3ZDTUdKcld5aW02UGRZN2FtajJmRDlzNkNRbXlVSkUzenFmMkhoV3ZIcEh3REh1WHJqaWNMV1lBMHFXWVF6R0twa2cwVmMyak9mNl9GbXpRdjY?oc=5",
+          "published": "Wed, 06 May 2026 22:01:05 GMT",
+          "source": "Seoul Economic Daily",
+          "query": "Olive Asset Management"
+        }
+      ]
+    },
+    "sub_ark": {
+      "count": 8,
+      "items": [
+        {
+          "title": "Wealth Club Boosts Private Markets Platform - Wealth Briefing",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeE5IQzIzclkxNDBMbXRNeUpTMENUdHRKVGF2NkJZQXZXOXI5dUkzMTVmbTVLRHFvNkVTbmdsMGVUeWd5TjU3WGNraWIwTngySzRZUmdPLW5BWWFyZ1FqZWptd2hqX19VZ0JFMnJZMko4VzRkZE1YbHZVYWc5QXdHRzRhRzlTYlNla2pSXzk4ZW5LUU5kV0E?oc=5",
+          "published": "Thu, 07 May 2026 06:40:39 GMT",
+          "source": "Wealth Briefing",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Sowell Launches Advisors Partnership Program With Backing From Merchant - FA Mag",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmxNUmZXVUhacnl5TXQ5c3htd1dYQmkxRnlwbEg5TW5ycFFzcGxrUUdSVnVrZzdNa2FVMGwxRVFJZVY3Y2VuNkpaZXU4V3gxQmpTSVZmNTdqcWhNYXZpNWE1T1gwcjh5NWZpYzQ3Nkxqc2lRMHAyYTNmd2ZDTGRJajIyakQ2Z1RjamViZTZqbXNOVDBYUWlzZmN4OFdXWE1FeDZTb3U4TkJhR2M3TnNV?oc=5",
+          "published": "Wed, 06 May 2026 15:03:03 GMT",
+          "source": "FA Mag",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Cathie Wood’s ARK Invest loads up on CRWV, GOOGL stocks before mega tech earnings day - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU2NZMWZMQlRDTU1WMUp6YXRjb0gwZGREcFpPNnpycHFHTjFKUHU4eVgzUHRzYllkR3JlUUFacFd1dFpZSnZKc2ZRWVZBVDRPSFgtcjdXUHJXWEwyanJNdDNmMS0zc1kya29BdEJua0k3SHhHQmk2bEszYlNXM1V3RHIyTDk4M1ZGY0ZzdG02TlhEMGRfa0VidmpBT2RhTTdFUnMtSk5Nd1MwTWc1cmNFQmlSMzl4dHBJOWhabU1idnI2ejA0djk1SjhKd25TTTFYOW01N2VKVDVLbWhNT3pya2dUYWdzcFpFUDhNYWFVeXZqY3c3czlN?oc=5",
+          "published": "Thu, 07 May 2026 01:03:38 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Anthropic and OpenAI launch two enterprise AI services companies with the support of major US private equity firms - BeBeez International",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRGVlYVd1UFI1SkhzRDRFZHlNbzJQZ1IxN2JRc0tWMlFVRG1sVVBtdjN2aFRSX3Q2ZE9MVXU0Z0ItRFVabUhIdm1oYlVZMDRxWC0xbDVLVVd1WkZPcXYyTzFVSFZXUlNXR3k0aXRhQ0w0bEJUVjc2NkNFZmRTT1pQakRqb2J0NDAtNW5hZzhuT3dqeWVTUnZrbVNYQWRnUmx4X21QLUEyb094R2wtdmNlNXp2XzNJV2RFYy10TkVFcEVUbFVTOG9wSzFrRUZYT2czbTJiaVVGQ3doVHZQ?oc=5",
+          "published": "Thu, 07 May 2026 07:13:11 GMT",
+          "source": "BeBeez International",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Kamal Seyed Ghaffarian Sells 141,909 Shares of Intuitive Machines (NASDAQ:LUNR) Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3hPa3ItRGpGaEtsYWhVbDNVZkVaVk5UeFo4SzVKMTJZc2VmNmxYQkY5Z3B0a0o2eHcxVXNSd2huMEpSV2cwOTdZWkt0dkpzS2wxamlQczRCZnJ1QU5OS1NPVzdSdTRUWi1NdEtXMDM5NUZDQkI5cDcza0lubzdQeGJ5N3EyTTUzS1N2aDZ3X3BaQlpKQ2V2cnBfVEZnZk1BQW0zRmk2dm1TR2R3cVYzZUttbU5FUkMweThjOG1VdXo1NHhnbmc2aHdYV0s3Zmp2?oc=5",
+          "published": "Thu, 07 May 2026 00:09:27 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "White Mountains (NYSE: WTM) turns to Q1 2026 net loss on investment hits - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTdrVXdCci0wUFdZWEVlaW1YYXRWRFhMN3ZWZE5ZWkFjU1dLTFowUDdRcDFIRkNSM2ZTVUNJSWhTSXBGalFmckpjLWpZZmVnejQwQzI0a3I4cUo0ZC12S1FuWWUwTFRpUFRKdkkyUExaYzhvak5NLVJKVUhMOUx0N0xUX3k1SHB6OWViVTc2OEF2ZzdYY0tnZkxKN1IxT3JFcUdzTzVnZ1RMekRSQzJyb2p1S0Vub0tZbXZkSmhZenBWMzYyQ1E?oc=5",
+          "published": "Wed, 06 May 2026 12:31:46 GMT",
+          "source": "Stock Titan",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Kennametal (NYSE:KMT) Stock Price Up 15.1% Following Earnings Beat - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFJ4NG1pWjdMMkJNY1ctSndsTXhGSWpIcWRyaDhXdlYyQlhsQ3cxWnVQM0I1elZtaDVZelExWDRlcUpfS1JEbjY5bEdhaGhMOFZZWU9oUWdnamRvV0U4REM3V0JqaWhNRXR6ZWh5RTViUnhwTWtzcVZxbGRteEdXMWNGVkZoTXNzZmdwSEY5Q3REVHZNdG1QSGlDdmVRQkllWXQtVFdjenpwSFNvM1R0ZHdPd3hDUQ?oc=5",
+          "published": "Wed, 06 May 2026 15:31:40 GMT",
+          "source": "MarketBeat",
+          "query": "ARK Wealth Management"
+        },
+        {
+          "title": "Ark of the Covenant's final resting place pinpointed in new search - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3pneGpuT2swZEJxa2dRRzkzcEtyMVhDUzF5QkZmMHZBbEk2Ymh3S29HMzhLWG5SdE9mb25ZQ29GTjF0UjJ5MnY5Y2dyNlRtNzQyT204SkhFTzU0WWI3YXlVeEE4Qzdfb3d0SWR2WWd1Skh6OHlZZl9aY0xJalRQb3ZkdVdiUDJ3RG4yYWNZdmI4cXhXLVQ4YnlxdG5JemhibUdabjNHYUJvTGJHck1iU185S2VGUmF6N2Y0NEZHSGs?oc=5",
+          "published": "Wed, 06 May 2026 14:01:02 GMT",
+          "source": "MSN",
+          "query": "ARK Wealth Management"
+        }
+      ]
+    },
+    "sub_gopher": {
+      "count": 0,
+      "items": []
+    },
+    "sub_glory": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Steps being taken to revive Barkur’s past glory: HK Patil - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVVtZlpNdmJYV1AydHZLaDJKNUphYWYyWjdSYVFOX2UxanBUbDgtNWNoZGR0eHpiZWNvLTBRekpKREdLWGxYTEY3YldRLTJiWl9ZTlpuTU5JNFBBTWwwZWJUVWpvZU5IWWtRbDIxVlRCd2haMFlQOExMVmRQUnNGM0RqSVBjLW4wVnFYMGhwZ3BYQzhpcEtiYnVPeXlOZmNGZVRyVF8xXzRTOExmalVYZjlYN25ueXRiYWNfUGtfUWpyelY0aklZQlhvMWI3NTBKSHfSAdIBQVVfeXFMTkVVbWZaTXZiWFdQMnR2S2gySjVKYWFmMlo3UmFRTl9lMWpwVGw4LTVjaGRkdHh6YmVjby0wUXpKSkRHS1hsWExGN2JXUS0yYlpfWU5abk1OSTRQQU1sMGViVFVqb2VOSFlrUWwyMVZUQndoWjBZUDhMTFZkUFJzRjNEaklQYy1uMFZxWDBocGdwWEM4aXBLYmJ1T3l5TmZjRmVUclRfMV80UzhMZmpVWGY5WDdubnl0YmFjX1BrX1FqcnpWNGpJWUJYbzFiNzUwSkh3?oc=5",
+          "published": "Wed, 06 May 2026 17:54:00 GMT",
+          "source": "The Times of India",
+          "query": "Glory Family Heritage"
+        }
+      ]
+    },
+    "sub_iark": {
+      "count": 0,
+      "items": []
+    },
+    "people_norah": {
+      "count": 0,
+      "items": []
+    },
+    "people_zander": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "comp_ubs_apac": {
+      "count": 7,
+      "items": [
+        {
+          "title": "A return to near-record highs is no reason to derisk in equities - UBS",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGJiemhHTkFYdmNlcUdGT011dF9KeTc0Rm00c3E2Wjh2VTJDT0ltT0s0YWJlU0hJWjlOZjd4SHk0eWJNRHJrQVRNV2dNdk45dmFKUndoT2VEUENPOG1mX3hfMGZuRWFPV1B5TzN3dkZpS1lTNUJGemJ2X3hya2oweUREdWk2b1B5c0JnajVR?oc=5",
+          "published": "Wed, 06 May 2026 13:00:20 GMT",
+          "source": "UBS",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS Reshuffles Southeast Asia Wealth Team With Senior Singapore Appointments - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUm1CNENqVXFwQWNXckZSNlVuZHZFcnRVZ3cwV0QzbmxlQkRwRUJYdFZTUDZpdFBSSmFHZ05FY2laZGFoQjVUVll0WE1leU96V0ZyRmpJSVZWX21LNmtlRXRMQ0lVdDBmTnZtS0w4VFNJVjR4blFLVDE4QmJPNXY0XzgzeEVQUXNrZklEcDJvUm8xQk1Ucm4xYXVncUdpRUcxcDQydUhTMA?oc=5",
+          "published": "Wed, 06 May 2026 16:01:55 GMT",
+          "source": "Hubbis",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "Who’s Moving Where In Wealth Management? – UBS, Buchalter, CIBC - Family Wealth Report",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0VfVHBWXzlLcXRJQmlNSFhHRDNrc283Ynk0amNSVWxJU2FtMlNsTnZZM1Bvd2w0SGxPdW1kZW5ZNS1lclZFRTgtWDRQQjYzN3d5NHJ4clA1RkxDYUR5bDJKbktxek11cVBSdXNlTmM2UFJtY0RlTmpGVlpEZTUwTXdFZkZLNWVKc3hLX2RyUC1VLWVHaFJFcjctZERUYzN5NXdveDE5bmRQQmxxVFpzZTl2clV0Wk5mWEZaRTZ2b1NZV2ZBanVtdlhQbTVLQUkyLXlmWkI3bkdSdUU?oc=5",
+          "published": "Wed, 06 May 2026 10:59:21 GMT",
+          "source": "Family Wealth Report",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS CEO Ermotti Considers US Acquisitions for Wealth Expansion - world.infonasional.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PU29acUEyWEtlVGZRVnB6emJORHZjNjlBNXRJTEhxUHJSM0JjeFhxeUkwVGVlaWJtVEZkd0xqVWZLZU5TQVFFZGpkVWlBY3c4Z1o0WHJMNkxrQ0V4RW1iamNfakZzSUxWNEtIMEF1NU5URDA?oc=5",
+          "published": "Thu, 07 May 2026 04:22:13 GMT",
+          "source": "world.infonasional.com",
+          "query": "UBS Asia wealth"
+        },
+        {
+          "title": "UBS overhauls management of $6.7bn IG fund suite - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTAtZlpzNkExbm9OTE9TUXVtLWhKbFFQM29zYXBaZWNUSEFaS3ZKcFpCcmFJQmc2WjJnVTNRYTlCUjBqTjE5b3EwRGc2bXo5U0N3MVN6WWdfY3VOUDBoTzlQd1NtLUc2NWszcVdaN1d0TXEtZ1V6bGM5ZzB0UWkzbTAyRTl1d2tyUXpoSnB3d3E?oc=5",
+          "published": "Thu, 07 May 2026 03:42:48 GMT",
+          "source": "Citywire",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "UBS CEO Sergio Ermotti sees acquisition as an option for US growth - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWN3bXNkYnFta3pRdl9oRVU2WDc1WS1LZUN2bFVpZ20zZ1dLU2JGVU5NOVh6M1JVMFh0cE5WOVFtNG5mYmk3dThuRERYWUZIVFlUN040Zkw0ZlJoc0NCR29DRWF3THJNaUdnek5nWGdmQXBsQzlldWVLekRBSU9PNzFrb19hdk1JNmhqcDYzMEFOWllfelZzUUJWaUt4WnhwS1NqQV80RW5JQ0diaUFJQmg0V0piYWxFNjJ6aUlVbHQ?oc=5",
+          "published": "Thu, 07 May 2026 04:20:00 GMT",
+          "source": "The Business Times",
+          "query": "UBS Singapore wealth"
+        },
+        {
+          "title": "UOB Targets Doubling Wealth Management Income by 2030 - world.infonasional.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rMmdwRnRrcHktRXFEN183UHdEbVBFTzllQU11Z3g1TUlpeVctQnQ1d2xvLTZvbmhjWC1rOElsRUtqTlk4MEJIYV83QS1tODF3eVNTZVhhOUZQbW1SMVJmTjFWY0RSeXY3TkFBUXhDaTIyUUlF?oc=5",
+          "published": "Thu, 07 May 2026 05:00:16 GMT",
+          "source": "world.infonasional.com",
+          "query": "UBS Singapore wealth"
+        }
+      ]
+    },
+    "topic_hnw_chinese": {
+      "count": 12,
+      "items": [
+        {
+          "title": "Middle Eastern banks tap China growth by beefing up presence in Hong Kong - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1NYcjBJdXRBdGYzbEdFT21UV2VxbmdocVlSMmpRRFh0OHdNXzc0RjlxVFRGdU1hdzk5RUR2Um5pLXdZTl9fdTlkLXBidmwtTXZoLXRDNElIWjJhTnpOMWZtREtjV2NtdDd2NUg2Wlo4TGNjTEFOM1hzRGIteUMtdEVQOXFFOEZqTzIwTkdnSnZkUzB4WTFXYmIwVjgzenQyY1hqNXFseHVhdWZidWdOOTFXYVNVQVBKNXFnUXBSSHVIZw?oc=5",
+          "published": "Thu, 07 May 2026 09:06:31 GMT",
+          "source": "Reuters",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Foreign investment is not making friends for China—or the US - Brookings",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0RWRmU1UDBxS0Yyb1htM0M1dGl4WDR3NE5iQ1pmUGVncEFUOTVHMDdTNWpudmoxenRtTjdQZ256Rmd1UUlXZDZqclNUQjBNSm5Da3VpWDJaQkVaTVZfRWF2NnZVNTdtNVBfS0cwc1h6bWlJSG9DRDB4OWhCTGJUd2RsVlhqNTJFa2h2UHVmTmdyNTlHRnVacEFFODE?oc=5",
+          "published": "Wed, 06 May 2026 14:04:11 GMT",
+          "source": "Brookings",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "OCBC’s Q1 2026 Results on 8 May: 4 Key Developments Dividend Investors Should Watch - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtRXZza3lQQTM1aWxOY3lzWGNYZi01c0RiR096V25sR2t6M0JjVWR1WUFzb25iVi1iZ0c1ZFdfc2dtWDFsY0duemt0ZzZNbnZSTmh0bFZ5b0U0TVRKMjZlcnBGelJHdlc3YVM1Y0g1T2tlV2RsNjRHd0pGTQ?oc=5",
+          "published": "Thu, 07 May 2026 09:30:00 GMT",
+          "source": "Yahoo Finance Singapore",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "RMB's role as international option grows - chinadailyasia.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yZTVIOWxqUVZKS3BRXzAyT0o4MXV1Yl9NQVpZWXFYdmFtSTFEN2JrcWExMTUyVWRseFZoYTRkdTkxUDJ2WXBQZWFPR0h0cGxObERsN2lVZjU?oc=5",
+          "published": "Thu, 07 May 2026 02:37:50 GMT",
+          "source": "chinadailyasia.com",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "China Overseas Land & Investment (OTCMKTS:CAOVY) Sees Large Volume Increase - Here's Why - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2ZvVklScGNQMlBzSEZ1cXp0TUdocGtfeUw0TElicDNHQTdBTmJzWDM4LUlkUmFjdXcyeDNDdUd5YjdoRE5jV29IallSUTd3VFVXVzdwdzYzcVN6dHpxR3NwcU50MmVMbTRqdlF6amEyTW1QbjJ6RXEzSldjQzVpZUN2Yy1oN1pEU3F3dmVXVVRoZThwTHlHU1FieVptU0lpdGN1SUU5Z1c5NFZVVVBacW0wemk3ak9meVBGbDFzaWx6V29QcVUyZmk5c1RWWmM?oc=5",
+          "published": "Wed, 06 May 2026 22:14:50 GMT",
+          "source": "MarketBeat",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "Singapore bank UOB aims to double wealth income by 2030 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW42TnotbFJfa241R00wRHBTVndOMmNNeEk0T0FoZFhIU3p4aW04MnFkUDFtaGVZSURIWFVjbDhLdUlNRHp6TGtzUnNzR3JlUC1VWFdyNFdNcHo3T29SSDM2Q2ZwanBuUk8zRmVaRjRHVVB1ZXZlb0ZlMkE0SGN4SWprTTA3VWhmNG5SaVFzSHZ6UFQwZHl6c0JfOFoxTFFRYlY4czVVWk01Qm5wbFdLSXdvZlhWZw?oc=5",
+          "published": "Wed, 06 May 2026 23:04:00 GMT",
+          "source": "Reuters",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "E.Sun Financial posts record Q1 profit - Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNGs4NnM4OE5veHRNZ1dOUktqb1NHM1FhNFVfTm14QlhBZnJkTWFSY2x6SkhsZUxGeGltaUxaQmVRbnAxbGwwcFlhNGdOWlhaSDliOFVOLXRVRE1vcUlqTWpUbUc3REJDcUxZUFJqQkRZVkN3VlE?oc=5",
+          "published": "Wed, 06 May 2026 16:00:00 GMT",
+          "source": "Taipei Times",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "UOB's First-Quarter Net Profit Fell on Softer Operating Environment - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUs2VF9zYnhnM2l4NExlLVpnNmliQkJHNTFTVmJwYWdJRUpDUDFGVW1LcW1aZnM5WGV2WnY4TXhRNlFZeENSaklrWU9zQWV3MGVuTVNWcTFRQy1DcFZHRDVHUEFpdVp6YmVsWGZvUm1qV1ZIODdiUl9Xb1BOUGZyTjdxT3ZfdjJJTmR2V2VFX2YwUnV6VDlMZzJFMHJSUm5Xd0N4eEc2T0p2NC1xWEtzTHRiMUpXZ3ozQWdaV0NzbTg2WUctUXhRQ0RROU8?oc=5",
+          "published": "Thu, 07 May 2026 01:30:32 GMT",
+          "source": "Moomoo",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "UOB gunning to double wealth income by 2030 - The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzhHWm1rNTYybkl4eEFiZjYxMDFjYURycXBhVnc4ZHRRT3VpejA1N0ozQkg1Mm5WMW1DOWZvbm4yZ2d4NWZINUVSeVN0UlRHRHRhcUtZVmJEUFNSc0lHeWFwZkc3MFZDWGFpZXdBYmxGVTNLOUVEY2piRy1IcV9iYlBnblU4Wl9XbXQ4b3VzbkdHZjFFTWoxWE1n?oc=5",
+          "published": "Thu, 07 May 2026 05:18:12 GMT",
+          "source": "The Edge Singapore",
+          "query": "overseas Chinese wealth management"
+        },
+        {
+          "title": "A Look At China Overseas Land & Investment (SEHK:688) Valuation After Strong Q1 Contracted Sales Update - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWGdVV1NpMi03MXp2SmhMTnljM2YzMEVENVRVeFY2c1BoUW1vLXJKUmszVmxTT3NxV3YtcEpQN3cxbEE5UzF2QVVxeFItYk5qWXh3WHFiczNLZl9XV3pUUHFiWTRRNWhPOXU4elFydXlNckVQaTkycGtSemRDREQ1Vzc1VGgzNF9VQlk3bTAzSFREQzMtOHY3N3hWb0wxMkhQelpTUlhRVTZDaHJEdG1LVlVzWTBuMHZPaGVQeGtBZkhRNm9teU84bEVnNlFaMmtJaVNnX3RwTThHT3lGenpMZ1BaU3lZcGVMSkNkX3QyZWM2c3B0YzVaLU9uRjM5N1FtaGwxNXpCOHIxODBsYWJLSVdB0gGXAkFVX3lxTE5XU2lwYVVydW9heXRHZElETFU3NjV4RG5sQzR1X2JJRUtBQmFRcDM3Ukl4UGNveHpVQjdjZko1SnNQc3dscU9pWTNwMmxxbE1UM1RwOGdSOHh5UmpyVDVpdVViRTVOTnAweV9SSU1sMjVCYmpRa0JhcXFsV0hJOGdHUWVNNHl0eV81QklMcGVJdU5tNXpsTDZWeFJVdzVncW92X01xRElFcE1jT1ZqMFdjNFROb2NmOTV2T1ZWVlJIYW9CYko1S05VREk2R1F0b2txVWFfVF9FNUxVU2pOQWVyMDVvbHk2VWNOWl9DWUFvZ1NicjB4dndjT2RKcVdvczJqV0tWWE9qYm5rWE5TNFl1ZWxFbUpsUQ?oc=5",
+          "published": "Wed, 06 May 2026 16:23:44 GMT",
+          "source": "simplywall.st",
+          "query": "overseas Chinese wealth management"
+        }
+      ]
+    },
+    "topic_family_office": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Avenue Family Office: Scale, Conviction and the Case for Human-Centred Wealth Management - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEVoMG1lSzRzRHJQNkZPT0lDclhELWp3QXczSkNwbE1fMFYtRDRjTjB2Si1GNWoyWlNDV1pEUmlNNF91Y0VTWWNJUE5HLTcxa0dsbmpXVHNsUnNiUlRPRU5PRk5RYXhQNGRQMWszQml1REFMWkV0a0hUNldZU2VLRmJGRTlMMlF1WVBHcVdUZlFmQkE4V0E4ZWZxN0hGYnZhUDZqWTNIemIxV0k3QTlkemdWRWE4MElU?oc=5",
+          "published": "Thu, 07 May 2026 07:50:27 GMT",
+          "source": "Hubbis",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Singapore family office bets on Asia's pre-IPO edge - AsianInvestor",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlNyMzdGN255aldRY3o1YzNSc19vOGxfeThTMmI0cjQzV1J0NnBocWJxWDZqU3poVG1ubUhMMUVIaUR3Q05XTXBxa25tbFNHLXFfZXJsVHBvOUNtTDR3cERpdkthNGsyamtmZzlkU3dtdHRNamhja3cwcDA0WWU5WGR1SFZKNmo4aUpWUk5SNlQ0c0xfRFNOWUVTbw?oc=5",
+          "published": "Thu, 07 May 2026 09:55:27 GMT",
+          "source": "AsianInvestor",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Rockstead Capital: Holistic Advice, Bespoke Structuring and the Expanding Role of the Independent Manager - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkRRaW92WWU0LTRuNmlpR01qazRaRHFfeFQtaTlaemhNVGczVlBKTTQ2aXBWS2hzWmxCdkR2Y25qU2ZHMW9BWjcwOTFlWlg2TW5HamVGeEhtZmhnOHItdG9Ydk9tWEZCV3dFSHJKZEE5V2podDRCMEJNdFRydVh5Wk5PSGVmU1U2OUlIMUdLRENWaHgtcTNFMjluQkRGalZ3dEVRTnZ5Y2hYdW5Lek82YWZJRzBBLUs4RnNGM0V3MUFubjNhSVhqWlpEUHZYM1U?oc=5",
+          "published": "Thu, 07 May 2026 07:50:27 GMT",
+          "source": "Hubbis",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Singapore must sharpen anti-money laundering enforcement, watchdog urges - Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcm1iOHJueUhZR1QtSEl6M1VOSzVWYjIxVWVWRE9vVkN6SkNWODdoMG1TUFJwUUp2T0JrUjBwOEQtd3pRM05WdG9PbTBYY1FHVk5sbDFJUWVrWE51LWZ2TGdWcU1vT1BMMGdoYVJGS2ZOYVZNY19IUy1JVldtdmdscVNhNGwtdFVDd3pUcHk5RENLa3U4M202UElERjRrc0Y1T0tKQkVFNA?oc=5",
+          "published": "Thu, 07 May 2026 05:03:00 GMT",
+          "source": "Yahoo News Singapore",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "UBS overhauls management of $6.7bn IG fund suite - Citywire",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0VEQWhjeVM3RmZZZGF6NTAwaUNMN25sVWJQM1NOcTlxaWxPN3VkWklOY3ppWkYxdzMtZnJZMTVFTnd4dFlTU1IweEUxdGhpZ3RjV0tsemRxbC1CM1lsMXczWWdQVk1nbEdkd3d3QUZDLVRxOG90X3pCN3RDX2JZSl8tZENjMVRycDRrOHBsdmJWXzREaXFfSG1R?oc=5",
+          "published": "Thu, 07 May 2026 01:41:58 GMT",
+          "source": "Citywire",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Onshoring to GIFT City: Strategic Advisory for Indian Family Offices - India Briefing",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlZ1UjhsU0ZxUkdBUlVCSFVlOWJiS0RfWmkwc3lwTElyUlJkd2pyMmd3dkk1MGNiY0tUREtUbXRxcFI3WDdPNjZWSkdMdXFiWUVrMUNCXzhJVWdMdUxnaVRnTTNSSDFwZWhmczRIdDY3TGh1X09rX2puanNLRkEwcFhKQmFPM082azlBZ2phTTZxMk0?oc=5",
+          "published": "Wed, 06 May 2026 13:07:05 GMT",
+          "source": "India Briefing",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "PREVIEW: Family Wealth Report Family Office Cybersecurity Forum 2026 - Family Wealth Report",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXFxRFc2RzZ4R0VsaDVoUzdTODlMbWxyZWRfOFhxbkdoVHpOdkRfRWVZSDEtV1JySm8wT2QwejdDclU4YlJ3M3BaTjVYNDdmbFBwZThzclFNVmFJWWxabTNDTExrSWllVlRNbXUzc3FBa0hwS3Yzd1pfYXdTNVF0ZEVZczNOS3ZSVWtjWm5YbkhVMWE3b3dSTDktcExoZ1VGRnNNc0k0QVpseURSOE94TV9IeUdVOUtl?oc=5",
+          "published": "Wed, 06 May 2026 11:57:07 GMT",
+          "source": "Family Wealth Report",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Golden Equator Group: Scaling the Family Office Model Through Structure, Access and Next-Generation Engagement - Hubbis",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTQxdk1hdTlZMm9NX0dKbGdpbDVlOUdZSmpsOGY0SVZEc2U1dS1TQk51dElST0xZdnFoODFZdXZRcWJJbnFsbTRxVTNvQjE4Y0RVS3pSamd0eXp4YlMzVUpFTEpvZUdpVmswemtmWm9ZQVlsQ3hOOFNOaEQ2MVNuYnBSWE5KX3RVT3N3MEJ0S1NKelktVGRja1UwZVZCaHdXbFgtcllVNzJOTlJ3aE82R2U3TmhMdlB6UURCWlU3NUtpZEQzOEwxbG1zQ0tKV0xOaXRjZkhB?oc=5",
+          "published": "Thu, 07 May 2026 07:50:27 GMT",
+          "source": "Hubbis",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Skyroot Aerospace becomes India’s first space-tech unicorn after $60 million fundraise - National Herald",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ29Vb1BvNVlmTXNsYmVZN01BMDh1a1dXTEUzWDBKWXlsVGpienR2ajh6SldndnUtQ3RxdEYzcmNQc1pBbW52SGRDcFBjci1LZTdqVFZ6T2xzcHN2cEFyZlppTE5sc0pvYjU0d2FsalJuTWVtcndXeXE5OUhMV1ZoUDFDTE5NUzVFUTNFWUg3X3EyZHp5dVhjU3d3S2VYd25ESlB4MWNzWUNpQWJNejJlZFFLaEM3dHRKVXJzV0N5YS1RYV8yZW85YmZIUTQ3cjNNcE1FbFZ30gHWAUFVX3lxTE1Db1VvUG81WWZNc2xiZVk3TUEwOHVrV1dMRTNYMEpZeWxUamJ6dHZqOHpKV2d2dS1DdHF0RjNyY1BzWkFtbnZIZENwUGNyLUtlN2pUVnpPbHNwc3ZwQXJmWmlMTmxzSm9iNTR3YWxqUm5NZW1yd1d5cTk5SExXVmhQMUNMTk1TNUVRM0VZSDdfcTJkenl1WGNTd3dLZVh3bkRKUHgxY3NZQ2lBYk16MmVkUUtoQzd0dEpVcnNXQ3lhLVFhXzJlbzliZkhRNDdyM01wTUVsVnc?oc=5",
+          "published": "Thu, 07 May 2026 06:24:32 GMT",
+          "source": "National Herald",
+          "query": "Singapore family office"
+        },
+        {
+          "title": "Skyroot Aerospace becomes India’s first space-tech unicorn, raises $60 million - The Hans India",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnRTeExlY1dueWt1ZTNBXzVoN0l6ZkU2LWdpOWZNTVEtUWxWVFFJZ2lubk14SFFGYndNa2toSkMtS0FZbzRKd0VxeFhHaTZqWEpuZ0Y0emxRcXF1T3dTT2J0TTc2bmFvenRjV3R2SWZvTDFUaVI2T3VtLWlPM2t2Qi03X3VLRmJsMW5BWktINmJJaU0wbHUyRkRWdHhTOWc5R0VuS2pIZHpPeG5GbjEtLWRNUFBUb3NPWWdtT3lLbDlWTWxa0gHKAUFVX3lxTE0xVXYxZGVOamVwMzVYVU1QcGxmbVlxZU5zSlRxSnZZcXlJTFlaQWE2bmI4bm9fakJvQzkwamhSX2FYT05yV252Wk9kS0gyXzExdXB0NFRIQS13S3BWUTZucXlYUXVQMlVzcWcwVVJsMWdfYzNuUHF5Wl9mTjZwQ29fazhTdGVuMjNBTW9NekRnaXZPakZwTHZsQmtNVU9CWVBtME1aS2doNER1MjRtRnU2cjh1ZnR6eS1YTzBDalNfZF9tWF9fQXgtMUE?oc=5",
+          "published": "Thu, 07 May 2026 07:30:13 GMT",
+          "source": "The Hans India",
+          "query": "Singapore family office"
+        }
+      ]
+    }
+  },
+  "reddit": {
+    "noah_holdings_en": {
+      "count": 0,
+      "items": []
+    },
+    "comp_arta": {
+      "count": 0,
+      "items": []
+    },
+    "topic_hnw_chinese": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "stock": {
+    "error": "no data"
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 6,
+    "negative": 0,
+    "total": 6,
+    "pos_pct": 0.0,
+    "neg_pct": 0.0
+  },
+  "top_mentions": [
+    {
+      "title": "Middle Eastern banks tap China growth by beefing up presence in Hong Kong - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1NYcjBJdXRBdGYzbEdFT21UV2VxbmdocVlSMmpRRFh0OHdNXzc0RjlxVFRGdU1hdzk5RUR2Um5pLXdZTl9fdTlkLXBidmwtTXZoLXRDNElIWjJhTnpOMWZtREtjV2NtdDd2NUg2Wlo4TGNjTEFOM1hzRGIteUMtdEVQOXFFOEZqTzIwTkdnSnZkUzB4WTFXYmIwVjgzenQyY1hqNXFseHVhdWZidWdOOTFXYVNVQVBKNXFnUXBSSHVIZw?oc=5",
+      "published": "Thu, 07 May 2026 09:06:31 GMT",
+      "source": "Reuters",
+      "query": "overseas Chinese wealth management",
+      "weight": 3,
+      "sentiment": 1
+    },
+    {
+      "title": "Singapore bank UOB aims to double wealth income by 2030 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW42TnotbFJfa241R00wRHBTVndOMmNNeEk0T0FoZFhIU3p4aW04MnFkUDFtaGVZSURIWFVjbDhLdUlNRHp6TGtzUnNzR3JlUC1VWFdyNFdNcHo3T29SSDM2Q2ZwanBuUk8zRmVaRjRHVVB1ZXZlb0ZlMkE0SGN4SWprTTA3VWhmNG5SaVFzSHZ6UFQwZHl6c0JfOFoxTFFRYlY4czVVWk01Qm5wbFdLSXdvZlhWZw?oc=5",
+      "published": "Wed, 06 May 2026 23:04:00 GMT",
+      "source": "Reuters",
+      "query": "overseas Chinese wealth management",
+      "weight": 3,
+      "sentiment": 0
+    },
+    {
+      "title": "OCBC’s Q1 2026 Results on 8 May: 4 Key Developments Dividend Investors Should Watch - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtRXZza3lQQTM1aWxOY3lzWGNYZi01c0RiR096V25sR2t6M0JjVWR1WUFzb25iVi1iZ0c1ZFdfc2dtWDFsY0duemt0ZzZNbnZSTmh0bFZ5b0U0TVRKMjZlcnBGelJHdlc3YVM1Y0g1T2tlV2RsNjRHd0pGTQ?oc=5",
+      "published": "Thu, 07 May 2026 09:30:00 GMT",
+      "source": "Yahoo Finance Singapore",
+      "query": "overseas Chinese wealth management",
+      "weight": 2,
+      "sentiment": 1
+    },
+    {
+      "title": "Earnings call transcript: Acushnet Holdings Q1 2026 misses EPS, beats revenue - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllQSVd4aTd5WllHR2JHYXBDenB3UDFjM0pJM0MxUGd6ODdJTkUzZExtdWI3dVA2M2d1Q3RuZU1FVFNzc0NCUzRheWxfQUNFT0M2WnB2QXVrTTVaRzFsOHh4cUEzdWtlRDgzOTBmLVZnMk9MZGxrSHUzODZxUXRRcnJzRFM2Y1dZazkxMUs0R3BndFk1NmdTWGhlRExkM2xFZ1BhbGpRczNCWnA0Ty1XUy10eUp3TTJ0RTJsaTRjWnd0djYyc3NYSUtjTQ?oc=5",
+      "published": "Wed, 06 May 2026 13:58:46 GMT",
+      "source": "Investing.com",
+      "query": "Noah Holdings",
+      "weight": 2,
+      "sentiment": 0
+    },
+    {
+      "title": "Singapore must sharpen anti-money laundering enforcement, watchdog urges - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcm1iOHJueUhZR1QtSEl6M1VOSzVWYjIxVWVWRE9vVkN6SkNWODdoMG1TUFJwUUp2T0JrUjBwOEQtd3pRM05WdG9PbTBYY1FHVk5sbDFJUWVrWE51LWZ2TGdWcU1vT1BMMGdoYVJGS2ZOYVZNY19IUy1JVldtdmdscVNhNGwtdFVDd3pUcHk5RENLa3U4M202UElERjRrc0Y1T0tKQkVFNA?oc=5",
+      "published": "Thu, 07 May 2026 05:03:00 GMT",
+      "source": "Yahoo News Singapore",
+      "query": "Singapore family office",
+      "weight": 2,
+      "sentiment": 0
+    },
+    {
+      "title": "White Mountains (NYSE: WTM) turns to Q1 2026 net loss on investment hits - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTdrVXdCci0wUFdZWEVlaW1YYXRWRFhMN3ZWZE5ZWkFjU1dLTFowUDdRcDFIRkNSM2ZTVUNJSWhTSXBGalFmckpjLWpZZmVnejQwQzI0a3I4cUo0ZC12S1FuWWUwTFRpUFRKdkkyUExaYzhvak5NLVJKVUhMOUx0N0xUX3k1SHB6OWViVTc2OEF2ZzdYY0tnZkxKN1IxT3JFcUdzTzVnZ1RMekRSQzJyb2p1S0Vub0tZbXZkSmhZenBWMzYyQ1E?oc=5",
+      "published": "Wed, 06 May 2026 12:31:46 GMT",
+      "source": "Stock Titan",
+      "query": "ARK Wealth Management",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "A return to near-record highs is no reason to derisk in equities - UBS",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGJiemhHTkFYdmNlcUdGT011dF9KeTc0Rm00c3E2Wjh2VTJDT0ltT0s0YWJlU0hJWjlOZjd4SHk0eWJNRHJrQVRNV2dNdk45dmFKUndoT2VEUENPOG1mX3hfMGZuRWFPV1B5TzN3dkZpS1lTNUJGemJ2X3hya2oweUREdWk2b1B5c0JnajVR?oc=5",
+      "published": "Wed, 06 May 2026 13:00:20 GMT",
+      "source": "UBS",
+      "query": "UBS Asia wealth",
+      "weight": 1,
+      "sentiment": -1
+    },
+    {
+      "title": "UBS CEO Sergio Ermotti sees acquisition as an option for US growth - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWN3bXNkYnFta3pRdl9oRVU2WDc1WS1LZUN2bFVpZ20zZ1dLU2JGVU5NOVh6M1JVMFh0cE5WOVFtNG5mYmk3dThuRERYWUZIVFlUN040Zkw0ZlJoc0NCR29DRWF3THJNaUdnek5nWGdmQXBsQzlldWVLekRBSU9PNzFrb19hdk1JNmhqcDYzMEFOWllfelZzUUJWaUt4WnhwS1NqQV80RW5JQ0diaUFJQmg0V0piYWxFNjJ6aUlVbHQ?oc=5",
+      "published": "Thu, 07 May 2026 04:20:00 GMT",
+      "source": "The Business Times",
+      "query": "UBS Singapore wealth",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "E.Sun Financial posts record Q1 profit - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNGs4NnM4OE5veHRNZ1dOUktqb1NHM1FhNFVfTm14QlhBZnJkTWFSY2x6SkhsZUxGeGltaUxaQmVRbnAxbGwwcFlhNGdOWlhaSDliOFVOLXRVRE1vcUlqTWpUbUc3REJDcUxZUFJqQkRZVkN3VlE?oc=5",
+      "published": "Wed, 06 May 2026 16:00:00 GMT",
+      "source": "Taipei Times",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 1
+    },
+    {
+      "title": "UOB's First-Quarter Net Profit Fell on Softer Operating Environment - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUs2VF9zYnhnM2l4NExlLVpnNmliQkJHNTFTVmJwYWdJRUpDUDFGVW1LcW1aZnM5WGV2WnY4TXhRNlFZeENSaklrWU9zQWV3MGVuTVNWcTFRQy1DcFZHRDVHUEFpdVp6YmVsWGZvUm1qV1ZIODdiUl9Xb1BOUGZyTjdxT3ZfdjJJTmR2V2VFX2YwUnV6VDlMZzJFMHJSUm5Xd0N4eEc2T0p2NC1xWEtzTHRiMUpXZ3ozQWdaV0NzbTg2WUctUXhRQ0RROU8?oc=5",
+      "published": "Thu, 07 May 2026 01:30:32 GMT",
+      "source": "Moomoo",
+      "query": "overseas Chinese wealth management",
+      "weight": 1,
+      "sentiment": 1
+    }
+  ]
+}
